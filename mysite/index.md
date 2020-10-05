@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[My CV](https://github.com/mikel-egana-aranguren/cv/raw/master/mikel_egana_aranguren_cv.pdf)
+
