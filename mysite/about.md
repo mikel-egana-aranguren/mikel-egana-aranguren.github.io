@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Short bio
+### Short bio
 
 My name is Mikel Egaña Aranguren, and I am an Assistant Profesor at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems, Bilbo, Spain. 
 
@@ -12,11 +12,11 @@ I’m a biologist by the UPV/EHU; I also hold a PhD in computer science and an M
 
 My research interests revolve around the idea of making the publication of data following FAIR principles (Findable, Accessible, Interoperable, Reusable) easier and more efficient.
 
-## Curriculum vitae
+### Curriculum vitae
 
 [My updated CV](https://github.com/mikel-egana-aranguren/cv/raw/master/mikel_egana_aranguren_cv.pdf).
 
-## Profiles
+### Profiles
 
 You can find me using other resources:
 
