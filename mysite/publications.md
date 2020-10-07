@@ -4,11 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-A list of my most important publications follows (To see all of them, please refer to my <a href="http://mikeleganaaranguren.wordpress.com/curriculum-vitae-2/">CV</a>). Many of them are <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">Open Access</a>; a PDF is attached to the ones that are not.
+A list of my most important publications follows (To see all of them, please refer to my CV). Many of them are <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">Open Access</a>; a PDF is attached to the ones that are not.
+
 <h2>Journals</h2>
 Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web service workflows with Galaxy and Docker. GigaScience 2015: 4(59). [<a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0092-3">GigaScience</a>]
 
-Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and Egea-Cortines, M. Quantitative evaluation of bias in PCR amplification and Next Generation Sequencing derived from metabarcoding samples. <em>Analytical and Bioanalytical Chemistry</em> 2015: 407(7):1841–1848. [<a href="http://link.springer.com/article/10.1007%2Fs00216-014-8435-y#">Analytical and Bioanalytical Chemistry</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2015/02/pawluczyk_abc1.pdf">pdf</a>]
+Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and Egea-Cortines, M. Quantitative evaluation of bias in PCR amplification and Next Generation Sequencing derived from metabarcoding samples. <em>Analytical and Bioanalytical Chemistry</em> 2015: 407(7):1841–1848. [<a href="http://link.springer.com/article/10.1007%2Fs00216-014-8435-y#">Analytical and Bioanalytical Chemistry</a>][<a href="pawluczyk_abc1.pdf">pdf</a>]
 
 Alejandro Rodríguez González, Alison Callahan, José Cruz-Toledo, Adrian Garcia, Mikel Egaña Aranguren, Michel Dumontier, Mark D. Wilkinson. Automatically exposing OpenLifeData via SADI semantic Web Services. <em>Journal of Biomedical Semantics</em> 2014, 5(1):46+. [<a href="http://www.jbiomedsem.com/content/5/1/46/abstract">Journal of Biomedical Semantics</a>]
 
@@ -20,13 +21,13 @@ José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terraza
 
 Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Erick Antezana, Chris Mungall, Alejandro Rodríguez González, Mark D. Wilkinson. OPPL-Galaxy, a Galaxy tool for enhancing ontology exploitation as part of bioinformatics workflows. <em>Journal of Biomedical Semantics</em> 2013, 4 (1):2+. [<a href="http://www.jbiomedsem.com/content/4/1/2/abstract">Journal of Biomedical Semantics</a>]
 
-Astrid Duque-Ramos, Jesualdo T. Fernández-Breis, Miguela Iniesta, Michel Dumontier, Mikel Egaña Aranguren, Stefan Schulz, Nathalie Aussenac-Gilles, and Robert Stevens. Evaluation of the OQuaRE framework for ontology quality. <em>Expert Systems with Applications</em> 2013, 40(7):2696–2703. [<a href="http://www.sciencedirect.com/science/article/pii/S0957417412012146">Science Direct</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/eswa8231.pdf">pdf</a>]
+Astrid Duque-Ramos, Jesualdo T. Fernández-Breis, Miguela Iniesta, Michel Dumontier, Mikel Egaña Aranguren, Stefan Schulz, Nathalie Aussenac-Gilles, and Robert Stevens. Evaluation of the OQuaRE framework for ontology quality. <em>Expert Systems with Applications</em> 2013, 40(7):2696–2703. [<a href="http://www.sciencedirect.com/science/article/pii/S0957417412012146">Science Direct</a>][<a href="eswa8231.pdf">pdf</a>]
 
-José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terrazas and Jesualdo Tomás Fernández-Breis. Publishing Orthology and Diseases Information in the Linked Open Data cloud.<em> Current Bioinformatics</em> 2012, 7 (3), 255-266. [<a href="http://www.benthamscience.com/contents-JCode-CBIO-Vol-00000007-Iss-00000003.htm">Bentham science</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/currentbioinformatics-ogolod.pdf">pdf</a>]
+José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terrazas and Jesualdo Tomás Fernández-Breis. Publishing Orthology and Diseases Information in the Linked Open Data cloud.<em> Current Bioinformatics</em> 2012, 7 (3), 255-266. [<a href="http://www.benthamscience.com/contents-JCode-CBIO-Vol-00000007-Iss-00000003.htm">Bentham science</a>][<a href="currentbioinformatics-ogolod.pdf">pdf</a>]
 
-Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://iospress.metapress.com/content/g1754121847215j2/">IOS Press</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/247-261.pdf">pdf</a>]
+Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://iospress.metapress.com/content/g1754121847215j2/">IOS Press</a>][<a href="247-261.pdf">pdf</a>]
 
-Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar, Jesualdo Tomás Fernández Breis, Marisa Madrid. Semantic integration of information about orthologs and diseases: The OGO system. <em>Journal of Biomedical Informatics </em>2011, 44, 1020-1031. [<a href="http://dx.doi.org/10.1016/j.jbi.2011.08.002">Science Direct</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/jbi-ogo.pdf">pdf</a>]
+Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar, Jesualdo Tomás Fernández Breis, Marisa Madrid. Semantic integration of information about orthologs and diseases: The OGO system. <em>Journal of Biomedical Informatics </em>2011, 44, 1020-1031. [<a href="http://dx.doi.org/10.1016/j.jbi.2011.08.002">Science Direct</a>][<a href="jbi-ogo.pdf">pdf</a>]
 
 Erick Antezana, Ward Blondé, Mikel Egaña, Alistair Rutherford, Robert Stevens, Bernard De Baets, Vladimir Mironov, Martin Kuiper. BioGateway: a semantic systems biology tool for the life sciences. <em>BMC bioinformatics</em> 2009, 10(Suppl 10):S11. [<a href="http://www.biomedcentral.com/1471-2105/10/S10/S11">BMC bioinformatics</a>]
 
@@ -34,26 +35,28 @@ Erick Antezana, Mikel Egaña, Bernard De Baets, Ward Blondé, Aitzol Illarramend
 
 Mikel Egaña Aranguren, Erick Antezana, Martin Kuiper, Robert Stevens. Ontology Design Patterns for bio-ontologies: a case study on the Cell Cycle Ontology.<em> BMC bioinformatics</em> 2008, 9(Suppl 5):S1. [<a href="http://www.biomedcentral.com/1471-2105/9/S5/S1">BMC bioinformatics</a>]
 
-Mikel Egaña Aranguren, Chris Wroe, Carole Goble, Robert Stevens. <em>In situ</em> migration of handcrafted ontologies to Reason-able Forms. <em>Data &amp; Knowledge Engineering</em> 2008, 66, 147-162. [<a href="http://dx.doi.org/10.1016/j.datak.2008.02.002">Science Direct</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/in_situ.pdf">pdf</a>]
+Mikel Egaña Aranguren, Chris Wroe, Carole Goble, Robert Stevens. <em>In situ</em> migration of handcrafted ontologies to Reason-able Forms. <em>Data &amp; Knowledge Engineering</em> 2008, 66, 147-162. [<a href="http://dx.doi.org/10.1016/j.datak.2008.02.002">Science Direct</a>][<a href="in_situ.pdf">pdf</a>]
 
 Erick Antezana, Mikel Egaña Aranguren, Bernard De Baets, Martin Kuiper, Vladimir Mironov. ONTO-PERL: An API supporting the development and analysis of bio-ontologies. <em>Bioinformatics</em> 2008, 24(6):885-887. [<a href="https://doi.org/10.1093/bioinformatics/btn042">Bioinformatics</a>]
 
 Mikel Egaña Aranguren, Sean Bechoffer, Phillip Lord, Ulrike Sattler and Robert Stevens. Understanding and using the meaning of statements in a bio-ontology: recasting the Gene Ontology in OWL. <em>BMC Bioinformatics</em> 2007, 8:57. [<a href="http://www.biomedcentral.com/1471-2105/8/57">BMC bioinformatics</a>]
 
-Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick Drummond and Mathew Horridge. Using OWL to Model Biological Knowledge. <em>International Journal of Human Computer Studies</em> 2006, 65:7, 583-594. [<a href="http://dx.doi.org/10.1016/j.ijhcs.2007.03.006">Science Direct</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/using_owl.pdf">pdf</a>]
+Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick Drummond and Mathew Horridge. Using OWL to Model Biological Knowledge. <em>International Journal of Human Computer Studies</em> 2006, 65:7, 583-594. [<a href="http://dx.doi.org/10.1016/j.ijhcs.2007.03.006">Science Direct</a>][<a href="using_owl.pdf">pdf</a>]
 <h2>Chapters in books</h2>
-Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311,descCd-description.html">Wiley</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/c03.pdf">pdf</a>]
+Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311,descCd-description.html">Wiley</a>][<a href="c03.pdf">pdf</a>]
 <h2>Conference proceedings</h2>
 Alejandro Rodríguez González, Marcos Martínez Romero, Mikel Egaña Aranguren, Mark D. Wilkinson. Nanopublishing clinical diagnoses: tracking diagnostic knowledge base content and utilization. 27th International Symposium on Computer-Based Medical Systems (CBMS 2014): 335-340. [<a href="http://mikeleganaaranguren.files.wordpress.com/2014/08/4435a335.pdf">pdf</a>]
 
 Alejandro Rodríguez Iglesias, Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Plant-Pathogen Interactions Ontology (PPIO). International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO 2013), pages 695-702. [<a href="http://mikeleganaaranguren.files.wordpress.com/2013/04/iwbbio2013_submission_27.pdf">pdf</a>]
 
-Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Erick Antezana. OPPL-Galaxy: Enhancing ontology exploitation in Galaxy with OPPL.  In Proceedings of the 4th International Workshop on Semantic Web Applications and Tools for the Life Sciences, SWAT4LS 2011, pages 12–19, ACM 2012. [<a href="http://dx.doi.org/10.1145/2166896.2166903">ACM</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/p12-aranguren.pdf">pdf</a>]
+Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Erick Antezana. OPPL-Galaxy: Enhancing ontology exploitation in Galaxy with OPPL.  In Proceedings of the 4th International Workshop on Semantic Web Applications and Tools for the Life Sciences, SWAT4LS 2011, pages 12–19, ACM 2012. [<a href="http://dx.doi.org/10.1145/2166896.2166903">ACM</a>][<a href="p12-aranguren.pdf">pdf</a>]
 
-J.A. Miñarro-Giménez, M. Egaña Aranguren, F. García-Sánchez, J. T. Fernández-Breis. A Semantic Query Interface for the OGO Platform. ITBAM (DEXA) 2010, LNCS 6266, pp. 128-142. [<a href="http://www.springerlink.com/content/a8462053566297l1/">SpringerLink</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/dexa.pdf">pdf</a>]
+J.A. Miñarro-Giménez, M. Egaña Aranguren, F. García-Sánchez, J. T. Fernández-Breis. A Semantic Query Interface for the OGO Platform. ITBAM (DEXA) 2010, LNCS 6266, pp. 128-142. [<a href="http://www.springerlink.com/content/a8462053566297l1/">SpringerLink</a>][<a href="dexa.pdf">pdf</a>]
 
-Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Design Patterns in bio-ontologies. EKAW 2008, LNCS 5268, pp. 7-16. [<a href="http://www.springerlink.com/content/d2lp476v0p281q73/">SpringerLink</a>][<a href="http://mikeleganaaranguren.files.wordpress.com/2013/01/ekaw.pdf">pdf</a>]
+Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Design Patterns in bio-ontologies. EKAW 2008, LNCS 5268, pp. 7-16. [<a href="http://www.springerlink.com/content/d2lp476v0p281q73/">SpringerLink</a>][<a href="ekaw.pdf">pdf</a>]
+
 <h2>Preprints, Workshop Proceedings and other publications</h2>
+
 Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs (http://dx.doi.org/10.1101/013615)
 
 Horridge, M., Aranguren, M., Mortensen, J., Musen, M., and Noy, N. (2012). Ontology Design Pattern Language Expressivity Requirements. In WOP (Co-located with ISWC), Boston, USA
@@ -72,24 +75,24 @@ Marshall, M., Boyce, R., Deus, H., Zhao, J., Willighagen, E., Samwald, M., Pichl
 <h2>Etc.</h2>
 <strong>English</strong>
 
-PhD thesis: Role and Application of Ontology Design Patterns in Bio-ontologies. Mikel Egaña Aranguren, 2009, University of Manchester, Faculty of Engineering and Physical Sciences, School of Computer Science. [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/thesis.pdf">pdf</a>]
+PhD thesis: Role and Application of Ontology Design Patterns in Bio-ontologies. Mikel Egaña Aranguren, 2009, University of Manchester, Faculty of Engineering and Physical Sciences, School of Computer Science. [<a href="thesis.pdf">pdf</a>]
 
-MSc thesis: Improving the structure of the Gene Ontology. Mikel Egaña Aranguren, 2004, University of Manchester, Faculty of Engineering and Physical Sciences, School of Biological Sciences. [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/msc_thesis.pdf">pdf</a>]
+MSc thesis: Improving the structure of the Gene Ontology. Mikel Egaña Aranguren, 2004, University of Manchester, Faculty of Engineering and Physical Sciences, School of Biological Sciences. [<a href="msc_thesis.pdf">pdf</a>]
 
 Content created for the Ontogenesis KnowledgeBlog meeting: <a href="http://ontogenesis.knowledgeblog.org/tag/mikel-egana-aranguren/">a paper and two reviews</a>.
 
 Content created for the Bioinformatics KnowledgeBlog: <a href="http://bioinformatics.knowledgeblog.org/2011/07/05/publishing-information-in-the-linked-open-data-cloud/">a tutorial describing how to publish information in Linked Open Data</a>.
 
-Basic introduction to the shell. This is a very basic tutorial on how to use the UNIX shell for non-geeks, e.g. biologists doing a bioinformatics course ;-). [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/basic_shell.pdf">pdf</a>]
+Basic introduction to the shell. This is a very basic tutorial on how to use the UNIX shell for non-geeks, e.g. biologists doing a bioinformatics course ;-). [<a href="basic_shell.pdf">pdf</a>]
 
 <strong>Euskara</strong>
 
 CAF-Elhuyar sarietara (2009 eta 2010) aurkeztutako artikuluak (Ez nuen saririk jaso):
 <ul>
- 	<li>Informazio biologikoa web semantikoaren bidez kudeatzeko diseinu patroiak. Nire tesiaren euskarazko laburpena. [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/03/mikelegana_websembio_cafelhuyar.pdf">pdf</a>]</li>
- 	<li>Datuen amarauna. <a href="http://eu.wikipedia.org/wiki/Datu_estekatuak">Linked Data</a>-ri buruzko artikulua [<a href="http://mikeleganaaranguren.files.wordpress.com/2011/05/caf_elhuyar_2010_datuen_amarauna.pdf">pdf</a>]</li>
+ 	<li>Informazio biologikoa web semantikoaren bidez kudeatzeko diseinu patroiak. Nire tesiaren euskarazko laburpena. [<a href="mikelegana_websembio_cafelhuyar.pdf">pdf</a>]</li>
+ 	<li>Datuen amarauna. <a href="http://eu.wikipedia.org/wiki/Datu_estekatuak">Linked Data</a>-ri buruzko artikulua [<a href="caf_elhuyar_2010_datuen_amarauna.pdf">pdf</a>]</li>
 </ul>
-Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitaletxe digital bat sortzeko ideiekin. [<a href="https://mikeleganaaranguren.files.wordpress.com/2015/03/mikel_egac3b1a_aranguren_txostena.pdf">pdf</a>]
+Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitaletxe digital bat sortzeko ideiekin. [<a href="mikel_egac3b1a_aranguren_txostena.pdf">pdf</a>]
 
 <a href="http://eu.wikipedia.org/wiki/Azala">Euskarazko wikipedian</a> ere banabil, edukia sortzen edo hobetzen, ahal dudan heinean.
 
@@ -102,8 +105,8 @@ Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hér
 </ul>
 <a href="https://vimeo.com/42962819">Video divulgativo</a> sobre <a href="http://es.wikipedia.org/wiki/Datos_enlazados">Linked Data</a> para el concurso <a href="http://www.onzientzia.tv/bideoa-ikusi.asp?Kodea=332&amp;lang=ES">On Zientzia 2012</a>.
 
-Software libre (GNU/linux) para biólogos. BioGaia 3, 2003 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/linuxbiologos.pdf">pdf</a>]
+Software libre (GNU/linux) para biólogos. BioGaia 3, 2003 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="linuxbiologos.pdf">pdf</a>]
 
-¿Qué puede hacer la web semántica por la biología? BioGaia 7, 2009 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/biogaialssw.pdf">pdf</a>]
+¿Qué puede hacer la web semántica por la biología? BioGaia 7, 2009 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="biogaialssw.pdf">pdf</a>]
 
-Breve introducción a <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/texshade/">TeXshade</a>, un paquete LaTeX para representar alineamientos de secuencias. [<a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/texshade_es.pdf">pdf1</a>, <a href="http://mikeleganaaranguren.files.wordpress.com/2010/01/texshade_es_ejemplos.pdf">pdf2</a>]
+Breve introducción a <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/texshade/">TeXshade</a>, un paquete LaTeX para representar alineamientos de secuencias. [<a href="texshade_es.pdf">pdf1</a>, <a href="texshade_es_ejemplos.pdf">pdf2</a>]

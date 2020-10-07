@@ -56,28 +56,28 @@ Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost)
 <h3>OWL (ATHENS 2012)</h3>
 <a href="http://delicias.dia.fi.upm.es/athens2012/index.php/Main_Page">http://delicias.dia.fi.upm.es/athens2012/index.php/Main_Page</a>
 
-Slides: <a href="http://mikeleganaaranguren.files.wordpress.com/2012/04/owl_introduction.pdf">introduction</a>, <a href="http://mikeleganaaranguren.files.wordpress.com/2012/04/owl_axioms.pdf">axioms</a>, <a href="http://mikeleganaaranguren.files.wordpress.com/2012/04/owl_reasoning.pdf">reasoning</a>.
+Slides: <a href="owl_introduction.pdf">introduction</a>, <a href="owl_axioms.pdf">axioms</a>, <a href="owl_reasoning.pdf">reasoning</a>.
 <h3>Populous-oppl tutorial (SWAt4ls)</h3>
 <a href="http://www.swat4ls.org/wp-content/uploads/2012/01/Tutorial_populousswat4lsslidesslideshare-111208081243-phpapp02.ppt">Generating ontology content with semantic spreadsheets and OPPL scripts</a>.
 <h3>OWL (ATHENS 2011)</h3>
 <a href="http://delicias.dia.fi.upm.es/athens/index.php/Main_Page">http://delicias.dia.fi.upm.es/athens/index.php/Main_Page</a>
 
-Slides : <a href="http://mikeleganaaranguren.files.wordpress.com/2012/04/owl_1.pdf">OWL_1</a>, <a href="http://mikeleganaaranguren.files.wordpress.com/2012/04/owl_2.pdf">OWL_2</a>.
+Slides : <a href="owl_1.pdf">OWL_1</a>, <a href="owl_2.pdf">OWL_2</a>.
 <h3>OWL (Máster Universitario en Inteligencia Artificial)</h3>
 <a href="http://delicias.dia.fi.upm.es/wiki/index.php/MasterRD11-12">http://delicias.dia.fi.upm.es/wiki/index.php/MasterRD11-12</a> (Week 9).
 <ul>
- 	<li>Slides: <a href="http://mikeleganaaranguren.files.wordpress.com/2011/11/owl.ppt">OWL.ppt</a></li>
- 	<li>Assignment: <a href="http://mikeleganaaranguren.files.wordpress.com/2011/11/owl_assignment.pdf">OWL_Assignment.pdf</a></li>
+ 	<li>Slides: <a href="owl.ppt">OWL.ppt</a></li>
+ 	<li>Assignment: <a href="owl_assignment.pdf">OWL_Assignment.pdf</a></li>
 </ul>
 <h3>OWL (INTELIGENCIA ARTIFICIAL - GRADO INFORMÁTICA)</h3>
 Material de las clases sobre OWL (<a href="http://www.w3.org/standards/techs/owl">Web Ontology Language</a>):
 <ul>
- 	<li><a href="http://mikeleganaaranguren.files.wordpress.com/2011/04/clase_11.ppt">Clase 1</a>.</li>
- 	<li><a href="http://mikeleganaaranguren.files.wordpress.com/2011/04/clase_22.ppt">Clase 2</a>.</li>
- 	<li><a href="http://mikeleganaaranguren.files.wordpress.com/2011/04/clase_31.ppt">Clase 3</a>.</li>
+ 	<li><a href="clase_11.ppt">Clase 1</a>.</li>
+ 	<li><a href="clase_22.ppt">Clase 2</a>.</li>
+ 	<li><a href="clase_31.ppt">Clase 3</a>.</li>
  	<li>Clase 4: <a href="http://www.megaupload.com/?d=VUM9I7OO">Grupo mañana</a>, <a href="http://www.megaupload.com/?d=1DT17A2E">Grupo tarde</a>.</li>
- 	<li><a href="http://mikeleganaaranguren.files.wordpress.com/2011/04/clase_5.ppt">Clase 5</a>.</li>
- 	<li><a href="http://mikeleganaaranguren.files.wordpress.com/2011/04/clase_6.ppt">Clase 6</a>.</li>
+ 	<li><a href="clase_5.ppt">Clase 5</a>.</li>
+ 	<li><a href="clase_6.ppt">Clase 6</a>.</li>
 </ul>
 Ejercicios del curso 2010-2011 (Estas clases serían equivalentes a la parte de Lógica Descriptiva del tema 2): <a href="http://delicias.dia.fi.upm.es/wiki/index.php/InteligenciaArtificial10-11">http://delicias.dia.fi.upm.es/wiki/index.php/InteligenciaArtificial10-11</a>
 

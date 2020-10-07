@@ -13,16 +13,18 @@ for item in channel.findall('item'):
     if x:
         date = x[0].replace("/","-")
         title = item[0].text
+        print(title)
         content = item[6].text
-        with open(date + "-" + title.replace(" ", "-") + ".md", 'a') as the_file:
-            the_file.write('---\n')
-            the_file.write('layout: post\n')
-            the_file.write('title: \"' + title.encode('utf-8') + '\"\n')
-            the_file.write('date: ' + date +  '\n')
-            the_file.write('---\n')
-            the_file.write('\n')
-            the_file.write(content.encode('utf-8'))
-            the_file.write('\n')
+        if content is not None:
+            with open(date + "-" + title.replace(" ", "-") + ".md", 'a') as the_file:
+                the_file.write('---\n')
+                the_file.write('layout: post\n')
+                the_file.write('title: \"' + title.encode('utf-8') + '\"\n')
+                the_file.write('date: ' + date +  '\n')
+                the_file.write('---\n')
+                the_file.write('\n')
+                the_file.write(content.encode('utf-8'))
+                the_file.write('\n')
 
             
 
