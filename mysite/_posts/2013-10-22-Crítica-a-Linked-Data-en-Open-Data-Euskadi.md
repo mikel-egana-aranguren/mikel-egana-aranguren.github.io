@@ -19,9 +19,9 @@ Vamos a mirar un dataset concreto, por ejemplo el que describe los consulados (h
 Vamos a mirar el contenido de un consulado concreto, el consulado de Suiza (Lo he transformado a la sintaxis RDF/XML):
 
 
-<a href="http://mikeleganaaranguren.files.wordpress.com/2013/10/suiza.png"><img src="http://mikeleganaaranguren.files.wordpress.com/2013/10/suiza.png?w=300" alt="suiza" width="300" height="105" class="alignnone size-medium wp-image-589" /></a>
+<a href="suiza.png"><img src="suiza.png?w=300" alt="suiza" width="300" height="105" class="alignnone size-medium wp-image-589" /></a>
 
-<a href="http://mikeleganaaranguren.files.wordpress.com/2013/10/servlet_2011834977348819428.png"><img src="http://mikeleganaaranguren.files.wordpress.com/2013/10/servlet_2011834977348819428.png?w=300" alt="servlet_2011834977348819428" width="300" height="105" class="alignnone size-medium wp-image-590" /></a>
+<a href="servlet_2011834977348819428.png"><img src="servlet_2011834977348819428.png?w=300" alt="servlet_2011834977348819428" width="300" height="105" class="alignnone size-medium wp-image-590" /></a>
 
 Lo primero es que hay nodos anónimos (Blank Nodes), lo cual es una mala práctica si el modelo RDF que hemos creado va a ser consumido como LD (ver "RDF Features Best Avoided in the Linked Data Context" http://linkeddatabook.com/editions/1.0/#htoc16), aunque puede que esta decisión venga impuesta por el uso de vCard. 
 

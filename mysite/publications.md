@@ -47,7 +47,7 @@ Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernánd
 <h2>Conference proceedings</h2>
 Alejandro Rodríguez González, Marcos Martínez Romero, Mikel Egaña Aranguren, Mark D. Wilkinson. Nanopublishing clinical diagnoses: tracking diagnostic knowledge base content and utilization. 27th International Symposium on Computer-Based Medical Systems (CBMS 2014): 335-340. [<a href="http://mikeleganaaranguren.files.wordpress.com/2014/08/4435a335.pdf">pdf</a>]
 
-Alejandro Rodríguez Iglesias, Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Plant-Pathogen Interactions Ontology (PPIO). International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO 2013), pages 695-702. [<a href="http://mikeleganaaranguren.files.wordpress.com/2013/04/iwbbio2013_submission_27.pdf">pdf</a>]
+Alejandro Rodríguez Iglesias, Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Plant-Pathogen Interactions Ontology (PPIO). International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO 2013), pages 695-702. [<a href="iwbbio2013_submission_27.pdf">pdf</a>]
 
 Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Erick Antezana. OPPL-Galaxy: Enhancing ontology exploitation in Galaxy with OPPL.  In Proceedings of the 4th International Workshop on Semantic Web Applications and Tools for the Life Sciences, SWAT4LS 2011, pages 12–19, ACM 2012. [<a href="http://dx.doi.org/10.1145/2166896.2166903">ACM</a>][<a href="p12-aranguren.pdf">pdf</a>]
 
