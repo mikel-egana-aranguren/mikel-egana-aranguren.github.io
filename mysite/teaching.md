@@ -24,22 +24,21 @@ GitHub repo (<a href="https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine
 
 <h3>OWL (Proyecto OLD - 2016)</h3>
 
-Slides: <a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl/speaker">Speaker</a>).
+Slides: <a href="slides-ejie-lod-owl.html">HTML</a>.
 
 <h3>Schema (Proyecto OLD - 2016)</h3>
 
-Slides: <a href="http://slides.com/mikel-egana-aranguren/schema-ejie#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/schema-ejie/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/schema-ejie/speaker">Speaker</a>).
-
+Slides: <a href="slides-schema-ejie.html">HTML</a>. 
 
 <h3>Linked Open Data (2016)</h3>
-Slides: <a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie#">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie/live#/">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie/speaker">Speaker</a>).
+Slides: <a href="slides-linked-open-data-ejie.html">HTML</a>.
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataEjie2016">EJIE-LOD</a>
 
 <h2>IZFE</h2>
 
 <h3>Linked Open Data (2015)</h3>
-Slides: <a href="http://slides.com/mikel-egana-aranguren/linked-open-data#">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/linked-open-data/live#/">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/linked-open-data/speaker">Speaker</a>).
+Slides: <a href="slides-linked-open-data.html">HTML</a>.
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataIZFE2015">IZFE-LOD</a>
 
@@ -47,19 +46,19 @@ Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedO
 
 <h3>Life Sciences Semantic Web (Máster Bioinformática 2017-2018)</h3>
 
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/speaker">Speaker</a>).
+Slides: <a href="slides-lssw-um-17-18.html">HTML</a>. 
 
 Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2017-2018">LSSW-UM-2016-2017@GitHub</a>
 
 <h3>Life Sciences Semantic Web (Máster Bioinformática 2016-2017)</h3>
 
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/speaker">Speaker</a>).
+Slides: <a href="slides-lssw-um-16-17.html">HTML</a>. 
 
 Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2016-2017">LSSW-UM-2016-2017@GitHub</a>
 
 <h3>Life Sciences Semantic Web (Máster Bioinformática 2015-2016)</h3>
 
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/speaker">Speaker</a>).
+Slides: <a href="slides-lssw-um-15-16.html">HTML</a>.
 
 Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2015-2016">LSSW-UM-2015-2016@GitHub</a>
 
@@ -87,8 +86,6 @@ Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost)
 <h3>Galaxy tutorial</h3>
 
 GitHub repo (<a href="http://github.com/mikel-egana-aranguren/Galaxy_tutorial">http://github.com/mikel-egana-aranguren/Galaxy_tutorial</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html</a>).
-
-
 
 <h2>UPM</h2>
 
