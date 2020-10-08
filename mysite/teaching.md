@@ -4,62 +4,104 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Análisis y Diseño de Sistemas de Información (UPV/EHU 2020-2021)
+<h2>UPV/EHU</h2>
 
-### Informazio Sistemen Analisia eta Diseinua (UPV/EHU 2020-2021)
+<h3>Análisis y Diseño de Sistemas de Información (2020-2021)</h3>
 
-### Sistemas de Gestión de Seguridad de Sistemas de Información (UPV/EHU 2020-2021)
+<h3>Informazio Sistemen Analisia eta Diseinua (2020-2021)</h3>
 
-<h3>Life Sciences Semantic Web (Máster Bioinformática UM 2017-2018)</h3>
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/speaker">Speaker</a>).
+<h3>Sistemas de Gestión de Seguridad de Sistemas de Información (2020-2021)</h3>
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2017-2018">LSSW-UM-2016-2017@GitHub</a>
-<h3>OWL (Proyecto OLD - EJIE 2016)</h3>
+<h3>Semantic Biology II (3SBiology Trento 2014)</h3>
+
+GitHub repo (<a href="http://github.com/mikel-egana-aranguren/3SBiologyTrento2014">http://github.com/mikel-egana-aranguren/3SBiologyTrento2014</a>), slides (<a href="http://mikel-egana-aranguren.github.io/3SBiologyTrento2014">http://mikel-egana-aranguren.github.io/3SBiologyTrento2014</a>).
+
+<h3>Galaxy tutorial (MSc MER 2014)</h3>
+
+GitHub repo (<a href="https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment">https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html.</a>).
+
+<h2>EJIE</h2>
+
+<h3>OWL (Proyecto OLD - 2016)</h3>
+
 Slides: <a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/ejie-lod-owl/speaker">Speaker</a>).
-<h3>Life Sciences Semantic Web (Máster Bioinformática UM 2016-2017)</h3>
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/speaker">Speaker</a>).
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2016-2017">LSSW-UM-2016-2017@GitHub</a>
-<h3>Schema (Proyecto OLD - EJIE 2016)</h3>
+<h3>Schema (Proyecto OLD - 2016)</h3>
+
 Slides: <a href="http://slides.com/mikel-egana-aranguren/schema-ejie#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/schema-ejie/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/schema-ejie/speaker">Speaker</a>).
-<h3>Life Sciences Semantic Web (Máster Bioinformática UM 2015-2016)</h3>
-Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/speaker">Speaker</a>).
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2015-2016">LSSW-UM-2015-2016@GitHub</a>
-<h3>Linked Open Data (EJIE 2016)</h3>
+
+<h3>Linked Open Data (2016)</h3>
 Slides: <a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie#">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie/live#/">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/linked-open-data-ejie/speaker">Speaker</a>).
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataEjie2016">EJIE-LOD</a>
-<h3>Linked Open Data (IZFE 2015)</h3>
+
+<h2>IZFE</h2>
+
+<h3>Linked Open Data (2015)</h3>
 Slides: <a href="http://slides.com/mikel-egana-aranguren/linked-open-data#">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/linked-open-data/live#/">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/linked-open-data/speaker">Speaker</a>).
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataIZFE2015">IZFE-LOD</a>
-<h3>Life Sciences Semantic Web (Máster Bioinformática UM 2014)</h3>
+
+<h2>UM</h2>
+
+<h3>Life Sciences Semantic Web (Máster Bioinformática 2017-2018)</h3>
+
+Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-17-18/speaker">Speaker</a>).
+
+Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2017-2018">LSSW-UM-2016-2017@GitHub</a>
+
+<h3>Life Sciences Semantic Web (Máster Bioinformática 2016-2017)</h3>
+
+Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-16-17/speaker">Speaker</a>).
+
+Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2016-2017">LSSW-UM-2016-2017@GitHub</a>
+
+<h3>Life Sciences Semantic Web (Máster Bioinformática 2015-2016)</h3>
+
+Slides: <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16#/">HTML</a>. (<a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/live">Live</a>, <a href="http://slides.com/mikel-egana-aranguren/lssw-um-15-16/speaker">Speaker</a>).
+
+Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2015-2016">LSSW-UM-2015-2016@GitHub</a>
+
+<h3>Life Sciences Semantic Web (Máster Bioinformática 2014)</h3>
+
 Slides: <a href="http://mikel-egana-aranguren.github.io/LSSW-UM-2014-2015/index.html">HTML</a>.
 
 Todo el contenido (Ejercicios, datos, programas, slides): <a href="http://github.com/mikel-egana-aranguren/LSSW-UM-2014-2015">Life Sciences Semantic Web at GitHub</a>
 
 Linked Data Server: http://github.com/mikel-egana-aranguren/LinkedDataServer
-<h3>Semantic Biology II (3SBiology Trento 2014)</h3>
-GitHub repo (<a href="http://github.com/mikel-egana-aranguren/3SBiologyTrento2014">http://github.com/mikel-egana-aranguren/3SBiologyTrento2014</a>), slides (<a href="http://mikel-egana-aranguren.github.io/3SBiologyTrento2014">http://mikel-egana-aranguren.github.io/3SBiologyTrento2014</a>).
-<h3>Galaxy tutorial (MSc MER 2014)</h3>
-GitHub repo (<a href="https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment">https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html.</a>).
-<h3>Life Sciences Semantic Web (Máster Bioinformática UM 2014)</h3>
+
+<h3>Life Sciences Semantic Web (Máster Bioinformática 2014)</h3>
+
 Slides: <a href="http://mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/index.html">HTML</a>.
 
 Todo el contenido (Ejercicios, datos, programas, slides): <a href="https://github.com/mikel-egana-aranguren/MSc_Bioinformatics_UM_13-14_LSSW">Life Sciences Semantic Web at GitHub</a>
-<h3>Galaxy tutorial (CBGP 2013)</h3>
-GitHub repo (<a href="http://github.com/mikel-egana-aranguren/Galaxy_tutorial">http://github.com/mikel-egana-aranguren/Galaxy_tutorial</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html</a>).
-<h3>Life Sciences Linked Data (Máster Bioinformática UM 2013)</h3>
+
+<h3>Life Sciences Linked Data (Máster Bioinformática 2013)</h3>
+
 Slides: <a href="//mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/2012-2013/Clases/UM_Bioinformatics_LD.html#/">HTML</a> (ESC para panorámica).
 Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost): <a href="http://github.com/mikel-egana-aranguren/LSLD">Life Sciences Linked Data at GitHub</a>
+
+<h2>CBGP</h2>
+
+<h3>Galaxy tutorial</h3>
+
+GitHub repo (<a href="http://github.com/mikel-egana-aranguren/Galaxy_tutorial">http://github.com/mikel-egana-aranguren/Galaxy_tutorial</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html</a>).
+
+
+
+<h2>UPM</h2>
+
 <h3>OWL (ATHENS 2012)</h3>
+
 <a href="http://delicias.dia.fi.upm.es/athens2012/index.php/Main_Page">http://delicias.dia.fi.upm.es/athens2012/index.php/Main_Page</a>
 
 Slides: <a href="owl_introduction.pdf">introduction</a>, <a href="owl_axioms.pdf">axioms</a>, <a href="owl_reasoning.pdf">reasoning</a>.
 <h3>Populous-oppl tutorial (SWAt4ls)</h3>
 <a href="http://www.swat4ls.org/wp-content/uploads/2012/01/Tutorial_populousswat4lsslidesslideshare-111208081243-phpapp02.ppt">Generating ontology content with semantic spreadsheets and OPPL scripts</a>.
+
 <h3>OWL (ATHENS 2011)</h3>
+
 <a href="http://delicias.dia.fi.upm.es/athens/index.php/Main_Page">http://delicias.dia.fi.upm.es/athens/index.php/Main_Page</a>
 
 Slides : <a href="owl_1.pdf">OWL_1</a>, <a href="owl_2.pdf">OWL_2</a>.
@@ -69,7 +111,9 @@ Slides : <a href="owl_1.pdf">OWL_1</a>, <a href="owl_2.pdf">OWL_2</a>.
  	<li>Slides: <a href="owl.ppt">OWL.ppt</a></li>
  	<li>Assignment: <a href="owl_assignment.pdf">OWL_Assignment.pdf</a></li>
 </ul>
+
 <h3>OWL (INTELIGENCIA ARTIFICIAL - GRADO INFORMÁTICA)</h3>
+
 Material de las clases sobre OWL (<a href="http://www.w3.org/standards/techs/owl">Web Ontology Language</a>):
 <ul>
  	<li><a href="clase_11.ppt">Clase 1</a>.</li>
@@ -91,5 +135,6 @@ Holger Knublauch, Robert Stevens, Hai Wang, and Chris Wroe. OWL pizzas: Practica
  	<li>Nick Drummond, Alan L. Rector, Robert Stevens, Georgina Moulton, Matthew Horridge, Hai Wang, Julian Seidenberg. Putting OWL in Order: Patterns for Sequences in OWL (OWLed 2006). [<a href="http://www.co-ode.org/resources/papers/">pdf</a>]</li>
  	<li>Ejemplos (<a href="http://http://www.gong.manchester.ac.uk/odp/html/index.html">http://www.gong.manchester.ac.uk/odp/html/index.html</a>, <a href="http://ontologydesignpatterns.org">http://ontologydesignpatterns.org</a>).</li>
 </ul>
-<h3>TUTORIALS AT UNIVERSITY OF MANCHESTER</h3>
-OWL tutorials for biologists. [<a href="http://www.co-ode.org/resources/tutorials/bio/">CO-ODE</a>
+
+<h2>University of Manchester</h2>
+OWL tutorials for biologists. [<a href="http://www.co-ode.org/resources/tutorials/bio/">CO-ODE</a>]
