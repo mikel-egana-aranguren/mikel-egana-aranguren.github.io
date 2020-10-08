@@ -44,8 +44,10 @@ Mikel Egaña Aranguren, Sean Bechoffer, Phillip Lord, Ulrike Sattler and Robert 
 Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick Drummond and Mathew Horridge. Using OWL to Model Biological Knowledge. <em>International Journal of Human Computer Studies</em> 2006, 65:7, 583-594. [<a href="http://dx.doi.org/10.1016/j.ijhcs.2007.03.006">Science Direct</a>][<a href="using_owl.pdf">pdf</a>]
 <h2>Chapters in books</h2>
 Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311,descCd-description.html">Wiley</a>][<a href="c03.pdf">pdf</a>]
+
 <h2>Conference proceedings</h2>
-Alejandro Rodríguez González, Marcos Martínez Romero, Mikel Egaña Aranguren, Mark D. Wilkinson. Nanopublishing clinical diagnoses: tracking diagnostic knowledge base content and utilization. 27th International Symposium on Computer-Based Medical Systems (CBMS 2014): 335-340. [<a href="http://mikeleganaaranguren.files.wordpress.com/2014/08/4435a335.pdf">pdf</a>]
+
+Alejandro Rodríguez González, Marcos Martínez Romero, Mikel Egaña Aranguren, Mark D. Wilkinson. Nanopublishing clinical diagnoses: tracking diagnostic knowledge base content and utilization. 27th International Symposium on Computer-Based Medical Systems (CBMS 2014): 335-340. [<a href="4435a335.pdf">pdf</a>]
 
 Alejandro Rodríguez Iglesias, Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Plant-Pathogen Interactions Ontology (PPIO). International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO 2013), pages 695-702. [<a href="iwbbio2013_submission_27.pdf">pdf</a>]
 
@@ -98,7 +100,7 @@ Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitale
 
 <strong>Español</strong>
 
-Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="https://mikeleganaaranguren.files.wordpress.com/2020/05/01678941.pdf">pdf</a>]. También disponible en:
+Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="01678941.pdf">pdf</a>]. También disponible en:
 <ul>
  	<li>https://contrataciondelestado.es/wps/wcm/connect/12ede981-14f4-4993-9696-d0b7e41f2265/DOC20190403143712Informe+Hercules.pdf?MOD=AJPERES</li>
  	<li>https://sede.um.es/perfilcontratante/uploads/01678941.PDF</li>

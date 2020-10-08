@@ -44,7 +44,7 @@ Hacemos <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingIns
 
 Si vamos a la IP publica, al SPARQL endpoint (ej. 54.201.244.233:8890/sparql), deberia aparacer un formulario para ejecutar consultas SPARQL. Probamos con: 
 
-<a href="https://mikeleganaaranguren.files.wordpress.com/2014/06/pantaila-argazkia-2014-06-20-164406.png"><img src="http://mikeleganaaranguren.files.wordpress.com/2014/06/pantaila-argazkia-2014-06-20-164406.png?w=300" alt="Pantaila-argazkia 2014-06-20 16:44:06" width="300" height="183" class="alignnone size-medium wp-image-644" /></a>
+<a href="pantaila-argazkia-2014-06-20-164406.png"><img src="pantaila-argazkia-2014-06-20-164406.png?w=300" alt="Pantaila-argazkia 2014-06-20 16:44:06" width="300" height="183" class="alignnone size-medium wp-image-644" /></a>
 
 Deberia dar una larga lista de triples. Happy hacking!
 

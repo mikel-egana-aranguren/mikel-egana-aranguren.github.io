@@ -36,23 +36,23 @@ Download/clone this repository and copy the `tools/SADI-Docker` directory to the
 </ul>
 Add the following section to `config/tool_conf.xml` to add the tools to Galaxy (first copy `tool_conf.xml.sample` to `tool_conf.xml`):
 
-<a href="https://mikeleganaaranguren.files.wordpress.com/2015/09/sadi-docker-1.png"><img class="alignnone  wp-image-738" src="https://mikeleganaaranguren.files.wordpress.com/2015/09/sadi-docker-1.png?w=300" alt="SADI-docker-1" width="490" height="147" /></a>
+<a href="sadi-docker-1.png"><img class="alignnone  wp-image-738" src="sadi-docker-1.png?w=300" alt="SADI-docker-1" width="490" height="147" /></a>
 
 Change the Galaxy configuration so that it can run Docker images as if they were regular tools installed in your system. Add a destination, `docker_local`, to your configuration, and make it the default. Copy `config/job_conf.xml.sample_basic` to `config/job_conf.xml` and add these lines to `config/job_conf.xml` (change `docker_memory` if necessary):
 
-<a href="https://mikeleganaaranguren.files.wordpress.com/2015/09/sadsi-docker_2.png"><img class="alignnone  wp-image-737" src="https://mikeleganaaranguren.files.wordpress.com/2015/09/sadsi-docker_2.png?w=300" alt="SADSI-docker_2" width="489" height="225" /></a>
+<a href="sadsi-docker_2.png"><img class="alignnone  wp-image-737" src="sadsi-docker_2.png?w=300" alt="SADSI-docker_2" width="489" height="225" /></a>
 
 (look at `job_conf.xml.sample_advanced` for more options regarding how Galaxy invokes Docker containers, since there are a lot of options).
 
 Run Galaxy and the tools should appear under `Docker SADI services`:
 
-<a href="https://mikeleganaaranguren.files.wordpress.com/2015/09/tools.png"><img class="alignnone  wp-image-740" src="https://mikeleganaaranguren.files.wordpress.com/2015/09/tools.png?w=300" alt="tools" width="481" height="438" /></a>
+<a href="tools.png"><img class="alignnone  wp-image-740" src="tools.png?w=300" alt="tools" width="481" height="438" /></a>
 <h2>Use case</h2>
 In order to test the installation, you can run a pre-defined workflow. Upload the file workflow/UniProt_IDs.txt, to your current Galaxy history. Then you can import the workflow in Galaxy (Workflows; Import or Upload Workflow; choose file workflow/SADI-Docker_use_case.ga). You can also find the workflow at the <a href="http://toolshed.g2.bx.psu.edu/view/mikel-egana-aranguren/sadi_docker_workflow/22be3a551998">tool shed</a>. Then run the workflow, choosing the UniProt_IDs.txt dataset as input for the first step.
 
 The workflow answers the following question: Given a set of UniProt proteins, which ones are related to PubMed abstracts containing the term ``brain'', and what are they KEGG entries? The workflow starts from a simple list of UniProt identifiers, and retrieves different datasets from a regular SADI service (to obtain KEGG entries) and a set of 3 OpenLifeData2SADI services (to obtain PubMed abstracts). The results are then merged and queried to obtain the KEGG entries of proteins that are related to PubMed abstracts that contain the term.
 
-<a href="https://mikeleganaaranguren.files.wordpress.com/2015/09/workflow.png"><img class="alignnone  wp-image-739" src="https://mikeleganaaranguren.files.wordpress.com/2015/09/workflow.png?w=300" alt="workflow" width="491" height="267" /></a>
+<a href="workflow.png"><img class="alignnone  wp-image-739" src="workflow.png?w=300" alt="workflow" width="491" height="267" /></a>
 
 The SADI services used in the workflow are:
 <ul>
