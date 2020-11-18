@@ -6,11 +6,11 @@ permalink: /teaching/
 
 <h2>UPV/EHU</h2>
 
-<h3>Análisis y Diseño de Sistemas de Información (2020-2021)</h3>
+<h3>Gestión de Proyectos -GP-(2020-2021)</h3>
 
-<h3>Informazio Sistemen Analisia eta Diseinua (2020-2021)</h3>
+<h3>Análisis y Diseño de Sistemas de Información -ADSI- (2020-2021)</h3>
 
-<h3>Sistemas de Gestión de Seguridad de Sistemas de Información (2020-2021)</h3>
+<h3>Sistemas de Gestión de Seguridad de Sistemas de Información -SGSSI- (2020-2021)</h3>
 
 <h3>Semantic Biology II (3SBiology Trento 2014)</h3>
 
@@ -43,6 +43,8 @@ Slides: <a href="slides-linked-open-data.html">HTML</a>.
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataIZFE2015">IZFE-LOD</a>
 
 <h2>UM</h2>
+
+<h3>FAIR data (Máster Bioinformática 2020-2021)</h3>
 
 <h3>Life Sciences Semantic Web (Máster Bioinformática 2017-2018)</h3>
 
