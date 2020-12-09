@@ -46,6 +46,8 @@ Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedO
 
 <h3>FAIR data (Máster Bioinformática 2020-2021)</h3>
 
+Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR</a>
+
 <h3>Life Sciences Semantic Web (Máster Bioinformática 2017-2018)</h3>
 
 Slides: <a href="slides-lssw-um-17-18.html">HTML</a>. 
