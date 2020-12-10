@@ -4,13 +4,29 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<h2>UPV/EHU</h2>
+<ul>
+  <li><a href="#upv-ehu">UPV/EHU</a></li>
+  <li><a href="#ejie">EJIE</a></li>
+  <li><a href="#izfe">IZFE</a></li>
+  <li><a href="#um">UM</a></li>
+  <li><a href="#cbgp">CBGP</a></li>
+  <li><a href="#cbgp">UPM</a></li>
+  <li><a href="#manchester">University of Manchester</a></li>
+</ul>
+
+<h2  id="upv-ehu">UPV/EHU</h2>
 
 <h3>Gestión de Proyectos -GP-(2020-2021)</h3>
 
+<a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27684">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Gestión de Proyectos</a>.
+
 <h3>Análisis y Diseño de Sistemas de Información -ADSI- (2020-2021)</h3>
 
+<a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27703">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Análisis y Diseño de Sistemas de Información</a>.
+
 <h3>Sistemas de Gestión de Seguridad de Sistemas de Información -SGSSI- (2020-2021)</h3>
+
+<a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=26025">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Sistemas de Gestión de Seguridad de Sistemas de Información</a>.
 
 <h3>Semantic Biology II (3SBiology Trento 2014)</h3>
 
@@ -20,7 +36,7 @@ GitHub repo (<a href="http://github.com/mikel-egana-aranguren/3SBiologyTrento201
 
 GitHub repo (<a href="https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment">https://github.com/mikel-egana-aranguren/Galaxy_MSc_Marine_Environment</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_MSc_Marine_Environment/galaxy.html.</a>).
 
-<h2>EJIE</h2>
+<h2 id="ejie">EJIE</h2>
 
 <h3>OWL (Proyecto OLD - 2016)</h3>
 
@@ -35,14 +51,14 @@ Slides: <a href="slides-linked-open-data-ejie.html">HTML</a>.
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataEjie2016">EJIE-LOD</a>
 
-<h2>IZFE</h2>
+<h2 id="izfe">IZFE</h2>
 
 <h3>Linked Open Data (2015)</h3>
 Slides: <a href="slides-linked-open-data.html">HTML</a>.
 
 Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedOpenDataIZFE2015">IZFE-LOD</a>
 
-<h2>UM</h2>
+<h2 id="um">UM</h2>
 
 <h3>FAIR data (Máster Bioinformática 2020-2021)</h3>
 
@@ -85,13 +101,13 @@ Todo el contenido (Ejercicios, datos, programas, slides): <a href="https://githu
 Slides: <a href="//mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/2012-2013/Clases/UM_Bioinformatics_LD.html#/">HTML</a> (ESC para panorámica).
 Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost): <a href="http://github.com/mikel-egana-aranguren/LSLD">Life Sciences Linked Data at GitHub</a>
 
-<h2>CBGP</h2>
+<h2 id="cbgp">CBGP</h2>
 
 <h3>Galaxy tutorial</h3>
 
 GitHub repo (<a href="http://github.com/mikel-egana-aranguren/Galaxy_tutorial">http://github.com/mikel-egana-aranguren/Galaxy_tutorial</a>), slides (<a href="http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html">http://mikel-egana-aranguren.github.io/Galaxy_tutorial/galaxy.html</a>).
 
-<h2>UPM</h2>
+<h2 id="cbgp">UPM</h2>
 
 <h3>OWL (ATHENS 2012)</h3>
 
@@ -137,5 +153,5 @@ Holger Knublauch, Robert Stevens, Hai Wang, and Chris Wroe. OWL pizzas: Practica
  	<li>Ejemplos (<a href="http://http://www.gong.manchester.ac.uk/odp/html/index.html">http://www.gong.manchester.ac.uk/odp/html/index.html</a>, <a href="http://ontologydesignpatterns.org">http://ontologydesignpatterns.org</a>).</li>
 </ul>
 
-<h2>University of Manchester</h2>
+<h2 id="manchester">University of Manchester</h2>
 OWL tutorials for biologists. [<a href="http://www.co-ode.org/resources/tutorials/bio/">CO-ODE</a>]
