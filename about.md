@@ -35,7 +35,7 @@ You can find me using other resources (that probably need some updating):
 
 #### Office 
 
-Despacho / Bulegoa : P3I31
+Despacho / Bulegoa : P3I16
 
 Lengoaia eta Sistema Informatikoak Saila / Depto. Lenguajes y Sistemas Informáticos
 
