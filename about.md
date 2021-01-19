@@ -33,9 +33,9 @@ You can find me using other resources (that probably need some updating):
 
 ### Contact
 
-#### Office 
+#### Office
 
-Despacho / Bulegoa : P3I16
+Despacho / Bulegoa: P3I16
 
 Lengoaia eta Sistema Informatikoak Saila / Depto. Lenguajes y Sistemas Informáticos
 
