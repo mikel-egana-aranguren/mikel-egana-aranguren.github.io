@@ -20,6 +20,10 @@ permalink: /teaching/
 
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27684">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Gestión de Proyectos</a>.
 
+<a href="https://github.com/mikel-egana-aranguren/EHU-GP-31">https://github.com/mikel-egana-aranguren/EHU-GP-31 (EUS)</a>.
+
+<a href="https://github.com/mikel-egana-aranguren/EHU-GP-01">https://github.com/mikel-egana-aranguren/EHU-GP-01 (CAST)</a>.
+
 <h3>Análisis y Diseño de Sistemas de Información -ADSI- (2020-2021)</h3>
 
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27703">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Análisis y Diseño de Sistemas de Información</a>.
