@@ -16,7 +16,9 @@ permalink: /teaching/
 
 <h2  id="upv-ehu">UPV/EHU</h2>
 
-<h3>Gestión de Proyectos -GP-(2020-2021)</h3>
+<h3>Gestión de Proyectos (GP)</h3>
+
+Impartido el curso 2020-2021.
 
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27684">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Gestión de Proyectos</a>.
 
@@ -24,13 +26,21 @@ permalink: /teaching/
 
 <a href="https://github.com/mikel-egana-aranguren/EHU-GP-01">https://github.com/mikel-egana-aranguren/EHU-GP-01 (CAST)</a>.
 
-<h3>Análisis y Diseño de Sistemas de Información -ADSI- (2020-2021)</h3>
+<h3>Análisis y Diseño de Sistemas de Información (ADSI)</h3>
+
+Prácticas impartidas los cursos 2020-2021, 2021-2022.
 
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=27703">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Análisis y Diseño de Sistemas de Información</a>.
 
-<h3>Sistemas de Gestión de Seguridad de Sistemas de Información -SGSSI- (2020-2021)</h3>
+<h3>Sistemas de Gestión de Seguridad de Sistemas de Información (SGSSI)</h3>
+
+Impartido los cursos 2020-2021, 2021-2022.
 
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=26025">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Sistemas de Gestión de Seguridad de Sistemas de Información</a>.
+
+<a href="https://github.com/mikel-egana-aranguren/EHU-SGSSI-31">https://github.com/mikel-egana-aranguren/EHU-SGSSI-31 (EUS)</a>.
+
+<a href="https://github.com/mikel-egana-aranguren/EHU-SGSSI-01">https://github.com/mikel-egana-aranguren/EHU-SGSSI-01 (CAST)</a>.
 
 <h3>Semantic Biology II (3SBiology Trento 2014)</h3>
 
