@@ -6,6 +6,13 @@ permalink: /research/
 
 I have been involved in the following funded projects:
 <ul>
+    <li>2021 - 2024. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
+Support the Learning Health System). PID2020-113723RB-C22.
+Agencia Estatal de Investigación, “Proyectos I+D+i 2020” -
+Modalidades “Retos Investigación” y “Generación de Conocimiento”
+(Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020).
+136.972,00 EUR. 01/09/2021 - 31/08/2024
+	</li>
 	<li>2020 - 2021. <a href="https://github.com/opendata-euskadi/Linked-Data-fase-2">Linked Open Data Fase 2</a> (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). Basque Government, Spain. </li>
 	<li>2018. <a href="http://www.ejie.eus/y79-contgen/es/contenidos/anuncio_contratacion/expx74j30109/es_doc/es_arch_expx74j30109.html?ruta=/y79-appcontr/es/v79aWar/comunJSP/v79aSuscribirRSS.do?=R01HPortal=y79&amp;R01HPage=appcontr&amp;R01HLang=es&amp;widget=true&amp;p01=AC&amp;p02=&amp;p03=8&amp;p04=&amp;p05=&amp;p06=&amp;p07=&amp;p08=&amp;p09=&amp;p10=&amp;p11=&amp;p12=&amp;p13=&amp;p14=&amp;p15=05%2F04%2F2018&amp;p16=&amp;p17=AMPLIADO&amp;p18=false&amp;p19=false&amp;p20=false&amp;p21=es&amp;p22=ultimos30dias&amp;p23=&amp;p24=y79-appcontr&amp;p25=y79-contgen&amp;p45=true&amp;p48=&amp;p51=1">Servicios Directorio Linked Open Data</a>. Basque Government, Spain. (70.000 EUR)</li>
 	<li>2016 - 2018. <a href="http://replicate-project.eu/">REPLICATE: Renaissance of Places with Innovative Citizenship And TEchnology</a> (Project 691735).  EU. (Consortium:  24M EUR; Eurohelp:  300.000 EUR)</li>
