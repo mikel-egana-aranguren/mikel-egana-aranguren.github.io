@@ -74,46 +74,27 @@ Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedO
 
 <h2 id="um">UM</h2>
 
-<h3>FAIR data (Máster Bioinformática 2020-2021)</h3>
+<h3>FAIR data / Life Sciences Semantic Web (Máster Bioinformática)</h3>
 
-Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR</a>
+<ul>
 
-<h3>Life Sciences Semantic Web (Máster Bioinformática 2017-2018)</h3>
+<li>(2021-2022) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR</a></li>
 
-Slides: <a href="slides-lssw-um-17-18.html">HTML</a>. 
+<li>(2020-2021) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2020-FAIR</a></li>
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2017-2018">LSSW-UM-2016-2017@GitHub</a>
+<li>(2017-2018) Slides: <a href="slides-lssw-um-17-18.html">HTML</a>. Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2017-2018">LSSW-UM-2016-2017@GitHub</a></li>
 
-<h3>Life Sciences Semantic Web (Máster Bioinformática 2016-2017)</h3>
+<li>(2016-2017) Slides: <a href="slides-lssw-um-16-17.html">HTML</a>. Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2016-2017">LSSW-UM-2016-2017@GitHub</a></li>
 
-Slides: <a href="slides-lssw-um-16-17.html">HTML</a>. 
+<li>(2015-2016) Slides: <a href="slides-lssw-um-15-16.html">HTML</a>. Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2015-2016">LSSW-UM-2015-2016@GitHub</a></li>
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2016-2017">LSSW-UM-2016-2017@GitHub</a>
+<li>(2014-2015) Slides: <a href="http://mikel-egana-aranguren.github.io/LSSW-UM-2014-2015/index.html">HTML</a>. Todo el contenido (Ejercicios, datos, programas, slides): <a href="http://github.com/mikel-egana-aranguren/LSSW-UM-2014-2015">Life Sciences Semantic Web at GitHub</a>. <a href="http://github.com/mikel-egana-aranguren/LinkedDataServer">Linked Data Server</a>.</li>
 
-<h3>Life Sciences Semantic Web (Máster Bioinformática 2015-2016)</h3>
+<li>(2014-2015) Slides: <a href="http://mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/index.html">HTML</a>. Todo el contenido (Ejercicios, datos, programas, slides): <a href="https://github.com/mikel-egana-aranguren/MSc_Bioinformatics_UM_13-14_LSSW">Life Sciences Semantic Web at GitHub</a></li>
 
-Slides: <a href="slides-lssw-um-15-16.html">HTML</a>.
+<li>(2013-2014) Slides: <a href="//mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/2012-2013/Clases/UM_Bioinformatics_LD.html#/">HTML</a> (ESC para panorámica). Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost): <a href="http://github.com/mikel-egana-aranguren/LSLD">Life Sciences Linked Data at GitHub</a></li>
 
-Ejercicios, slides, etc: <a href="https://github.com/mikel-egana-aranguren/LSSW-UM-2015-2016">LSSW-UM-2015-2016@GitHub</a>
-
-<h3>Life Sciences Semantic Web (Máster Bioinformática 2014)</h3>
-
-Slides: <a href="http://mikel-egana-aranguren.github.io/LSSW-UM-2014-2015/index.html">HTML</a>.
-
-Todo el contenido (Ejercicios, datos, programas, slides): <a href="http://github.com/mikel-egana-aranguren/LSSW-UM-2014-2015">Life Sciences Semantic Web at GitHub</a>
-
-Linked Data Server: http://github.com/mikel-egana-aranguren/LinkedDataServer
-
-<h3>Life Sciences Semantic Web (Máster Bioinformática 2014)</h3>
-
-Slides: <a href="http://mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/index.html">HTML</a>.
-
-Todo el contenido (Ejercicios, datos, programas, slides): <a href="https://github.com/mikel-egana-aranguren/MSc_Bioinformatics_UM_13-14_LSSW">Life Sciences Semantic Web at GitHub</a>
-
-<h3>Life Sciences Linked Data (Máster Bioinformática 2013)</h3>
-
-Slides: <a href="//mikel-egana-aranguren.github.io/MSc_Bioinformatics_UM_13-14_LSSW/2012-2013/Clases/UM_Bioinformatics_LD.html#/">HTML</a> (ESC para panorámica).
-Práctica (Pack ya listo y configurado para publicar un dataset LD en localhost): <a href="http://github.com/mikel-egana-aranguren/LSLD">Life Sciences Linked Data at GitHub</a>
+</ul>
 
 <h2 id="cbgp">CBGP</h2>
 
