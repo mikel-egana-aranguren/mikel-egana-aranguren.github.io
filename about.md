@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Short bio
 
-My name is Mikel Egaña Aranguren, and I am an Assistant Profesor at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems, Bilbo, Spain.
+My name is Mikel Egaña Aranguren, and I am an <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=135638">Assistant Profesor</a> at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems, Bilbo, Spain.
 
 My research interests revolve around the idea of making the publication of data following FAIR principles (Findable, Accessible, Interoperable, Reusable) easier and more efficient. I am also interested in Open Data and transparency, Konwledge Graphs and Linked Data, Semantic Web in general, Free Software, ontology engineering and biohealth informatics.
 
