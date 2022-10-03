@@ -10,7 +10,7 @@ My name is Mikel Egaña Aranguren, and I am an <a href="https://www.ehu.eus/es/w
 
 My research interests revolve around the idea of making the publication of data following FAIR principles (Findable, Accessible, Interoperable, Reusable) easier and more efficient. I am also interested in Open Data and transparency, Konwledge Graphs and Linked Data, Semantic Web in general, Free Software, ontology engineering and biohealth informatics.
 
-I am a biologist by the UPV/EHU; I also hold a PhD in computer science and an MSc in Bioinformatics, both awarded by the Univesity of Manchester, UK. I have worked in academia (UM, UPM and UPV/EHU in Spain; VIB in Belgium), and in the private sector ([eccenca GmbH](https://eccenca.com) in Germany and Eurohelp Consulting in Spain, funded by the Torres Quevedo program). I have also done Freelance work for Cognizone (Belgium), Intellimedis (Luxembourg), and UM (Spain).
+I am a biologist by the UPV/EHU; I also hold a PhD in computer science and an MSc in Bioinformatics, both awarded by the Univesity of Manchester, UK. I have worked in academia (UM, UPM and UPV/EHU in Spain; VIB in Belgium), and in the private sector ([eccenca GmbH](https://eccenca.com) in Germany and [Eurohelp Consulting](https://eurohelp.es/) in Spain, funded by the Torres Quevedo program). I have also done Freelance work for Cognizone (Belgium), Intellimedis (Luxembourg), and UM (Spain).
 
 ### Curriculum vitae
 
