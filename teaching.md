@@ -20,19 +20,17 @@ permalink: /teaching/
 
 TFG ofertados 22-23 / 22-23-rako GrAL-ak:
 
-* []().
-* []().
-* []().
-* []().
-* []().
-* []().
-* []().
-* []().
+* [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf).
+* [SEO semántico mediante JSON-LD/Schema para web de juegos de mesa planetongames.com](MikelEgaña-TFG-22-23-JSON-LD-Schema-PlanetOnGames.pdf).
+* [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf).
+* [Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi](MikelEgaña-TFG-22-23-OpenDataEuskadi-API-REST-mapas.pdf).
+* [Progressive Web App para la gestión de deportes entre amigos](MikelEgaña-TFG-22-23-ProgressiveWebApp-deporte-amigos.pdf).
+* [SOLID POD y aplicación NODE.js para publicar datos sobre CV](MikelEgaña-TFG-22-23-SOLID-POD-LinkedIn.pdf).
 
-Aurkeztutako eta gainditutako GrAL-al (2022 Azaroko deialdian):
+2022 Azaroko deialdian aurkeztutako GrAL-ak:
 
-*.
-*.
+* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa.
+* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa.
 
 <h3>Análisis y Diseño de Sistemas de Información (ADSI)</h3>
 
