@@ -16,6 +16,24 @@ permalink: /teaching/
 
 <h2  id="upv-ehu">UPV/EHU</h2>
 
+### TFGs/GrAL-ak
+
+TFG ofertados 22-23 / 22-23-rako GrAL-ak:
+
+* []().
+* []().
+* []().
+* []().
+* []().
+* []().
+* []().
+* []().
+
+Aurkeztutako eta gainditutako GrAL-al (2022 Azaroko deialdian):
+
+*.
+*.
+
 <h3>Análisis y Diseño de Sistemas de Información (ADSI)</h3>
 
 Prácticas impartidas los cursos 2020-2021, 2021-2022, 2022-2023.
