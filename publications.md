@@ -89,10 +89,11 @@ Basic introduction to the shell. This is a very basic tutorial on how to use the
 
 <strong>Euskara</strong>
 
-CAF-Elhuyar sarietara (2009 eta 2010) aurkeztutako artikuluak (Ez nuen saririk jaso):
+CAF-Elhuyar sarietara aurkeztutako artikuluak (Ez nuen saririk jaso):
 <ul>
- 	<li>Informazio biologikoa web semantikoaren bidez kudeatzeko diseinu patroiak. Nire tesiaren euskarazko laburpena. [<a href="mikelegana_websembio_cafelhuyar.pdf">pdf</a>]</li>
- 	<li>Datuen amarauna. <a href="http://eu.wikipedia.org/wiki/Datu_estekatuak">Linked Data</a>-ri buruzko artikulua [<a href="caf_elhuyar_2010_datuen_amarauna.pdf">pdf</a>]</li>
+	<li>(2021) Datu zientifikoen argitalpen eraginkorra FAIR printzipioen bidez. [<a href="FAIR_printzipioak.pdf">pdf</a>]</li>
+    <li>(2010) Datuen amarauna. <a href="http://eu.wikipedia.org/wiki/Datu_estekatuak">Linked Data</a>-ri buruzko artikulua [<a href="caf_elhuyar_2010_datuen_amarauna.pdf">pdf</a>]</li>
+ 	<li>(2009) Informazio biologikoa web semantikoaren bidez kudeatzeko diseinu patroiak. Nire tesiaren euskarazko laburpena. [<a href="mikelegana_websembio_cafelhuyar.pdf">pdf</a>]</li>
 </ul>
 Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitaletxe digital bat sortzeko ideiekin. [<a href="mikel_egac3b1a_aranguren_txostena.pdf">pdf</a>]
 
