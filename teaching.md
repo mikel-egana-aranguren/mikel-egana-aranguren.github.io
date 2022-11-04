@@ -18,7 +18,7 @@ permalink: /teaching/
 
 ### TFGs/GrAL-ak
 
-TFG ofertados 22-23 / 22-23-rako GrAL-ak:
+TFG ofertados / Eskainitako GrAL-ak (Euskaraz ere egin ahal dugu nahi izanez gero):
 
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf).
 * [SEO semántico mediante JSON-LD/Schema para web de juegos de mesa planetongames.com](MikelEgaña-TFG-22-23-JSON-LD-Schema-PlanetOnGames.pdf).
@@ -26,6 +26,8 @@ TFG ofertados 22-23 / 22-23-rako GrAL-ak:
 * [Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi](MikelEgaña-TFG-22-23-OpenDataEuskadi-API-REST-mapas.pdf).
 * [Progressive Web App para la gestión de deportes entre amigos](MikelEgaña-TFG-22-23-ProgressiveWebApp-deporte-amigos.pdf).
 * [SOLID POD y aplicación NODE.js para publicar datos sobre CV](MikelEgaña-TFG-22-23-SOLID-POD-LinkedIn.pdf).
+* [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf).
+* [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf).
 
 2022 Azaroko deialdian aurkeztutako GrAL-ak:
 

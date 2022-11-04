@@ -6,6 +6,7 @@ permalink: /talks/
 
 
 <h2>Invited talks</h2>
+
 [02/2016] Datos enlazados y Web Semántica. <a href="http://tikitalka.com/">TikiTalka</a> VE Interactive Bilbao. [<a href="slides-linked-data.html">html</a>]
 
 [09/2014] Building reasonable biomedical ontologies for a Life Sciences Semantic Web. 3S (Systems, Synthetic, and Semantic) Biology summer school. CIBIO (Centre for
