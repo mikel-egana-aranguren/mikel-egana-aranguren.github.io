@@ -42,13 +42,11 @@ Prácticas impartidas los cursos 2020-2021, 2021-2022, 2022-2023.
 
 <h3>Sistemas de Gestión de Seguridad de Sistemas de Información (SGSSI)</h3>
 
-Impartido los cursos 2020-2021, 2021-2022, 2022-2023.
-
 <a href="https://www.ehu.eus/es/web/guest/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas-por-curso?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20200&p_ciclo=X&p_curso=3&p_cod_asignatura=26025">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Sistemas de Gestión de Seguridad de Sistemas de Información</a>.
 
-<a href="https://github.com/mikel-egana-aranguren/EHU-ISSKS-31">https://github.com/mikel-egana-aranguren/EHU-ISSKS-31 (EUS)</a>.
+<a href="https://github.com/mikel-egana-aranguren/EHU-ISSKS-31">https://github.com/mikel-egana-aranguren/EHU-ISSKS-31 (EUS)</a>: <a href="https://github.com/mikel-egana-aranguren/EHU-ISSKS-31/tree/2021-2022">2021-2022</a>, 2022-2023.
 
-<a href="https://github.com/mikel-egana-aranguren/EHU-SGSSI-01">https://github.com/mikel-egana-aranguren/EHU-SGSSI-01 (CAST)</a>.
+<a href="https://github.com/mikel-egana-aranguren/EHU-SGSSI-01">https://github.com/mikel-egana-aranguren/EHU-SGSSI-01 (CAST)</a>: 2020-2021, <a href="https://github.com/mikel-egana-aranguren/EHU-SGSSI-01/tree/2021-2022">2021-2022</a>, 2022-2023.
 
 <h3>Gestión de Proyectos (GP)</h3>
 
@@ -96,7 +94,7 @@ Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedO
 
 <ul>
 
-<li>(2022-2023) Slides, server, etc:</li>
+<li>(2022-2023) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data">https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data</a></li>
 
 <li>(2021-2022) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR</a></li>
 
