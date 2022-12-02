@@ -31,8 +31,8 @@ TFG ofertados / Eskainitako GrAL-ak (Euskaraz ere egin ahal dugu nahi izanez ger
 
 2022 Azaroko deialdian aurkeztutako GrAL-ak:
 
-* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa.
-* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa.
+* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa. Maialen Ruiz.
+* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa. Jon Ander Asua.
 
 <h3>Análisis y Diseño de Sistemas de Información (ADSI)</h3>
 

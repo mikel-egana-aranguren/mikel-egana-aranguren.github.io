@@ -97,7 +97,7 @@ CAF-Elhuyar sarietara aurkeztutako artikuluak (Ez nuen saririk jaso):
 </ul>
 Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitaletxe digital bat sortzeko ideiekin. [<a href="mikel_egac3b1a_aranguren_txostena.pdf">pdf</a>]
 
-<a href="http://eu.wikipedia.org/wiki/Azala">Euskarazko wikipedian</a> ere banabil, edukia sortzen edo hobetzen, ahal dudan heinean.
+<a href="https://eu.wikipedia.org/wiki/Lankide:Mikel.egana.aranguren">Euskarazko wikipedian</a> ere banabil, edukia sortzen edo hobetzen, ahal dudan heinean.
 
 <strong>Español</strong>
 
