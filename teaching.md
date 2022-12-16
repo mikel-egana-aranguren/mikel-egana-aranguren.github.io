@@ -18,7 +18,7 @@ permalink: /teaching/
 
 ### TFGs/GrAL-ak
 
-TFG ofertados / Eskainitako GrAL-ak (Euskaraz ere egin ahal dugu nahi izanez gero):
+TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf).
 * [SEO semántico mediante JSON-LD/Schema para web de juegos de mesa planetongames.com](MikelEgaña-TFG-22-23-JSON-LD-Schema-PlanetOnGames.pdf).
