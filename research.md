@@ -26,7 +26,6 @@ I have done freelance work:
 	<li>I wrote the <span class="background-details"><span class="lt-line-clamp__line lt-line-clamp__line--last"><a href="DOC20181203121353PCPP.pdf">Public tender</a> for two projects under the <a href="http://hercules.um.es/">Hércules initiative</a>, a federation of University research data through Linked Open Data (5 million EUR).
 </span></span></li>
 	<li><a href="https://www.cogni.zone">Cognizone</a> (Ontology Engineering).</li>
-	<li>Intellimedis (Ontology Engineering).</li>
 </ul>
 I am or have been involved in the following technical developments:
 <ul>

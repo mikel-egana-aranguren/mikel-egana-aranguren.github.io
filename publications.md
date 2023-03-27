@@ -91,6 +91,7 @@ Basic introduction to the shell. This is a very basic tutorial on how to use the
 
 CAF-Elhuyar sarietara aurkeztutako artikuluak (Ez nuen saririk jaso):
 <ul>
+	<li>(2023) Bitcoin eta Troika: ideologia non-nahi. [<a href="CAF_Elhuyar_2022_BitCoin_Austriar_Eskola.pdf">pdf</a>]</li>
 	<li>(2021) Datu zientifikoen argitalpen eraginkorra FAIR printzipioen bidez. [<a href="FAIR_printzipioak.pdf">pdf</a>]</li>
     <li>(2010) Datuen amarauna. <a href="http://eu.wikipedia.org/wiki/Datu_estekatuak">Linked Data</a>-ri buruzko artikulua [<a href="caf_elhuyar_2010_datuen_amarauna.pdf">pdf</a>]</li>
  	<li>(2009) Informazio biologikoa web semantikoaren bidez kudeatzeko diseinu patroiak. Nire tesiaren euskarazko laburpena. [<a href="mikelegana_websembio_cafelhuyar.pdf">pdf</a>]</li>
@@ -101,11 +102,8 @@ Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitale
 
 <strong>Español</strong>
 
-Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="01678941.pdf">pdf</a>]. También disponible en:
-<ul>
- 	<li>https://contrataciondelestado.es/wps/wcm/connect/12ede981-14f4-4993-9696-d0b7e41f2265/DOC20190403143712Informe+Hercules.pdf?MOD=AJPERES</li>
- 	<li>https://sede.um.es/perfilcontratante/uploads/01678941.PDF</li>
-</ul>
+Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="01678941.pdf">pdf</a>]. 
+
 <a href="https://vimeo.com/42962819">Video divulgativo</a> sobre <a href="http://es.wikipedia.org/wiki/Datos_enlazados">Linked Data</a> para el concurso <a href="http://www.onzientzia.tv/bideoa-ikusi.asp?Kodea=332&amp;lang=ES">On Zientzia 2012</a>.
 
 Software libre (GNU/linux) para biólogos. BioGaia 3, 2003 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="linuxbiologos.pdf">pdf</a>]
