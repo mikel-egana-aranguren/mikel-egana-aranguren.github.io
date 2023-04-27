@@ -4,8 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-I have been involved in the following funded projects:
+Currently ongoing projects:
 <ul>
+	<li>2023. eccenca Educational Services (Linked Data Expert course). Eccenca GmbH, Germany. (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
+    <li>2023 - 2024. Methods for automatic generation of Knowledge Graph. Universidad de Murcia (UM), BASF (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
     <li>2021 - 2024. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
 Support the Learning Health System). PID2020-113723RB-C22.
 Agencia Estatal de Investigación, “Proyectos I+D+i 2020” -
@@ -13,6 +15,10 @@ Modalidades “Retos Investigación” y “Generación de Conocimiento”
 (Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020).
 136.972,00 EUR. 01/09/2021 - 31/08/2024
 	</li>
+</ul>
+
+Finished projects:
+<ul>
 	<li>2020 - 2021. <a href="https://github.com/opendata-euskadi/Linked-Data-fase-2">Linked Open Data Fase 2</a> (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). Basque Government, Spain. </li>
 	<li>2018. <a href="http://www.ejie.eus/y79-contgen/es/contenidos/anuncio_contratacion/expx74j30109/es_doc/es_arch_expx74j30109.html?ruta=/y79-appcontr/es/v79aWar/comunJSP/v79aSuscribirRSS.do?=R01HPortal=y79&amp;R01HPage=appcontr&amp;R01HLang=es&amp;widget=true&amp;p01=AC&amp;p02=&amp;p03=8&amp;p04=&amp;p05=&amp;p06=&amp;p07=&amp;p08=&amp;p09=&amp;p10=&amp;p11=&amp;p12=&amp;p13=&amp;p14=&amp;p15=05%2F04%2F2018&amp;p16=&amp;p17=AMPLIADO&amp;p18=false&amp;p19=false&amp;p20=false&amp;p21=es&amp;p22=ultimos30dias&amp;p23=&amp;p24=y79-appcontr&amp;p25=y79-contgen&amp;p45=true&amp;p48=&amp;p51=1">Servicios Directorio Linked Open Data</a>. Basque Government, Spain. (70.000 EUR)</li>
 	<li>2016 - 2018. <a href="http://replicate-project.eu/">REPLICATE: Renaissance of Places with Innovative Citizenship And TEchnology</a> (Project 691735).  EU. (Consortium:  24.965.263,09; Eurohelp:  328.580,00 EUR)</li>
@@ -21,19 +27,26 @@ Modalidades “Retos Investigación” y “Generación de Conocimiento”
 	<li>2017 - 2018. SOLDAGE (Semantic Open Linked DAta GEnerator), a <a href="https://www.nature.com/articles/sdata201618">FAIR</a> data generator. Hazitek, Basque Government. (150.000 EUR)</li>
 	<li>2015. Enlazando Gipuzkoa con el Mundo (ENGIMU). Gipuzkoako Foru Aldundia, Gipuzkoa IKT: Innovación digital Empresas, Spain. (40.000 EUR)</li>
 </ul>
-I have done freelance work:
+
+Past freelance work:
 <ul>
 	<li>I wrote the <span class="background-details"><span class="lt-line-clamp__line lt-line-clamp__line--last"><a href="DOC20181203121353PCPP.pdf">Public tender</a> for two projects under the <a href="http://hercules.um.es/">Hércules initiative</a>, a federation of University research data through Linked Open Data (5 million EUR).
 </span></span></li>
 	<li><a href="https://www.cogni.zone">Cognizone</a> (Ontology Engineering).</li>
 </ul>
-I am or have been involved in the following technical developments:
+
+Current technical developments:
+
 <ul>
 	<li>Transparent Relations Ontology (TRO): TRO offers a vocabulary to publish information about relations that should be more transparent, usually between powerful parties. [<a href="https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology">https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology</a>]</li>
     <li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac</a>]</li>
+</ul>
+
+Past technical developments:
+<ul>
 	<li>Linked Open Data Euskadi: migration of current Open Data Euskadi to Linked Open Data (Phases I and II). [<a href="https://github.com/opendata-euskadi">https://github.com/opendata-euskadi</a>]</li>
 	<li>Guerra Civil en Euskadi: this resource integrates data about the spanish civil war in Euskadi, through RDF graphs, and it offers nice visualisations. [<a href="http://guerracivileuskadi.eurohelp.es/">http://guerracivileuskadi.eurohelp.es/</a>]</li>
-	<li>Linked Data Test Suite:Tests and reporting for Linked Data systems. [<a href="https://github.com/mikel-egana-aranguren/LinkedDataTestSuite">https://github.com/mikel-egana-aranguren/LinkedDataTestSuite</a>]</li>
+	<li>Linked Data Test Suite: Tests and reporting for Linked Data systems. [<a href="https://github.com/mikel-egana-aranguren/LinkedDataTestSuite">https://github.com/mikel-egana-aranguren/LinkedDataTestSuite</a>]</li>
 	<li>ALDAPA: Assistant for Linked DAta Production Automation. [<a href="https://github.com/mikel-egana-aranguren/ALDAPA">https://github.com/mikel-egana-aranguren/ALDAPA</a>]</li>
 	<li>SADI-Galaxy is a wrapper of <a href="http://sadiframework.org/content/about-sadi/">SADI</a> services for <a href="http://galaxyproject.org/">Galaxy</a>. [<a href="http://github.com/mikel-egana-aranguren/SADI-Galaxy">http://github.com/mikel-egana-aranguren/SADI-Galaxy</a>]. There are also two <a href="https://www.docker.com/">Docker</a> versions for easy deployment, each of them with a different approach: <a href="https://github.com/mikel-egana-aranguren/SADI-Docker-Galaxy">SADI-Docker-Galaxy</a> provides the SADI tools as a Docker image and how to configure Galaxy to run Docker images; <a href="http://github.com/mikel-egana-aranguren/SADI-Galaxy-Docker">SADI-Galaxy-Docker</a> provides the whole Galaxy server, preconfigured with SADI tools, as a Docker image.</li>
 	<li>OpenLifeData2SADI is a set of SADI services that wraps the Linked Data resources from Open Life Data (formerly known as Bio2RDF). I wrote the Galaxy pipelines to demonstrate how to use the SADI services. [<a href="http://github.com/wilkinsonlab/OpenLifeData2SADI">http://github.com/wilkinsonlab/OpenLifeData2SADI</a>]</li>
