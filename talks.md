@@ -7,6 +7,8 @@ permalink: /talks/
 
 <h2>Invited talks</h2>
 
+[04/2023] Grafos de conocimiento y transparencia. <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/">Bilbo Data Lab, Wikitoki</a>. [<a href="BilbaoDataLabGRafos.pdf">pdf</a>]
+
 [02/2016] Datos enlazados y Web Semántica. <a href="http://tikitalka.com/">TikiTalka</a> VE Interactive Bilbao. [<a href="slides-linked-data.html">html</a>]
 
 [09/2014] Building reasonable biomedical ontologies for a Life Sciences Semantic Web. 3S (Systems, Synthetic, and Semantic) Biology summer school. CIBIO (Centre for
