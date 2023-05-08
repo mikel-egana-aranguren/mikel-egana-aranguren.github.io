@@ -24,8 +24,8 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf). Co-dirigido por [Xabier Barandiaran](https://xabier.barandiaran.net/).
 * [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf).
 * [SOLID POD y aplicación NODE.js para publicar datos sobre CV](MikelEgaña-TFG-22-23-SOLID-POD-LinkedIn.pdf).
-* [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf).
-* [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf).
+* [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
+* [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 
 2022 Azaroko deialdian aurkeztutako GrAL-ak:
 
