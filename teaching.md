@@ -20,6 +20,7 @@ permalink: /teaching/
 
 TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Publication of scientific result following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf). Co-dirigido por [Xabier Barandiaran](https://xabier.barandiaran.net/).
 * [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf).
