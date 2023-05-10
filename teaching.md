@@ -34,10 +34,10 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 * [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 * [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 
-2022 Azaroko deialdian aurkeztutako GrAL-ak:
+2022 Azaroko deialdian ikasleek defendatutako GrAL-ak:
 
-* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa. Maialen Ruiz.
-* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa. Jon Ander Asua.
+* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa.
+* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa.
 
 <h3>Análisis y Diseño de Sistemas de Información (ADSI)</h3>
 
