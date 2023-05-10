@@ -24,4 +24,9 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 * Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa.
 * Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa.
 
+### PhD
+
+Ideas para posibles tesis doctorales que me gustaría supervisar:
+
+* Plataforma basada en grafos de conocimiento para la representación y explotación de datos sobre posibles conflictos de interés.
 
