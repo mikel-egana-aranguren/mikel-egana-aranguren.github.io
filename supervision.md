@@ -4,6 +4,8 @@ title: Student supervision
 permalink: /supervision/
 ---
 
+Feel free to [contact me](https://mikel-egana-aranguren.github.io/about/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/about/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/about/) conmigo sin problema.
+
 ### TFGs/GrAL-ak
 
 TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
@@ -28,5 +30,6 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
 Ideas para posibles tesis doctorales que me gustaría supervisar:
 
-* Plataforma basada en grafos de conocimiento para la representación y explotación de datos sobre posibles conflictos de interés.
-
+* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi.
+* Effective and FAIR publication of Metagenomics high volume data through semantic web technologies.
+* FAIR maturity level of Spanish Open Data Portals: a diagnosis and future directions.
