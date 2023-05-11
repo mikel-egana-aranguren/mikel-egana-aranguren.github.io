@@ -4,7 +4,7 @@ title: Student supervision
 permalink: /supervision/
 ---
 
-Feel free to [contact me](https://mikel-egana-aranguren.github.io/about/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/about/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/about/) conmigo sin problema.
+Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/contact/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/contact/) conmigo sin problema.
 
 ### TFGs/GrAL-ak
 
