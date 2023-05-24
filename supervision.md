@@ -10,6 +10,7 @@ Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if y
 
 TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Desarrollo de una plataforma interactiva para la visualización del potencial fotovoltaico en tejado](PropuestaTFG-Profesorado_Plataforma_web_UPV_solar.pdf). Co-dirigido por [Rosa Lago Aurrekoetxea](https://www.ehu.eus/es/web/graduak/grado-ingenieria-mecanica-bizkaia/profesorado?p_redirect=fichaPDI&p_idp=6010).
 * [Aplicación de algoritmos Graph Machine Learning sobre datos de la red social Mastodon.eus](MikelEgaña-TFG-22-23-Mastodon-Grafo-Algoritmos.pdf).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Nuevas técnicas de Test de Penetración en Sistemas Embebidos](MikelEgaña-Ikerlan-TFG-22-23-Pentest-sistemas-embebidos.pdf). A realizar en [Ikerlan](https://www.ikerlan.es/).

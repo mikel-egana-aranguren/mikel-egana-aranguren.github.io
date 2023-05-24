@@ -30,4 +30,4 @@ You can find me using other resources (that probably need some updating):
 * [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Aranguren:Mikel_Ega=ntilde=a).
 * [Zenodo](http://zenodo.org/search?f=author&p=Mikel%20Ega%C3%B1a%20Aranguren&ln=en).
 * [Solid](https://mikeleganaaranguren.inrupt.net/).
-*  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">Mastodon</a>.
+*  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">mastodon.eus/@mikel_egana_aranguren</a>.
