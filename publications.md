@@ -25,7 +25,7 @@ Astrid Duque-Ramos, Jesualdo T. Fernández-Breis, Miguela Iniesta, Michel Dumon
 
 José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terrazas and Jesualdo Tomás Fernández-Breis. Publishing Orthology and Diseases Information in the Linked Open Data cloud.<em> Current Bioinformatics</em> 2012, 7 (3), 255-266. [<a href="http://dx.doi.org/10.2174/157489312802460811">Bentham science</a>][<a href="currentbioinformatics-ogolod.pdf">pdf</a>]
 
-Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://iospress.metapress.com/content/g1754121847215j2/">IOS Press</a>][<a href="247-261.pdf">pdf</a>]
+Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://dx.doi.org/10.3233/AO-2011-0097">IOS Press</a>][<a href="247-261.pdf">pdf</a>]
 
 Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar, Jesualdo Tomás Fernández Breis, Marisa Madrid. Semantic integration of information about orthologs and diseases: The OGO system. <em>Journal of Biomedical Informatics </em>2011, 44, 1020-1031. [<a href="http://dx.doi.org/10.1016/j.jbi.2011.08.002">Science Direct</a>][<a href="jbi-ogo.pdf">pdf</a>]
 
