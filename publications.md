@@ -31,7 +31,7 @@ Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar,
 
 Erick Antezana, Ward Blondé, Mikel Egaña, Alistair Rutherford, Robert Stevens, Bernard De Baets, Vladimir Mironov, Martin Kuiper. BioGateway: a semantic systems biology tool for the life sciences. <em>BMC bioinformatics</em> 2009, 10(Suppl 10):S11. [<a href="http://www.biomedcentral.com/1471-2105/10/S10/S11">BMC bioinformatics</a>]
 
-Erick Antezana, Mikel Egaña, Bernard De Baets, Ward Blondé, Aitzol Illarramendi, Iñaki Bilbao, Bernard De Baets, Robert Stevens, Vladimir Mironov and Martin Kuiper. The Cell Cycle Ontology: An application ontology for the representation and integrated analysis of the cell cycle process. <em>Genome Biology </em>2009, 10:R58. [<a href="http://genomebiology.com/2009/10/5/R58">Genome Biology</a>]
+Erick Antezana, Mikel Egaña, Bernard De Baets, Ward Blondé, Aitzol Illarramendi, Iñaki Bilbao, Bernard De Baets, Robert Stevens, Vladimir Mironov and Martin Kuiper. The Cell Cycle Ontology: An application ontology for the representation and integrated analysis of the cell cycle process. <em>Genome Biology </em>2009, 10:R58. [<a href="https://doi.org/10.1186%2Fgb-2009-10-5-r58">Genome Biology</a>]
 
 Mikel Egaña Aranguren, Erick Antezana, Martin Kuiper, Robert Stevens. Ontology Design Patterns for bio-ontologies: a case study on the Cell Cycle Ontology.<em> BMC bioinformatics</em> 2008, 9(Suppl 5):S1. [<a href="http://www.biomedcentral.com/1471-2105/9/S5/S1">BMC bioinformatics</a>]
 
