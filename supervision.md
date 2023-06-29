@@ -36,4 +36,4 @@ Ideas para posibles tesis doctorales que me gustaría supervisar:
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi.
 * Effective and FAIR publication of Metagenomics high volume data through semantic web technologies.
 * FAIR maturity level of Spanish Open Data Portals: a diagnosis and future directions.
-* Application of Large Language Models in Knowledge Graph construction and querying
+* Application of Large Language Models in Knowledge Graph construction and querying.

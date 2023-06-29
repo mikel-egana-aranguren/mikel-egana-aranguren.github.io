@@ -38,11 +38,11 @@ Current technical developments:
 
 <ul>
 	<li>Transparent Relations Ontology (TRO): TRO offers a vocabulary to publish information about relations that should be more transparent, usually between powerful parties. [<a href="https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology">https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology</a>]</li>
-    <li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac</a>]</li>
 </ul>
 
 Past technical developments:
 <ul>
+	<li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac</a>]</li>
 	<li>Linked Open Data Euskadi: migration of current Open Data Euskadi to Linked Open Data (Phases I and II). [<a href="https://github.com/opendata-euskadi">https://github.com/opendata-euskadi</a>]</li>
 	<li>Guerra Civil en Euskadi: this resource integrates data about the spanish civil war in Euskadi, through RDF graphs, and it offers nice visualisations. [<a href="http://guerracivileuskadi.eurohelp.es/">http://guerracivileuskadi.eurohelp.es/</a>]</li>
 	<li>Linked Data Test Suite: Tests and reporting for Linked Data systems. [<a href="https://github.com/mikel-egana-aranguren/LinkedDataTestSuite">https://github.com/mikel-egana-aranguren/LinkedDataTestSuite</a>]</li>
