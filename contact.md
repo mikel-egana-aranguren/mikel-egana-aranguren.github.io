@@ -18,6 +18,8 @@ Calle Rafael Moreno "Pitxitxi", 3
 
 48013 BILBAO
 
+-- [Horario tutorias](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=135638) --
+
 ### Email
 
 mikel.egana@ehu.eus
