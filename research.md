@@ -27,6 +27,7 @@ Finished projects:
 	<li>2015. Enlazando Gipuzkoa con el Mundo (ENGIMU). Gipuzkoako Foru Aldundia, Gipuzkoa IKT: Innovación digital Empresas, Spain. (40.000 EUR)</li>
 	<li>2012 - 2014. Genes And Proteins for AutoImmunity Diagnostics (GAPAID).<a href="https://cordis.europa.eu/project/id/314971">FP7-SME - Specific Programme "Capacities": Research for the benefit of SMEs (Grant agreement ID: 314971)</a></li>
 	<li>2010 - 2015 Grupo de Investigación del Sistema Universitario Vasco. "Análisis genómicos de la variación del ADN" (GIC10/58)</li>
+	<li>2007 - 2010. Plataforma web para gestión de conocimientos guiada por ontologı́as en genómica funcional. Proyecto Industrial-Regional Murcia (BIO-TEC 06/01-0005)</li>
 </ul>
 
 Past freelance work:
