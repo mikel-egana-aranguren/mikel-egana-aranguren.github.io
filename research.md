@@ -25,8 +25,8 @@ Finished projects:
 	<li>2015 - 2016. Linking Open Domains, Plataforma para la generación de datos enlazados (LODGen). Ministerio de Industria, Energia y Turismo, Acción Estratégica Economía y Sociedad Digital (AEESD) 1/2015, Spain (TSI-100105-2015-0012).  (40.182,54 EUR)</li>
 	<li>2017 - 2018. SOLDAGE (Semantic Open Linked DAta GEnerator), a <a href="https://www.nature.com/articles/sdata201618">FAIR</a> data generator. Hazitek, Basque Government. (150.000 EUR)</li>
 	<li>2015. Enlazando Gipuzkoa con el Mundo (ENGIMU). Gipuzkoako Foru Aldundia, Gipuzkoa IKT: Innovación digital Empresas, Spain. (40.000 EUR)</li>
-	<li>2012 - 2014. Genes And Proteins for AutoImmunity Diagnostics (GAPAID).<a href="https://cordis.europa.eu/project/id/314971">FP7-SME - Specific Programme "Capacities": Research for the benefit of SMEs (Grant agreement ID: 314971)</a></li>
-	<li>2010 - 2015 Grupo de Investigación del Sistema Universitario Vasco. "Análisis genómicos de la variación del ADN" (GIC10/58)</li>
+	<li>2012 - 2014. Genes And Proteins for AutoImmunity Diagnostics (GAPAID).<a href="https://cordis.europa.eu/project/id/314971">FP7-SME - Specific Programme "Capacities": Research for the benefit of SMEs (7PM-CAPACITIES-SMEs12/01)</a></li>
+	<li>2010 - 2015 Grupo de Investigación del Sistema Universitario Vasco. "Análisis genómicos de la variación del ADN" (GIC10/58-IT558-10)</li>
 	<li>2007 - 2010. Plataforma web para gestión de conocimientos guiada por ontologı́as en genómica funcional. Proyecto Industrial-Regional Murcia (BIO-TEC 06/01-0005)</li>
 </ul>
 
