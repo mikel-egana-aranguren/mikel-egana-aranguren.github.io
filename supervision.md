@@ -4,7 +4,7 @@ title: Student supervision
 permalink: /supervision/
 ---
 
-Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/contact/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/contact/) conmigo sin problema.
+Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/contact/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/contact/) conmigo sin problema. ([Horario tutorias](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20230&p_idp=135638))
 
 ### TFGs/GrAL-ak
 
