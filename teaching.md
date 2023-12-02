@@ -18,7 +18,7 @@ permalink: /teaching/
 
 ### Tutorías
 
-[Horarios](https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/profesorado?p_redirect=consultaTutorias&p_anyo_acad=20220&p_idp=135638).
+[Horarios](http://go.ehu.eus/mikel-egana-aranguren).
 
 <h3>Administración de Bases de Datos (ABD)</h3>
 
