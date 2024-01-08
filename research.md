@@ -14,6 +14,7 @@ Modalidades “Retos Investigación” y “Generación de Conocimiento”
 (Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020).
 136.972,00 EUR. 01/09/2021 - 31/08/2024
 	</li>
+	<li>2024. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
 </ul>
 
 Finished projects:
