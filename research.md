@@ -6,6 +6,7 @@ permalink: /research/
 
 Currently ongoing projects:
 <ul>
+    <li>2024. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
     <li>2023 - 2024. Methods for automatic generation of Knowledge Graph. Universidad de Murcia (UM), BASF (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
     <li>2021 - 2024. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
 Support the Learning Health System). PID2020-113723RB-C22.
