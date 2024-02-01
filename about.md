@@ -30,6 +30,6 @@ You can find me using other resources (that probably need some updating):
 * [ORCID (0000-0001-8081-1839)](http://orcid.org/0000-0001-8081-1839).
 * [Nanodash](https://nanodash.petapico.org/user?26&id=https://orcid.org/0000-0001-8081-1839).
 * [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Aranguren:Mikel_Ega=ntilde=a).
-* [Zenodo](http://zenodo.org/search?f=author&p=Mikel%20Ega%C3%B1a%20Aranguren&ln=en).
+* [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mikel%20Ega%C3%B1a%20Aranguren%22&l=list&p=1&s=10&sort=bestmatch).
 * [Solid](https://mikeleganaaranguren.inrupt.net/).
 *  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">mastodon.eus/@mikel_egana_aranguren</a>.
