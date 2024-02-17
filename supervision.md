@@ -22,23 +22,26 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 * [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 * [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 
-TFGs defendidos por los estudiantes en la convocatoria Julio 2023:
+TFGs defendidos por los estudiantes:
 
-* Migración de una aplicación de gestión a una nube comercial usando integración continua.
-* Desarrollo de una aplicación de soporte a revisiones médicas usando Odoo.
-* Técnicas para la gestión de secretos en entornos cloud.
-* Aplicación web basada en Nmap para monitorizar seguridad de servicios en una red corporativa.
-
-2022 Azaroko deialdian ikasleek defendatutako GrAL-ak:
-
-* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa.
-* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa.
+* Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi (Marzo 2023).
+* Aplicación móvil de intercambio de parejas con conocimiento cero (Marzo 2023).
+* JiraGPT Next: asistente basado en IA para gestión de proyectos (Noviembre 2023).
+* Migración de una aplicación de gestión a una nube comercial usando integración continua (Julio 2023).
+* Desarrollo de una aplicación de soporte a revisiones médicas usando Odoo (Julio 2023).
+* Técnicas para la gestión de secretos en entornos cloud (Julio 2023).
+* Aplicación web basada en Nmap para monitorizar seguridad de servicios en una red corporativa (Julio 2023).
+* Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa (2022 Azaroa).
+* Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa (2022 Azaroa).
 
 ### PhD
 
-Ideas para posibles tesis doctorales que me gustaría supervisar:
+Some ideas for PhD theses I would like to supervise:
 
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi.
 * Effective and FAIR publication of Metagenomics high volume data through semantic web technologies.
-* FAIR maturity level of Spanish Open Data Portals: a diagnosis and future directions.
-* Application of Large Language Models in Knowledge Graph construction and querying.
+* FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
+* KG-RAG LLMs for data centric architectures in enterprises.
+* KGs for integrating cybersecurity information.
+* KGs and climate change data.
+* Post-colapse internet.
