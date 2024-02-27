@@ -88,6 +88,8 @@ Resultados ejercicios: <a href="https://github.com/mikel-egana-aranguren/LinkedO
 
 <ul>
 
+<li>(2023-2024) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data">https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data</a></li>
+
 <li>(2022-2023) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data">https://github.com/mikel-egana-aranguren/UM-Bioinformatics-MSc-FAIR-data</a></li>
 
 <li>(2021-2022) Slides, server, etc: <a href="https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR">https://github.com/mikel-egana-aranguren/MSc-UM-2021-2022-FAIR</a></li>
