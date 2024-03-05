@@ -10,7 +10,20 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 ### TFGs/GrAL-ak
 
-TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
+Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
+
+* LLM-based Metadata extraction framework for FAIR Data Systems.
+* Virtualizacion de datos HDF5 mediante SPARQL endpoints.
+* App lagun izkutua Zero Knowledge.
+* App para bikepacking: mapa, campings, diario, listas de compra, estadisticas, exportar ruta, importar ruta, ..
+* Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) en grafos (NLP, NER, grounding con Wikidata) y creacion de interfaz.
+* Aplicaciones para el internet post-colapso.
+* Asistente de carrera academica basado en razonamiento automatico.
+* Plugin de pipeline Ontogenix para editor de ontologias Protégé.
+* App para red ONION.
+* Servidor Linked Data altamente configurable.
+
+TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Nuevas técnicas de Test de Penetración en Sistemas Embebidos](MikelEgaña-Ikerlan-TFG-22-23-Pentest-sistemas-embebidos.pdf). A realizar en [Ikerlan](https://www.ikerlan.es/).
@@ -22,7 +35,7 @@ TFG ofertados (Los TFGs se pueden realizar en euskera, inglés o castellano):
 * [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 * [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 
-TFGs defendidos por los estudiantes:
+TFGs defendidos por mis estudiantes hasta ahora:
 
 * Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi (Marzo 2023).
 * Aplicación móvil de intercambio de parejas con conocimiento cero (Marzo 2023).
