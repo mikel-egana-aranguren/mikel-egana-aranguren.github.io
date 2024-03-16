@@ -18,7 +18,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 * App para bikepacking: mapa, campings, diario, listas de compra, estadisticas, exportar ruta, importar ruta, ..
 * Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (NLP, NER, grounding con Wikidata) y creacion de interfaz.
 * Aplicaciones para el internet post-colapso.
-* Asistente de carrera academica basado en razonamiento automatico.
+* Asistente de carrera académica basado en razonamiento automático.
 * Plugin de pipeline Ontogenix para editor de ontologias Protégé.
 * App para red ONION.
 * Servidor Linked Data altamente configurable.
