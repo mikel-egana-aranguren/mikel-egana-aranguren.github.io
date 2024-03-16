@@ -13,10 +13,10 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 
 * LLM-based Metadata extraction framework for FAIR Data Systems.
-* Virtualizacion de datos HDF5 mediante SPARQL endpoints.
+* Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
 * App lagun izkutua Zero Knowledge.
 * App para bikepacking: mapa, campings, diario, listas de compra, estadisticas, exportar ruta, importar ruta, ..
-* Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) en grafos (NLP, NER, grounding con Wikidata) y creacion de interfaz.
+* Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (NLP, NER, grounding con Wikidata) y creacion de interfaz.
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera academica basado en razonamiento automatico.
 * Plugin de pipeline Ontogenix para editor de ontologias Protégé.
@@ -37,8 +37,8 @@ TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o 
 
 TFGs defendidos por mis estudiantes hasta ahora:
 
-* Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi (Marzo 2023).
-* Aplicación móvil de intercambio de parejas con conocimiento cero (Marzo 2023).
+* Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi (Marzo 2024).
+* Aplicación móvil de intercambio de parejas con conocimiento cero (Marzo 2024).
 * JiraGPT Next: asistente basado en IA para gestión de proyectos (Noviembre 2023).
 * Migración de una aplicación de gestión a una nube comercial usando integración continua (Julio 2023).
 * Desarrollo de una aplicación de soporte a revisiones médicas usando Odoo (Julio 2023).
