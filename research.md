@@ -43,6 +43,8 @@ Current technical developments:
 
 <ul>
 	<li>Transparent Relations Ontology (TRO): TRO offers a vocabulary to publish information about relations that should be more transparent, usually between powerful parties. [<a href="https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology">https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology</a>]</li>
+	<li>Basque Country Institutions Transparent Relations Graph: RDF Knowledge Graph for Transparent relations involving Basque Country institutions. The aim of this project is to build a graph to integrate information about entities and individuals that might have a conflict of interest, in order to analyse such information. [<a href="https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph">https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph</a>]</li>
+	<li>OntoGenix: The project utilizes the OpenAI GPT-4 model to develop a semi-automatic system that generates OWL ontologies and RML mappings from CSV datasets using LLMs. [<a href="https://github.com/tecnomod-um/OntoGenix">https://github.com/tecnomod-um/OntoGenix</a>]</li>
 </ul>
 
 Past technical developments:
