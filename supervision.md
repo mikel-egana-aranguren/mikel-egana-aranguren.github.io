@@ -12,18 +12,16 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 
-* LLM-based Metadata extraction framework for FAIR Data Systems.
+* LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
-* App lagun izkutua Zero Knowledge.
-* App para bikepacking: mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
-* Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creacion de interfaz.
-* App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que nos viene encima, sería mucho más eficiente compartir esos coche mediante una App que incluya pagos, reservas, calificaciones etc para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
+* App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
+* App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
+* Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
+* App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que nos viene encima, sería mucho más eficiente compartir esos coche mediante una App que incluya pagos, reservas, calificaciones etc. para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático.
-* Plugin de pipeline Ontogenix para editor de ontologias Protégé.
-* App para red ONION.
-* Servidor Linked Data altamente configurable.
+* Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologias [Protégé](https://protege.stanford.edu/).
 
 TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
