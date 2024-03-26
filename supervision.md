@@ -14,6 +14,8 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
+* Conversion of cybersecurity standards to Knowledge Graphs.
+* Minorised and/or low resource languages in Knowledge Graphs.
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversion de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
@@ -58,3 +60,4 @@ Some ideas for PhD theses I would like to supervise:
 * KGs for integrating cybersecurity information.
 * KGs and climate change data.
 * Post-colapse internet.
+* Minorised and/or low resource languages in Knowledge Graphs.
