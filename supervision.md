@@ -12,6 +12,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 
+* Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
 * Conversion of cybersecurity standards to Knowledge Graphs.
