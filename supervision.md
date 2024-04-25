@@ -26,6 +26,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático.
 * Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
+* Restauracion de un [Amstrad CPC 6128](https://es.wikipedia.org/wiki/Amstrad_CPC_6128) incluyendo su [disquetera](https://lacavernainformatica.com/reparacion-disquetera-amstrad-cpc-6128/) para programacion de aplicaciones y juegos.
 
 TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
