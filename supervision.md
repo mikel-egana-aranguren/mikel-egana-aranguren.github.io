@@ -24,7 +24,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 * App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que nos viene encima, sería mucho más eficiente compartir esos coche mediante una App que incluya pagos, reservas, calificaciones etc. para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
-* Asistente de carrera académica basado en razonamiento automático.
+* Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
 * Restauracion de un [Amstrad CPC 6128](https://es.wikipedia.org/wiki/Amstrad_CPC_6128) incluyendo su [disquetera](https://lacavernainformatica.com/reparacion-disquetera-amstrad-cpc-6128/) para programacion de aplicaciones y juegos.
 
