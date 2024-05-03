@@ -21,12 +21,12 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
-* App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que nos viene encima, sería mucho más eficiente compartir esos coche mediante una App que incluya pagos, reservas, calificaciones etc. para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
+* App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que se espera para lo años venideros, sería mucho más eficiente compartir esos coches mediante una App que incluya pagos, reservas, calificaciones etc. para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
-* Restauracion de un [Amstrad CPC 6128](https://es.wikipedia.org/wiki/Amstrad_CPC_6128) incluyendo su [disquetera](https://lacavernainformatica.com/reparacion-disquetera-amstrad-cpc-6128/) para programacion de aplicaciones y juegos.
+* Restauración de un [Amstrad CPC 6128](https://es.wikipedia.org/wiki/Amstrad_CPC_6128) incluyendo su [disquetera](https://lacavernainformatica.com/reparacion-disquetera-amstrad-cpc-6128/) para programación de aplicaciones y juegos.
 
 TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o castellano):
 
