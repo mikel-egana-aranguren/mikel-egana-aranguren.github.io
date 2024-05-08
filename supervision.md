@@ -18,6 +18,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
 * Conversion of cybersecurity standards to Knowledge Graphs.
 * Minorised and/or low resource languages in Knowledge Graphs.
+* Version semantica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
