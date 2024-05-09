@@ -4,21 +4,22 @@ title: Student supervision
 permalink: /supervision/
 ---
 
-Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/contact/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/contact/) conmigo sin problema. 
+Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if you have any ideas / Idearik izatekotan [kontaktatu](https://mikel-egana-aranguren.github.io/contact/) bildur barik / Si tienes alguna idea [contacta](https://mikel-egana-aranguren.github.io/contact/) conmigo sin problema.
 
 Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren](http://go.ehu.eus/mikel-egana-aranguren).
 
 ### TFGs/GrAL-ak
 
-Ideas para TFGs (Si te interesa alguna ven a una tutoria y le damos forma):
+Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma):
 
+* Implementación de una plataforma colaborativa mediante [Wikibase](https://www.mediawiki.org/wiki/Wikibase) para desarrollar el [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
 * Concurso de aplicaciones [Open Data Euskadi](https://opendata.euskadi.eus/concursos-open-data/-/concurso-de-aplicaciones/).
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
-* Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) mediante [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
+* Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) ofreciendo un enpoint [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
 * Conversion of cybersecurity standards to Knowledge Graphs.
 * Minorised and/or low resource languages in Knowledge Graphs.
-* Version semantica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
+* Versión semántica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
