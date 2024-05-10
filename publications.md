@@ -6,7 +6,16 @@ permalink: /publications/
 
 A list of my most important publications follows (To see all of them, please refer to my CV). Many of them are <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">Open Access</a>; a PDF is attached to the ones that are not.
 
-<h2>Journals</h2>
+<ul>
+  <li><a href="#Journals">Journals</a></li>
+  <li><a href="#Chapters">Chapters in books</a></li>
+  <li><a href="#Conference">Conference proceedings</a></li>
+  <li><a href="#Preprints">Preprints, Workshop Proceedings and other publications</a></li>
+  <li><a href="#Etc.">Etc.</a></li>
+</ul>
+
+<h2 id="Journals">Journals</h2>
+
 Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web service workflows with Galaxy and Docker. GigaScience 2015: 4(59). [<a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0092-3">GigaScience</a>]
 
 Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and Egea-Cortines, M. Quantitative evaluation of bias in PCR amplification and Next Generation Sequencing derived from metabarcoding samples. <em>Analytical and Bioanalytical Chemistry</em> 2015: 407(7):1841–1848. [<a href="http://link.springer.com/article/10.1007%2Fs00216-014-8435-y#">Analytical and Bioanalytical Chemistry</a>][<a href="pawluczyk_abc1.pdf">pdf</a>]
@@ -42,10 +51,12 @@ Erick Antezana, Mikel Egaña Aranguren, Bernard De Baets, Martin Kuiper, Vladimi
 Mikel Egaña Aranguren, Sean Bechoffer, Phillip Lord, Ulrike Sattler and Robert Stevens. Understanding and using the meaning of statements in a bio-ontology: recasting the Gene Ontology in OWL. <em>BMC Bioinformatics</em> 2007, 8:57. [<a href="http://www.biomedcentral.com/1471-2105/8/57">BMC bioinformatics</a>]
 
 Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick Drummond and Mathew Horridge. Using OWL to Model Biological Knowledge. <em>International Journal of Human Computer Studies</em> 2006, 65:7, 583-594. [<a href="http://dx.doi.org/10.1016/j.ijhcs.2007.03.006">Science Direct</a>][<a href="using_owl.pdf">pdf</a>]
-<h2>Chapters in books</h2>
+
+<h2 id="Chapters">Chapters in books</h2>
+
 Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311,descCd-description.html">Wiley</a>][<a href="c03.pdf">pdf</a>]
 
-<h2>Conference proceedings</h2>
+<h2 id="Conference">Conference proceedings</h2>
 
 Alejandro Rodríguez González, Marcos Martínez Romero, Mikel Egaña Aranguren, Mark D. Wilkinson. Nanopublishing clinical diagnoses: tracking diagnostic knowledge base content and utilization. 27th International Symposium on Computer-Based Medical Systems (CBMS 2014): 335-340. [<a href="https://doi.org/10.1109/CBMS.2014.82">IEEE Xplore</a>][<a href="4435a335.pdf">pdf</a>]
 
@@ -57,7 +68,7 @@ J.A. Miñarro-Giménez, M. Egaña Aranguren, F. García-Sánchez, J. T. Fernánd
 
 Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Design Patterns in bio-ontologies. EKAW 2008, LNCS 5268, pp. 7-16. [<a href="https://doi.org/10.1007/978-3-540-87696-0_4">SpringerLink</a>][<a href="ekaw.pdf">pdf</a>]
 
-<h2>Preprints, Workshop Proceedings and other publications</h2>
+<h2 id="Preprints">Preprints, Workshop Proceedings and other publications</h2>
 
 Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs (http://dx.doi.org/10.1101/013615)
 
@@ -74,7 +85,9 @@ Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expre
 Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom
 
 Marshall, M., Boyce, R., Deus, H., Zhao, J., Willighagen, E., Samwald, M., Pichler, E., Hajagos, J., Aranguren, M., Miller, M., Prudhommeaux, E., Dumontier, M., and Stephens, S. (2012). Health Care and Life Science (HCLS) Linked Data Guide (http://www.w3.org/2001/sw/hcls/notes/hcls-rdf-guide/)
-<h2>Etc.</h2>
+
+<h2 id="Etc.">Etc.</h2>
+
 <strong>English</strong>
 
 PhD thesis: Role and Application of Ontology Design Patterns in Bio-ontologies. Mikel Egaña Aranguren, 2009, University of Manchester, Faculty of Engineering and Physical Sciences, School of Computer Science. [<a href="thesis.pdf">pdf</a>]
