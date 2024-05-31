@@ -9,3 +9,7 @@ El problema de usar nombres para los recursos, y no URIs: dos artistas con el mi
 ![Anari](anari.jpeg "Anari")
 
 Se le podrán hacer muchas criticas a Linked Data, la Web Semantica, etc., pero la idea de identificar a las entidades mediante URIs sin usar sus nombres es una gran aportación a cualquier sistema.
+
+También me ha pasado en Amazon:
+
+![Amazon](amazon.png "Amazon")
