@@ -68,7 +68,9 @@ J.A. Miñarro-Giménez, M. Egaña Aranguren, F. García-Sánchez, J. T. Fernánd
 
 Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Design Patterns in bio-ontologies. EKAW 2008, LNCS 5268, pp. 7-16. [<a href="https://doi.org/10.1007/978-3-540-87696-0_4">SpringerLink</a>][<a href="ekaw.pdf">pdf</a>]
 
-<h2 id="Preprints">Preprints, Workshop Proceedings and other publications</h2>
+<h2 id="Preprints">Preprints, Workshops and other publications</h2>
+
+Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph. In OK4I - Ontologies and Knowledge Graphs for Industry (Co-located with FOIS), Enschede, Netherlands
 
 Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs (http://dx.doi.org/10.1101/013615)
 
