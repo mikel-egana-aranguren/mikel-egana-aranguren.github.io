@@ -48,7 +48,7 @@ Mikel Egaña Aranguren, Chris Wroe, Carole Goble, Robert Stevens. <em>In situ</e
 
 Erick Antezana, Mikel Egaña Aranguren, Bernard De Baets, Martin Kuiper, Vladimir Mironov. ONTO-PERL: An API supporting the development and analysis of bio-ontologies. <em>Bioinformatics</em> 2008, 24(6):885-887. [<a href="https://doi.org/10.1093/bioinformatics/btn042">Bioinformatics</a>]
 
-Mikel Egaña Aranguren, Sean Bechoffer, Phillip Lord, Ulrike Sattler and Robert Stevens. Understanding and using the meaning of statements in a bio-ontology: recasting the Gene Ontology in OWL. <em>BMC Bioinformatics</em> 2007, 8:57. [<a href="http://www.biomedcentral.com/1471-2105/8/57">BMC bioinformatics</a>]
+Mikel Egaña Aranguren, Sean Bechoffer, Phillip Lord, Ulrike Sattler and Robert Stevens. Understanding and using the meaning of statements in a bio-ontology: recasting the Gene Ontology in OWL. <em>BMC Bioinformatics</em> 2007, 8:57. [<a href="http://www.biomedcentral.com/1471-2105/8/57">BMC bioinformatics</a>][<a href="https://addi.ehu.es/handle/10810/68801">ADDI</a>][<a href="https://doi.org/10.1186/1471-2105-8-57"><img src="https://zenodo.org/badge/DOI/10.1186/1471-2105-8-57.svg" alt="DOI"></a>]
 
 Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick Drummond and Mathew Horridge. Using OWL to Model Biological Knowledge. <em>International Journal of Human Computer Studies</em> 2006, 65:7, 583-594. [<a href="http://dx.doi.org/10.1016/j.ijhcs.2007.03.006">Science Direct</a>][<a href="using_owl.pdf">pdf</a>]
 
