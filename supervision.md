@@ -44,6 +44,9 @@ TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o 
 
 TFGs defendidos por mis estudiantes hasta ahora:
 
+* ChatGPT-RAG para una mejor interacción con JIRA (Junio 2024).
+* Cifrado asimétrico: Desde la perspectiva clásica a la cuántica a través de RSA (Junio 2024).
+* Desarrollo de una aplicación móvil para la gestion de los pedidos del sector hostelero (Junio 2024).
 * Aplicación Web de exploración de datos en mapas basada en APIs REST de Open Data Euskadi (Marzo 2024).
 * Aplicación móvil de intercambio de parejas con conocimiento cero (Marzo 2024).
 * JiraGPT Next: asistente basado en IA para gestión de proyectos (Noviembre 2023).
