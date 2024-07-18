@@ -45,7 +45,7 @@ Erick Antezana, Mikel Egaña, Bernard De Baets, Ward Blondé, Aitzol Illarramend
 
 Mikel Egaña Aranguren, Erick Antezana, Martin Kuiper, Robert Stevens. Ontology Design Patterns for bio-ontologies: a case study on the Cell Cycle Ontology.<em> BMC bioinformatics</em> 2008, 9(Suppl 5):S1. [<a href="http://www.biomedcentral.com/1471-2105/9/S5/S1">BMC bioinformatics</a>][<a href="https://addi.ehu.es/handle/10810/68874">ADDI</a>][<a href="https://doi.org/10.1186/1471-2105-9-S5-S1"><img src="https://zenodo.org/badge/DOI/10.1186/1471-2105-9-S5-S1.svg" alt="DOI"></a>]
 
-Mikel Egaña Aranguren, Chris Wroe, Carole Goble, Robert Stevens. <em>In situ</em> migration of handcrafted ontologies to Reason-able Forms. <em>Data &amp; Knowledge Engineering</em> 2008, 66, 147-162. [<a href="http://dx.doi.org/10.1016/j.datak.2008.02.002">Science Direct</a>][<a href="in_situ.pdf">pdf</a>]
+Mikel Egaña Aranguren, Chris Wroe, Carole Goble, Robert Stevens. <em>In situ</em> migration of handcrafted ontologies to Reason-able Forms. <em>Data &amp; Knowledge Engineering</em> 2008, 66, 147-162. [<a href="http://dx.doi.org/10.1016/j.datak.2008.02.002">Science Direct</a>][<a href="in_situ.pdf">pdf</a>][<a href="https://addi.ehu.es/handle/10810/68874">ADDI</a>][<a href="https://doi.org/10.1016/j.datak.2008.02.002"><img src="https://zenodo.org/badge/DOI/10.1016/j.datak.2008.02.002.svg" alt="DOI"></a>]
 
 Erick Antezana, Mikel Egaña Aranguren, Bernard De Baets, Martin Kuiper, Vladimir Mironov. ONTO-PERL: An API supporting the development and analysis of bio-ontologies. <em>Bioinformatics</em> 2008, 24(6):885-887. [<a href="https://doi.org/10.1093/bioinformatics/btn042">Bioinformatics</a>]
 
