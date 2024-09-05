@@ -44,6 +44,7 @@ TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o 
 
 TFGs defendidos por mis estudiantes hasta ahora:
 
+* App para la gestión de deportes entre amigos incluyendo estadísticas (Septiembre 2024).
 * ChatGPT-RAG para una mejor interacción con JIRA (Junio 2024).
 * Cifrado asimétrico: Desde la perspectiva clásica a la cuántica a través de RSA (Junio 2024).
 * Desarrollo de una aplicación móvil para la gestion de los pedidos del sector hostelero (Junio 2024).
