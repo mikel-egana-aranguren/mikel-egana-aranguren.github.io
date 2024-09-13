@@ -22,7 +22,7 @@ Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and 
 
 Alejandro Rodríguez González, Alison Callahan, José Cruz-Toledo, Adrian Garcia, Mikel Egaña Aranguren, Michel Dumontier, Mark D. Wilkinson. Automatically exposing OpenLifeData via SADI semantic Web Services. <em>Journal of Biomedical Semantics</em> 2014, 5(1):46+. [<a href="http://www.jbiomedsem.com/content/5/1/46/abstract">Journal of Biomedical Semantics</a>]
 
-Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Executing SADI services in Galaxy. <em>Journal of Biomedical Semantics</em> 2014, 5(1):42+. [<a href="http://www.jbiomedsem.com/content/5/1/42/abstract">Journal of Biomedical Semantics</a>]
+Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Executing SADI services in Galaxy. <em>Journal of Biomedical Semantics</em> 2014, 5(1):42+. [<a href="http://www.jbiomedsem.com/content/5/1/42/abstract">Journal of Biomedical Semantics</a>][<a href="https://addi.ehu.es/handle/10810/15997">ADDI</a>][<a href="https://doi.org/10.5281/zenodo.13760079"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13760079.svg" alt="DOI"></a>]
 
 Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Michel Dumontier. Special issue on Linked Data for Health Care and the Life Sciences (Editorial). <em>Semantic Web Journal</em> 2014, 5(2): 99-100. [<a href="https://content.iospress.com/articles/semantic-web/sw115">IOS press</a>][<a href="http://www.semantic-web-journal.net/content/special-issue-linked-data-health-care-and-life-sciences">Semantic Web Journal</a>]
 
