@@ -36,7 +36,7 @@ José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terraza
 
 Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://dx.doi.org/10.3233/AO-2011-0097">IOS Press</a>][<a href="247-261.pdf">pdf</a>]
 
-Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar, Jesualdo Tomás Fernández Breis, Marisa Madrid. Semantic integration of information about orthologs and diseases: The OGO system. <em>Journal of Biomedical Informatics </em>2011, 44, 1020-1031. [<a href="http://dx.doi.org/10.1016/j.jbi.2011.08.002">Science Direct</a>][<a href="jbi-ogo.pdf">pdf</a>]
+Jose Antonio Miñarro Gimenez; Mikel Egaña Aranguren, Rodrigo Martínez Béjar, Jesualdo Tomás Fernández Breis, Marisa Madrid. Semantic integration of information about orthologs and diseases: The OGO system. <em>Journal of Biomedical Informatics </em>2011, 44, 1020-1031. [<a href="http://dx.doi.org/10.1016/j.jbi.2011.08.002">Science Direct</a>][<a href="jbi-ogo.pdf">pdf</a>][<a href="http://hdl.handle.net/10810/68963">ADDI</a>][<a href="https://doi.org/10.1016/j.jbi.2011.08.002"><img src="https://zenodo.org/badge/DOI/10.1016/j.jbi.2011.08.002.svg" alt="DOI"></a>]
 
 Erick Antezana, Ward Blondé, Mikel Egaña, Alistair Rutherford, Robert Stevens, Bernard De Baets, Vladimir Mironov, Martin Kuiper. BioGateway: a semantic systems biology tool for the life sciences. <em>BMC bioinformatics</em> 2009, 10(Suppl 10):S11. [<a href="http://www.biomedcentral.com/1471-2105/10/S10/S11">BMC bioinformatics</a>]
 
