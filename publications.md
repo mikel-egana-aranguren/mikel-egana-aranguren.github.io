@@ -16,7 +16,7 @@ A list of my most important publications follows (To see all of them, please ref
 
 <h2 id="Journals">Journals</h2>
 
-Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web service workflows with Galaxy and Docker. GigaScience 2015: 4(59). [<a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0092-3">GigaScience</a>]
+Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web service workflows with Galaxy and Docker. GigaScience 2015: 4(59). [<a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0092-3">GigaScience</a>][<a href="https://addi.ehu.es/handle/10810/68964">ADDI</a>][<a href="https://doi.org/10.1186/s13742-015-0092-3"><img src="https://zenodo.org/badge/DOI/10.1186/s13742-015-0092-3.svg" alt="DOI"></a>]
 
 Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and Egea-Cortines, M. Quantitative evaluation of bias in PCR amplification and Next Generation Sequencing derived from metabarcoding samples. <em>Analytical and Bioanalytical Chemistry</em> 2015: 407(7):1841–1848. [<a href="http://link.springer.com/article/10.1007%2Fs00216-014-8435-y#">Analytical and Bioanalytical Chemistry</a>][<a href="pawluczyk_abc1.pdf">pdf</a>]
 
