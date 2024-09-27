@@ -32,7 +32,7 @@ Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Erick Antezana, Chris 
 
 Astrid Duque-Ramos, Jesualdo T. Fernández-Breis, Miguela Iniesta, Michel Dumontier, Mikel Egaña Aranguren, Stefan Schulz, Nathalie Aussenac-Gilles, and Robert Stevens. Evaluation of the OQuaRE framework for ontology quality. <em>Expert Systems with Applications</em> 2013, 40(7):2696–2703. [<a href="http://www.sciencedirect.com/science/article/pii/S0957417412012146">Science Direct</a>][<a href="eswa8231.pdf">pdf</a>]
 
-José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terrazas and Jesualdo Tomás Fernández-Breis. Publishing Orthology and Diseases Information in the Linked Open Data cloud.<em> Current Bioinformatics</em> 2012, 7 (3), 255-266. [<a href="http://dx.doi.org/10.2174/157489312802460811">Bentham science</a>][<a href="currentbioinformatics-ogolod.pdf">pdf</a>]
+José Antonio Miñarro-Giménez, Mikel Egaña Aranguren, Boris Villazón-Terrazas and Jesualdo Tomás Fernández-Breis. Publishing Orthology and Diseases Information in the Linked Open Data cloud.<em> Current Bioinformatics</em> 2012, 7 (3), 255-266. [<a href="http://dx.doi.org/10.2174/157489312802460811">Bentham science</a>][<a href="currentbioinformatics-ogolod.pdf">pdf</a>][<a href="https://doi.org/10.2174/157489312802460811"><img src="https://zenodo.org/badge/DOI/10.2174/157489312802460811.svg" alt="DOI"></a>]
 
 Vladimir Mironov, Erick Antezana, Mikel Egaña, Ward Blondé, Bernard De Baets, Robert Stevens and Martin Kuiper. Flexibility and utility of the cell cycle ontology. <em>Applied Ontology</em> 2011, 6 (3), 247-261. [<a href="http://dx.doi.org/10.3233/AO-2011-0097">IOS Press</a>][<a href="247-261.pdf">pdf</a>]
 
