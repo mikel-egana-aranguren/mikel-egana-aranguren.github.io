@@ -17,8 +17,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) ofreciendo un enpoint [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
-* Conversion of cybersecurity standards to Knowledge Graphs ([<a href="Cybersecurity_Ontology_Network.pdf">The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity
-Knowledge Graph</a>]). 
+* Conversion of cybersecurity standards to Knowledge Graphs (<a href="Cybersecurity_Ontology_Network.pdf">The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph</a>). 
 * Minorised and/or low resource languages in Knowledge Graphs.
 * Versión semántica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
