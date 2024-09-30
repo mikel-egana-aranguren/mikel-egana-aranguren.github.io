@@ -10,14 +10,15 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 ### TFGs/GrAL-ak
 
-Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma):
+Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * Implementación de una plataforma colaborativa mediante [Wikibase](https://www.mediawiki.org/wiki/Wikibase) para desarrollar el [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
 * Concurso de aplicaciones [Open Data Euskadi](https://opendata.euskadi.eus/concursos-open-data/-/concurso-de-aplicaciones/).
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) ofreciendo un enpoint [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
-* Conversion of cybersecurity standards to Knowledge Graphs.
+* Conversion of cybersecurity standards to Knowledge Graphs ([<a href="Cybersecurity_Ontology_Network.pdf">The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity
+Knowledge Graph</a>]). 
 * Minorised and/or low resource languages in Knowledge Graphs.
 * Versión semántica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
@@ -28,12 +29,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma):
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
-* Restauración de un [Amstrad CPC 6128](https://es.wikipedia.org/wiki/Amstrad_CPC_6128) incluyendo su [disquetera](https://lacavernainformatica.com/reparacion-disquetera-amstrad-cpc-6128/) para programación de aplicaciones y juegos.
-
-TFG ofertados "oficialmente" (Los TFGs se pueden realizar en euskera, inglés o castellano):
-
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
-* [Nuevas técnicas de Test de Penetración en Sistemas Embebidos](MikelEgaña-Ikerlan-TFG-22-23-Pentest-sistemas-embebidos.pdf). A realizar en [Ikerlan](https://www.ikerlan.es/).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf). Co-dirigido por [Xabier Barandiaran](https://xabier.barandiaran.net/).

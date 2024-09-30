@@ -70,9 +70,9 @@ Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Des
 
 <h2 id="Preprints">Preprints, Workshops and other publications</h2>
 
-Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph. In OK4I - Ontologies and Knowledge Graphs for Industry (Co-located with FOIS), Enschede, Netherlands
+Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph. In OK4I - Ontologies and Knowledge Graphs for Industry (Co-located with FOIS), Enschede, Netherlands. [<a href="Cybersecurity_Ontology_Network.pdf">pdf</a>]
 
-Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs (http://dx.doi.org/10.1101/013615)
+Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs. [<a href="http://dx.doi.org/10.1101/013615">Biorxiv</a>]
 
 Horridge, M., Aranguren, M., Mortensen, J., Musen, M., and Noy, N. (2012). Ontology Design Pattern Language Expressivity Requirements. In WOP (Co-located with ISWC), Boston, USA
 
