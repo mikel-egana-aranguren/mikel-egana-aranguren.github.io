@@ -27,6 +27,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
+* Framework para la creación de apuntes multilingües en HTML (Por ejemplo para [SGSSI](https://github.com/mikel-egana-aranguren/EHU-SGSSI-01) e [ISSKS](https://github.com/mikel-egana-aranguren/EHU-ISSKS-31)).
 * Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
