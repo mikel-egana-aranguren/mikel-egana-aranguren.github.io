@@ -24,9 +24,9 @@ permalink: /teaching/
 
 <a href="https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20230&p_ciclo=X&p_curso=3&p_cod_asignatura=27706">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Administración de Bases de Datos</a>.
 
-<a href="https://github.com/mikel-egana-aranguren/DBA">https://github.com/mikel-egana-aranguren/DBA (EUS)</a>: 2023-2024.
+<a href="https://github.com/mikel-egana-aranguren/DBA">https://github.com/mikel-egana-aranguren/DBA (EUS)</a>: <a href="https://github.com/mikel-egana-aranguren/DBA/tree/release_23_24_3">2023-2024</a>, 2024-2025.
 
-<a href="https://github.com/mikel-egana-aranguren/ABD">https://github.com/mikel-egana-aranguren/ABD (CAST)</a>:  2023-2024.
+<a href="https://github.com/mikel-egana-aranguren/ABD">https://github.com/mikel-egana-aranguren/ABD (CAST)</a>:  <a href="https://github.com/mikel-egana-aranguren/ABD/tree/release_23_24_4">2023-2024</a>, 2024-2025.
 
 <h3>Sistemas de Gestión de Seguridad de Sistemas de Información (SGSSI)</h3>
 
