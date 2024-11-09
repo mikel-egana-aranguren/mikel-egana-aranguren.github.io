@@ -12,6 +12,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Basque](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Basque) [WikiFunctions](https://meta.wikimedia.org/wiki/Abstract_Wikipedia).
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
 * Implementación de una plataforma colaborativa mediante [Wikibase](https://www.mediawiki.org/wiki/Wikibase) para desarrollar el [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
 * Concurso de aplicaciones [Open Data Euskadi](https://opendata.euskadi.eus/concursos-open-data/-/concurso-de-aplicaciones/).
