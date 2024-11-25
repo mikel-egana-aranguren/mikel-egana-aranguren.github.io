@@ -43,6 +43,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 TFGs defendidos por mis estudiantes hasta ahora:
 
+* Research and evaluation of Openpilot through adversarial examples (Noviembre 2024)
 * App para la gestión de deportes entre amigos incluyendo estadísticas (Septiembre 2024).
 * ChatGPT-RAG para una mejor interacción con JIRA (Junio 2024).
 * Cifrado asimétrico: Desde la perspectiva clásica a la cuántica a través de RSA (Junio 2024).
@@ -61,11 +62,11 @@ TFGs defendidos por mis estudiantes hasta ahora:
 
 Some ideas for PhD theses I would like to supervise:
 
+* Knowledge Graph based integration of cybersecurity information.
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi.
-* Effective and FAIR publication of Metagenomics high volume data through semantic web technologies.
+* Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
 * KG-RAG LLMs for data centric architectures in enterprises.
-* KGs for integrating cybersecurity information.
-* KGs and climate change data.
+* Knowledge Graphs and climate change data.
 * Post-colapse internet.
-* Minorised and/or low resource languages in Knowledge Graphs.
+* Minorised and low resource languages in Knowledge Graphs.
