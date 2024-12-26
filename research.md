@@ -6,6 +6,7 @@ permalink: /research/
 
 Currently ongoing projects:
 <ul>
+    <li>2024 - 2026. GAITECH, LKS-HAZITEK (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>).</li>
 	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
     <li>2021 - 2025. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
 Support the Learning Health System). PID2020-113723RB-C22.
