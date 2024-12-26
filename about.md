@@ -4,19 +4,11 @@ title: About
 permalink: /about/
 ---
 
-### Short bio
-
 My name is Mikel Egaña Aranguren, and I am an <a href="http://go.ehu.eus/mikel-egana-aranguren">Associate Professor</a> at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems, Bilbo, Spain.
 
 My research interests revolve around the idea of making the publication of data following FAIR principles (Findable, Accessible, Interoperable, Reusable) easier and more efficient. I am also interested in Open Data and transparency, Knowledge Graphs and Linked Data, Semantic Web in general, Free Software, ontology engineering, bioinformatics, medical informatics, and minorized/low resources languages like <a href="https://en.wikipedia.org/wiki/Basque_language">basque</a>.
 
 I am a biologist by the UPV/EHU; I also hold a PhD in computer science and an MSc in Bioinformatics, both awarded by the Univesity of Manchester, UK. I have worked in academia (UM, UPM and UPV/EHU in Spain; VIB in Belgium), and in the private sector ([eccenca GmbH](https://eccenca.com) in Germany and [Eurohelp Consulting](https://eurohelp.es/) in Spain, funded by the Torres Quevedo program). I have also done Freelance work for Cognizone (Belgium), SIEMENS and BASF (Spain).
-
-### Curriculum vitae
-
-[My updated CV](https://github.com/mikel-egana-aranguren/cv/raw/master/mikel_egana_aranguren_cv.pdf).
-
-### Profiles
 
 You can find me using other resources (that probably need some updating):
 
