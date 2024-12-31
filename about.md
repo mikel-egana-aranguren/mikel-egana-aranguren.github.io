@@ -12,6 +12,7 @@ I am a biologist by the UPV/EHU; I also hold a PhD in computer science and an MS
 
 You can find me using other resources (that probably need some updating):
 
+* [Wikidata](https://www.wikidata.org/wiki/Q84817560).
 * [GitHub](http://github.com/mikel-egana-aranguren).
 * [Portal producción científica UPV/EHU](https://ekoizpen-zientifikoa.ehu.eus/investigadores/125962/detalle).
 * [ResearchGate](http://www.researchgate.net/profile/Mikel_Egana).
