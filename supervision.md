@@ -12,6 +12,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* Sistema basado en RDF para generación de CVs.
 * [Sports Schema](https://sportschema.org/)-ren eraldaketa euskal kirolak kontuan hartzeko.
 * [Basque](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Basque) [WikiFunctions](https://meta.wikimedia.org/wiki/Abstract_Wikipedia).
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
