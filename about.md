@@ -10,7 +10,7 @@ My research interests revolve around the idea of making the publication of data 
 
 I am a biologist by the UPV/EHU; I also hold a PhD in computer science and an MSc in Bioinformatics, both awarded by the Univesity of Manchester, UK. I have worked in academia (UM, UPM and UPV/EHU in Spain; VIB in Belgium), and in the private sector ([eccenca GmbH](https://eccenca.com) in Germany and [Eurohelp Consulting](https://eurohelp.es/) in Spain, funded by the Torres Quevedo program). I have also done Freelance work for Cognizone (Belgium), SIEMENS and BASF (Spain).
 
-You can find me using other resources (that probably need some updating):
+You can find me using other resources:
 
 * [Wikidata](https://www.wikidata.org/wiki/Q84817560).
 * [GitHub](http://github.com/mikel-egana-aranguren).
@@ -26,3 +26,5 @@ You can find me using other resources (that probably need some updating):
 * [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mikel%20Ega%C3%B1a%20Aranguren%22&l=list&p=1&s=10&sort=bestmatch).
 * [Solid](https://mikeleganaaranguren.inrupt.net/).
 *  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">mastodon.eus/@mikel_egana_aranguren</a>.
+
+Or check out [the latest version of my CV](https://github.com/mikel-egana-aranguren/cv/raw/master/mikel_egana_aranguren_cv.pdf).
