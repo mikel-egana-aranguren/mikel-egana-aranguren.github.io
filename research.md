@@ -7,6 +7,8 @@ permalink: /research/
 Currently ongoing projects:
 <ul>
     <li>2024 - 2026. GAITECH, LKS-HAZITEK (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>).</li>
+	<li>2025. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
+	<li>2025. EuskoPVMap.</li>
 	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
     <li>2021 - 2025. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
 Support the Learning Health System). PID2020-113723RB-C22.
@@ -21,7 +23,7 @@ Modalidades “Retos Investigación” y “Generación de Conocimiento”
 Finished projects:
 <ul>
 	<li>2024. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
-    <li>2024. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
+    <li>2024. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
 	<li>2023 - 2024. Methods for automatic generation of Knowledge Graph. Universidad de Murcia (UM), BASF (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
 	<li>2020 - 2021. <a href="https://github.com/opendata-euskadi/Linked-Data-fase-2">Linked Open Data Fase 2</a> (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). Basque Government, Spain. </li>
 	<li>2018. <a href="http://www.ejie.eus/y79-contgen/es/contenidos/anuncio_contratacion/expx74j30109/es_doc/es_arch_expx74j30109.html?ruta=/y79-appcontr/es/v79aWar/comunJSP/v79aSuscribirRSS.do?=R01HPortal=y79&amp;R01HPage=appcontr&amp;R01HLang=es&amp;widget=true&amp;p01=AC&amp;p02=&amp;p03=8&amp;p04=&amp;p05=&amp;p06=&amp;p07=&amp;p08=&amp;p09=&amp;p10=&amp;p11=&amp;p12=&amp;p13=&amp;p14=&amp;p15=05%2F04%2F2018&amp;p16=&amp;p17=AMPLIADO&amp;p18=false&amp;p19=false&amp;p20=false&amp;p21=es&amp;p22=ultimos30dias&amp;p23=&amp;p24=y79-appcontr&amp;p25=y79-contgen&amp;p45=true&amp;p48=&amp;p51=1">Servicios Directorio Linked Open Data</a>. Basque Government, Spain. (70.000 EUR)</li>
