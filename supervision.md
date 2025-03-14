@@ -30,7 +30,6 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
-* App para compartir coches de un mismo bloque (Garaje). Si vives en un bloque de pisos, seguro que has visto el garaje casi lleno de coches, es decir que la mayoría del tiempo esos coches están parados. Teniendo en cuenta el descenso energético que se espera para lo años venideros, sería mucho más eficiente compartir esos coches mediante una App que incluya pagos, reservas, calificaciones etc. para que los vecinos de ese bloque compartan menos coches en vez de tener muchos coches parados casi todo el tiempo.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
@@ -47,7 +46,9 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 TFGs defendidos por mis estudiantes hasta ahora:
 
-* Research and evaluation of Openpilot through adversarial examples (Noviembre 2024)
+* Pokermon (Marzo 2025).
+* Garajeando: Aplicación Android para intercambio de coches entre vecinos (Marzo 2025).
+* Research and evaluation of Openpilot through adversarial examples (Noviembre 2024).
 * App para la gestión de deportes entre amigos incluyendo estadísticas (Septiembre 2024).
 * ChatGPT-RAG para una mejor interacción con JIRA (Junio 2024).
 * Cifrado asimétrico: Desde la perspectiva clásica a la cuántica a través de RSA (Junio 2024).
