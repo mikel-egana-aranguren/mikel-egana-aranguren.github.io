@@ -39,7 +39,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf). Co-dirigido por [Xabier Barandiaran](https://xabier.barandiaran.net/).
-* [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf).
+* [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf): [Semantic Manfred Awesomic CV](https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac). 
 * [SOLID POD y aplicación NODE.js para publicar datos sobre CV](MikelEgaña-TFG-22-23-SOLID-POD-LinkedIn.pdf).
 * [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 * [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
