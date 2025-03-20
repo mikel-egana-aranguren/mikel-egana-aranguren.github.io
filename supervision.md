@@ -13,38 +13,30 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * [Despliegue de una aplicación web para la visualización de mapas con información sobre el potencial fotovoltaico en tejados](PropuestaTFG-Profesorado_Despliegue_web_mapas_en_servidor_LSI.pdf) (Proyecto EuskoPVMap con el Grupo de Investigacion [Ekopol](https://ekopol.eus/)).
-* Instancia Mastodon con posibilidad de definir diferentes algortimos para el timeline.
+* Timeline-a sortzeko algoritmo ezberdinak onartzen dituen [Mastodon instantzia](https://mastodon.eus/).
 * Sistema basado en RDF para generación y publicación de CVs.
 * [Sports Schema](https://sportschema.org/)-ren eraldaketa euskal kirolak kontuan hartzeko.
 * [Basque](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Basque) [WikiFunctions](https://meta.wikimedia.org/wiki/Abstract_Wikipedia).
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
 * Implementación de una plataforma colaborativa mediante [Wikibase](https://www.mediawiki.org/wiki/Wikibase) para desarrollar el [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
-* Instancia Mastodon.
 * Concurso de aplicaciones [Open Data Euskadi](https://opendata.euskadi.eus/concursos-open-data/-/concurso-de-aplicaciones/).
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
-* Virtualización de datos [HDF5](https://www.hdfgroup.org/solutions/hdf5/) ofreciendo un enpoint [SPARQL](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
-* Conversion of cybersecurity standards to Knowledge Graphs (<a href="Cybersecurity_Ontology_Network.pdf">The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph</a>). 
 * Minorised and/or low resource languages in Knowledge Graphs.
-* Versión semántica del [Visualizador de Potencial Fotovoltaico](https://github.com/Calcoph/visualizador-potencial-fotovoltaico).
 * App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
-* Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a grafos (Morph-KGC, NLP, NER, grounding con Wikidata) y creación de interfaz web.
+* Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a RDF incluyendo tecnicas de NLP (Natural Language Procesing), NER (Named Entity Recognition), enlazado con [Wikidata](https://www.wikidata.org/) y creación de interfaz web.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
-* Framework para la creación de apuntes multilingües en HTML (Por ejemplo para [SGSSI](https://github.com/mikel-egana-aranguren/EHU-SGSSI-01) e [ISSKS](https://github.com/mikel-egana-aranguren/EHU-ISSKS-31)).
-* Plugin de pipeline [Ontogenix](https://github.com/tecnomod-um/OntoGenix) para editor de ontologías [Protégé](https://protege.stanford.edu/).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
 * [Módulo Linked Open Data para plataforma de participación ciudadana Decidim](MikelEgaña-TFG-22-23-Decidim_LOD.pdf). Co-dirigido por [Xabier Barandiaran](https://xabier.barandiaran.net/).
 * [Aplicación de  grafos sobre recursos humanos basada en la conversión a JSON-LD del Manfred Awesomic CV](MikelEgaña-TFG-22-23-Manfred-CV-JSON-LD-GraphDB.pdf): [Semantic Manfred Awesomic CV](https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac). 
 * [SOLID POD y aplicación NODE.js para publicar datos sobre CV](MikelEgaña-TFG-22-23-SOLID-POD-LinkedIn.pdf).
-* [SOLID POD y aplicación NODE.js para publicar datos sobre Metagenómica](MikelEgaña-TFG-22-23-SOLID-POD-EarthMicroBiomeProject.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
-* [Publicación interoperable de grandes datos metagenómicos a través de especificación Linked Data Fragments](MikelEgaña-TFG-22-23-Metagenomica-LD-fragments.pdf). Co-dirigido por [Aitor Albaina](https://www.ehu.eus/es/web/doktoregoa/doctorado-biodiversidad-funcionamiento-y-gestion-ecosistemas/profesorado?p_redirect=fichaPDI&p_idp=272295).
 
-TFGs defendidos por mis estudiantes hasta ahora:
+TFGs (co)dirigidos:
 
 * Pokermon (Marzo 2025).
 * Garajeando: Aplicación Android para intercambio de coches entre vecinos (Marzo 2025).
@@ -68,7 +60,7 @@ TFGs defendidos por mis estudiantes hasta ahora:
 Some ideas for PhD theses I would like to supervise:
 
 * Knowledge Graph based integration of cybersecurity information.
-* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi.
+* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
 * Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
 * KG-RAG LLMs for data centric architectures in enterprises.
