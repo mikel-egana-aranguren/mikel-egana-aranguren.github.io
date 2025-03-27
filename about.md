@@ -25,6 +25,7 @@ You can find me using other resources:
 * [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Aranguren:Mikel_Ega=ntilde=a).
 * [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mikel%20Ega%C3%B1a%20Aranguren%22&l=list&p=1&s=10&sort=bestmatch).
 * [Solid](https://mikeleganaaranguren.inrupt.net/).
+* [Substack](https://substack.com/@mikeleganaaranguren).
 *  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">mastodon.eus/@mikel_egana_aranguren</a>.
 
 Or check out [the latest version of my CV](https://github.com/mikel-egana-aranguren/cv/raw/master/mikel_egana_aranguren_cv.pdf).
