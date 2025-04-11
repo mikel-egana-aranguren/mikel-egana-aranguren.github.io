@@ -16,6 +16,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * [Despliegue de una aplicación web para la visualización de mapas con información sobre el potencial fotovoltaico en tejados](PropuestaTFG-Profesorado_Despliegue_web_mapas_en_servidor_LSI.pdf) (Proyecto EuskoPVMap con el Grupo de Investigacion [Ekopol](https://ekopol.eus/)).
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
+* Conexion de [Ontogen](https://ontogen.io/) con [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Timeline-a sortzeko algoritmo ezberdinak onartzen dituen [Mastodon instantzia](https://mastodon.eus/).
 * Sistema basado en RDF para generación y publicación de CVs.
 * [Sports Schema](https://sportschema.org/)-ren eraldaketa euskal kirolak kontuan hartzeko.
