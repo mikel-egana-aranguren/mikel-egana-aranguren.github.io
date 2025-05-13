@@ -12,7 +12,6 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
-* [LLMs para mejorar la gestión documental en industria](Propuesta-TFG-RAG-documentacion-CFAA-2025.pdf). A realizar en [CFAA](https://cfaa.eus/), co-dirigido por Unai Lopez.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
 * Conexion de [Ontogen](https://ontogen.io/) con [GraphDB](https://www.ontotext.com/products/graphdb/).
