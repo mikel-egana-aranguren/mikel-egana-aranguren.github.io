@@ -69,3 +69,4 @@ Some ideas for PhD theses I would like to supervise:
 * Knowledge Graphs and climate change data.
 * Post-colapse internet.
 * Minorised and low resource languages in Knowledge Graphs.
+* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) -Also note this thesis is Web-ready!-). 
