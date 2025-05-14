@@ -62,7 +62,7 @@ TFGs (co)dirigidos:
 Some ideas for PhD theses I would like to supervise:
 
 * Knowledge Graph based integration of cybersecurity information.
-* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
+* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
 * Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
 * KG-RAG LLMs for data centric architectures in enterprises.
