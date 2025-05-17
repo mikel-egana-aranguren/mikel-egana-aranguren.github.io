@@ -12,6 +12,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
 * Conexion de [Ontogen](https://ontogen.io/) con [GraphDB](https://www.ontotext.com/products/graphdb/).
@@ -30,7 +31,6 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a RDF incluyendo tecnicas de NLP (Natural Language Procesing), NER (Named Entity Recognition), enlazado con [Wikidata](https://www.wikidata.org/) y creación de interfaz web.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
-* Asistente de carrera académica basado en razonamiento automático (RDF, OWL, SHACL) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
