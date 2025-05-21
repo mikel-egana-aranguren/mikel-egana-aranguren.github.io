@@ -14,10 +14,10 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
+* W3C [Verifiable Credentials (VC)](https://www.w3.org/TR/vc-data-model-2.0/) and [Decentralised Identifiers (DID)](https://www.w3.org/TR/did-1.0/): [GraphDB](https://www.ontotext.com/products/graphdb/), [Veramo](https://veramo.io/), [Trinsic](https://trinsic.id/), [Hyperledger Aries](https://www.lfdecentralizedtrust.org/projects/aries).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
-* Conexion de [Ontogen](https://ontogen.io/) con [GraphDB](https://www.ontotext.com/products/graphdb/).
+* [Ontogen](https://ontogen.io/) [GraphDB](https://www.ontotext.com/products/graphdb/) connection.
 * Timeline-a sortzeko algoritmo ezberdinak onartzen dituen [Mastodon instantzia](https://mastodon.eus/).
-* Sistema basado en RDF para generación y publicación de CVs.
 * [Sports Schema](https://sportschema.org/)-ren eraldaketa euskal kirolak kontuan hartzeko.
 * [Basque](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Basque) [WikiFunctions](https://meta.wikimedia.org/wiki/Abstract_Wikipedia).
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
@@ -59,14 +59,14 @@ TFGs (co)dirigidos:
 
 ### PhD
 
-Some ideas for PhD theses I would like to supervise:
+Some ideas for posssible PhD theses I would like to supervise:
 
 * Knowledge Graph based integration of cybersecurity information.
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
 * Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
-* KG-RAG LLMs for data centric architectures in enterprises.
-* Knowledge Graphs and climate change data.
+* Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
+* Climate change FAIR data.
 * Post-colapse internet.
-* Minorised and low resource languages in Knowledge Graphs.
-* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) -Also note this thesis is Web-ready!-). 
+* Minorised and low resource languages and Knowledge Graphs.
+* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--).
