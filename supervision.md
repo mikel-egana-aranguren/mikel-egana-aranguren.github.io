@@ -14,6 +14,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
+* [Nanopubs](https://nanopub.net/).
 * W3C [Verifiable Credentials (VC)](https://www.w3.org/TR/vc-data-model-2.0/) and [Decentralised Identifiers (DID)](https://www.w3.org/TR/did-1.0/): [GraphDB](https://www.ontotext.com/products/graphdb/), [Veramo](https://veramo.io/), [Trinsic](https://trinsic.id/), [Hyperledger Aries](https://www.lfdecentralizedtrust.org/projects/aries).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
 * [Ontogen](https://ontogen.io/) [GraphDB](https://www.ontotext.com/products/graphdb/) connection.
@@ -68,5 +69,6 @@ Some ideas for posssible PhD theses I would like to supervise:
 * Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
 * Climate change FAIR data.
 * Post-colapse internet.
+* [Nanopubs](https://nanopub.net/).
 * Minorised and low resource languages and Knowledge Graphs.
 * Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--).
