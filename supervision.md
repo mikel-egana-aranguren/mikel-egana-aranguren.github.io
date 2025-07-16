@@ -13,6 +13,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
+* Sistema de documentación basado en Sphinx, Bibtex, y Docker.
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * [Nanopubs](https://nanopub.net/).
@@ -42,6 +43,10 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 TFGs (co)dirigidos:
 
+* Cuántica aplicada a la detección de anomalías en empresas de ciberseguridad (Junio 2025).
+* Evaluación de los espacios de datos en el contexto empresarial (Junio 2025).
+* IndusTroika: Plataforma de detección de anomalías para entornos industriales (Junio 2025).
+* Evaluación empírica de frameworks MLOps (Junio 2025).
 * Pokermon (Marzo 2025).
 * Garajeando: Aplicación Android para intercambio de coches entre vecinos (Marzo 2025).
 * Research and evaluation of Openpilot through adversarial examples (Noviembre 2024).
