@@ -72,6 +72,8 @@ Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Des
 
 <h2 id="Preprints">Preprints, Workshops and other publications</h2>
 
+Aranguren, Mikel Egaña and Fernández Breis, Jesualdo Tomás and Balentzia, Bidane Leon and Garcia Castro, Alexander and Rompe, Markus, A Comprehensive View of Software Vulnerability Risks Through Enterprise Knowledge Graphs. [<a href="https://dx.doi.org/10.2139/ssrn.5388699">SSRN</a>]
+
 Aranguren, M. E. (2024). The Transparent Relations Ontology (TRO): a vocabulary to describe conflicts of interest. [<a href="https://doi.org/10.48550/arXiv.2410.07154">Arxiv</a>]
 
 Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph. In OK4I - Ontologies and Knowledge Graphs for Industry (Co-located with FOIS), Enschede, Netherlands. [<a href="Cybersecurity_Ontology_Network.pdf">pdf</a>]
