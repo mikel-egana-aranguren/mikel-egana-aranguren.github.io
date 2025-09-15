@@ -80,6 +80,8 @@ Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybe
 
 Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs. [<a href="http://dx.doi.org/10.1101/013615">Biorxiv</a>]
 
+Marshall, M., Boyce, R., Deus, H., Zhao, J., Willighagen, E., Samwald, M., Pichler, E., Hajagos, J., Aranguren, M., Miller, M., Prudhommeaux, E., Dumontier, M., and Stephens, S. (2012). Health Care and Life Science (HCLS) Linked Data Guide (http://www.w3.org/2001/sw/hcls/notes/hcls-rdf-guide/)
+
 Horridge, M., Aranguren, M., Mortensen, J., Musen, M., and Noy, N. (2012). Ontology Design Pattern Language Expressivity Requirements. In WOP (Co-located with ISWC), Boston, USA
 
 Gimenez, J., Aranguren, M., and Tomas, J. (2012). NCBO-Galaxy: bridging the BioPortal web services and the Galaxy platform. In ICBO, Graz, Austria
@@ -91,8 +93,6 @@ Aranguren, M., Stevens, R., and Antezana, E. (2008b). Transforming the Axiomisat
 Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expressivity of the ontology pre-processor language. In OWL Experiences and Directions (OWLEd), co-located with ISWC, Karlsruhe, Germany
 
 Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom
-
-Marshall, M., Boyce, R., Deus, H., Zhao, J., Willighagen, E., Samwald, M., Pichler, E., Hajagos, J., Aranguren, M., Miller, M., Prudhommeaux, E., Dumontier, M., and Stephens, S. (2012). Health Care and Life Science (HCLS) Linked Data Guide (http://www.w3.org/2001/sw/hcls/notes/hcls-rdf-guide/)
 
 <h2 id="Etc.">Etc.</h2>
 
