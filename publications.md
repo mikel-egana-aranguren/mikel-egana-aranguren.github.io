@@ -92,7 +92,7 @@ Aranguren, M., Stevens, R., and Antezana, E. (2008b). Transforming the Axiomisat
 
 Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expressivity of the ontology pre-processor language. In OWL Experiences and Directions (OWLEd), co-located with ISWC, Karlsruhe, Germany
 
-Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom
+Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom. [<a href="SWAT4LS_2008_paper.pdf">pdf</a>]
 
 <h2 id="Etc.">Etc.</h2>
 
