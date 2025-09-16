@@ -90,7 +90,7 @@ Fernandez-Breis, J., Aranguren, M., and Stevens, R. (2009). A quality evaluation
 
 Aranguren, M., Stevens, R., and Antezana, E. (2008b). Transforming the Axiomisation of Ontologies: The Ontology Pre-Processor Language. In OWL Experiences and Directions (OWLEd), Washington DC, USA
 
-Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expressivity of the ontology pre-processor language. In OWL Experiences and Directions (OWLEd), co-located with ISWC, Karlsruhe, Germany
+Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expressivity of the ontology pre-processor language. In OWL Experiences and Directions (OWLEd), co-located with ISWC, Karlsruhe, Germany. [<a href="Augmenting_the_Expressivity_of_the_Ontology_Pre-Pr.pdf)">pdf</a>]
 
 Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom. [<a href="SWAT4LS_2008_paper.pdf">pdf</a>]
 
