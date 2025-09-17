@@ -56,7 +56,7 @@ Robert Stevens, Mikel Egaña Aranguren, Katy Wolstencroft, Ulrike Sattler, Nick 
 
 <h2 id="Chapters">Chapters in books</h2>
 
-Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311,descCd-description.html">Wiley</a>][<a href="c03.pdf">pdf</a>]
+Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. ISBN: 978-0-470-74831-2. [<a href="https://www.wiley.com/en-us/Knowledge-Based+Bioinformatics%3A+From+Analysis+to+Interpretation-p-9781119995838">Wiley</a>][<a href="c03.pdf">pdf</a>]
 
 <h2 id="Conference">Conference proceedings</h2>
 
