@@ -12,6 +12,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Sistema de documentación basado en Sphinx, Bibtex, y Docker.
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
