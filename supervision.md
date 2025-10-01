@@ -8,6 +8,21 @@ Feel free to [contact me](https://mikel-egana-aranguren.github.io/contact/) if y
 
 Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren](http://go.ehu.eus/mikel-egana-aranguren).
 
+### PhD
+
+Some ideas for posssible PhD theses I would like to supervise:
+
+* Knowledge Graph based integration of cybersecurity information.
+* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
+* Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
+* FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
+* Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
+* Climate change FAIR data.
+* Post-colapse internet.
+* [Nanopubs](https://nanopub.net/).
+* Minorised and low resource languages and Knowledge Graphs.
+* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--).
+
 ### TFGs/GrAL-ak
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
@@ -66,17 +81,3 @@ TFGs (co)dirigidos:
 * Hezkuntzako ordezkapenak aukeratzeko mapa bidezko aplikazioa (2022 Azaroa).
 * Grafo batean balizko ustelkeriaren datuak irudikatzeko framework generikoa (2022 Azaroa).
 
-### PhD
-
-Some ideas for posssible PhD theses I would like to supervise:
-
-* Knowledge Graph based integration of cybersecurity information.
-* Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
-* Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
-* FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
-* Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
-* Climate change FAIR data.
-* Post-colapse internet.
-* [Nanopubs](https://nanopub.net/).
-* Minorised and low resource languages and Knowledge Graphs.
-* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--).
