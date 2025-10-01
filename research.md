@@ -10,18 +10,12 @@ Currently ongoing projects:
 	<li>2025. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
 	<li>2025. EuskoPVMap.</li>
 	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
-    <li>2021 - 2025. SUPPORT4LS (Process Mining and Knowledge Representation technologies to
-Support the Learning Health System). PID2020-113723RB-C22.
-Agencia Estatal de Investigación, “Proyectos I+D+i 2020” -
-Modalidades “Retos Investigación” y “Generación de Conocimiento”
-(Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020).
-136.972,00 EUR. 01/09/2021 - 31/08/2024
-	</li>
-
 </ul>
 
 Finished projects:
 <ul>
+	<li>2021 - 2025. SUPPORT4LS (Process Mining and Knowledge Representation technologies to Support the Learning Health System). PID2020-113723RB-C22. Agencia Estatal de Investigación, “Proyectos I+D+i 2020” - Modalidades “Retos Investigación” y “Generación de Conocimiento” (Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020). 136.972,00 EUR. 01/09/2021 - 31/08/2024
+	</li>
 	<li>2024. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
     <li>2024. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
 	<li>2023 - 2024. Methods for automatic generation of Knowledge Graph. Universidad de Murcia (UM), BASF (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>). </li>
@@ -47,10 +41,11 @@ Past freelance work:
 Currently developing:
 
 <ul>
+	<li>Cybersecurity Ontology Network. [<a href="https://github.com/tecnomod-um/CybersecurityOntologyNetwork">GitHub</a>]</li>
 	<li>Transparent Relations Ontology (TRO): TRO offers a vocabulary to publish information about relations that should be more transparent, usually between powerful parties. [<a href="https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology">GitHub</a>][<a href="https://w3id.org/TRO">W3ID/TRO</a>][<a href="https://zenodo.org/doi/10.5281/zenodo.8010820"><img src="https://zenodo.org/badge/476618172.svg" alt="DOI"></a>]</li>
-	<li>Basque Country Institutions Transparent Relations Graph: RDF Knowledge Graph for Transparent relations involving Basque Country institutions. The aim of this project is to build a graph to integrate information about entities and individuals that might have a conflict of interest, in order to analyse such information. [<a href="https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph">https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph</a>]</li>
-	<li>OntoGenix: The project utilizes the OpenAI GPT-4 model to develop a semi-automatic system that generates OWL ontologies and RML mappings from CSV datasets using LLMs. [<a href="https://github.com/tecnomod-um/OntoGenix">https://github.com/tecnomod-um/OntoGenix</a>]</li>
-	<li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac</a>]</li>
+	<li>Basque Country Institutions Transparent Relations Graph: RDF Knowledge Graph for Transparent relations involving Basque Country institutions. The aim of this project is to build a graph to integrate information about entities and individuals that might have a conflict of interest, in order to analyse such information. [<a href="https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph">Github</a>]</li>
+	<li>OntoGenix: The project utilizes the OpenAI GPT-4 model to develop a semi-automatic system that generates OWL ontologies and RML mappings from CSV datasets using LLMs. [<a href="https://github.com/tecnomod-um/OntoGenix">Github</a>]</li>
+	<li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">Github</a>]</li>
 </ul>
 
 Past developments, now closed:

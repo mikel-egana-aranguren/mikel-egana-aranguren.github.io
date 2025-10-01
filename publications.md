@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-A list of my most important publications follows (To see all of them, please refer to my CV). Many of them are <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">Open Access</a>; a PDF is attached to the ones that are not.
-
 <ul>
   <li><a href="#Journals">Journals</a></li>
   <li><a href="#Chapters">Chapters in books</a></li>

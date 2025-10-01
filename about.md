@@ -12,15 +12,15 @@ I am a biologist by the EHU; I also hold a PhD in computer science and an MSc in
 
 You can find me using other resources:
 
-* [Wikidata](https://www.wikidata.org/wiki/Q84817560).
-* [GitHub](http://github.com/mikel-egana-aranguren).
 * [Portal producción científica UPV/EHU](https://ekoizpen-zientifikoa.ehu.eus/investigadores/125962/detalle).
-* [ResearchGate](http://www.researchgate.net/profile/Mikel_Egana).
-* [LinkedIn](https://www.linkedin.com/).
 * [Google Scholar (JsMMKnoAAAAJ)](http://scholar.google.com/citations?user=JsMMKnoAAAAJ).
+* [ORCID (0000-0001-8081-1839)](http://orcid.org/0000-0001-8081-1839).
 * [Scopus (16038705500)](http://www.scopus.com/authid/detail.url?authorId=16038705500).
 * [ResearcherID (K-6878-2014)](http://www.researcherid.com/rid/K-6878-2014).
-* [ORCID (0000-0001-8081-1839)](http://orcid.org/0000-0001-8081-1839).
+* [Wikidata](https://www.wikidata.org/wiki/Q84817560).
+* [GitHub](http://github.com/mikel-egana-aranguren).
+* [ResearchGate](http://www.researchgate.net/profile/Mikel_Egana).
+* [LinkedIn](https://www.linkedin.com/).
 * [Nanodash](https://nanodash.petapico.org/user?26&id=https://orcid.org/0000-0001-8081-1839).
 * [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Aranguren:Mikel_Ega=ntilde=a).
 * [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mikel%20Ega%C3%B1a%20Aranguren%22&l=list&p=1&s=10&sort=bestmatch).
