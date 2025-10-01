@@ -72,23 +72,25 @@ Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Des
 
 <h2 id="Preprints">Preprints, Workshops and other publications</h2>
 
-Aranguren, Mikel Egaña and Fernández Breis, Jesualdo Tomás and Balentzia, Bidane Leon and Garcia Castro, Alexander and Rompe, Markus, A Comprehensive View of Software Vulnerability Risks Through Enterprise Knowledge Graphs. [<a href="https://dx.doi.org/10.2139/ssrn.5388699">SSRN</a>]
+Joel Garcia-Escribano, Arkaitz Carbajo, Mikel Egaña Aranguren, Unai Lopez-Novoa. Using GPT to build a Project Management assistant for Jira environments. [<a href="https://arxiv.org/abs/2509.26014">Arxiv</a>][<a href="2509.26014v1.pdf">pdf</a>]
 
-Aranguren, M. E. (2024). The Transparent Relations Ontology (TRO): a vocabulary to describe conflicts of interest. [<a href="https://doi.org/10.48550/arXiv.2410.07154">Arxiv</a>]
+Aranguren, Mikel Egaña and Fernández Breis, Jesualdo Tomás and Balentzia, Bidane Leon and Garcia Castro, Alexander and Rompe, Markus, A Comprehensive View of Software Vulnerability Risks Through Enterprise Knowledge Graphs. [<a href="https://dx.doi.org/10.2139/ssrn.5388699">SSRN</a>][<a href="ssrn-5388699.pdf">pdf</a>]
+
+Aranguren, M. E. (2024). The Transparent Relations Ontology (TRO): a vocabulary to describe conflicts of interest. [<a href="https://doi.org/10.48550/arXiv.2410.07154">Arxiv</a>][<a href="2410.07154v1.pdf">pdf</a>]
 
 Aranguren, M. E., Breis, J. T. F., Castro, A. G., and Rompe, M. (2024). The Cybersecurity Ontology Network: the first building block for a comprehensive Cybersecurity Knowledge Graph. In OK4I - Ontologies and Knowledge Graphs for Industry (Co-located with FOIS), Enschede, Netherlands. [<a href="https://ceur-ws.org/Vol-3882/">CEUR workshops volume 3882</a>][<a href="Cybersecurity_Ontology_Network.pdf">pdf</a>]
 
-Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs. [<a href="http://dx.doi.org/10.1101/013615">Biorxiv</a>]
+Aranguren, M. E. (2015). Merging OpenLifeData with SADI services using Galaxy and Docker (DOI 10.1101/013615). BioRxiv, Cold Spring Harbor Labs. [<a href="http://dx.doi.org/10.1101/013615">Biorxiv</a>][<a href="013615v1.full.pdf">pdf</a>]
 
 Marshall, M., Boyce, R., Deus, H., Zhao, J., Willighagen, E., Samwald, M., Pichler, E., Hajagos, J., Aranguren, M., Miller, M., Prudhommeaux, E., Dumontier, M., and Stephens, S. (2012). Health Care and Life Science (HCLS) Linked Data Guide (http://www.w3.org/2001/sw/hcls/notes/hcls-rdf-guide/)
 
-Horridge, M., Aranguren, M., Mortensen, J., Musen, M., and Noy, N. (2012). Ontology Design Pattern Language Expressivity Requirements. In WOP (Co-located with ISWC), Boston, USA
+Horridge, M., Aranguren, M., Mortensen, J., Musen, M., and Noy, N. (2012). Ontology Design Pattern Language Expressivity Requirements. In WOP (Co-located with ISWC), Boston, USA. [<a href="paper3.pdf">pdf</a>]
 
-Gimenez, J., Aranguren, M., and Tomas, J. (2012). NCBO-Galaxy: bridging the BioPortal web services and the Galaxy platform. In ICBO, Graz, Austria
+Gimenez, J., Aranguren, M., and Tomas, J. (2012). NCBO-Galaxy: bridging the BioPortal web services and the Galaxy platform. In ICBO, Graz, Austria. [<a href="demo_3.pdf">pdf</a>]
 
-Fernandez-Breis, J., Aranguren, M., and Stevens, R. (2009). A quality evaluation framework for bio-ontologies. In ICBO, Buffalo, USA
+Fernandez-Breis, J., Aranguren, M., and Stevens, R. (2009). A quality evaluation framework for bio-ontologies. In ICBO, Buffalo, USA. [<a href="npre.2009.3479.1.pdf">pdf</a>]
 
-Aranguren, M., Stevens, R., and Antezana, E. (2008b). Transforming the Axiomisation of Ontologies: The Ontology Pre-Processor Language. In OWL Experiences and Directions (OWLEd), Washington DC, USA
+Aranguren, M., Stevens, R., and Antezana, E. (2008b). Transforming the Axiomisation of Ontologies: The Ontology Pre-Processor Language. In OWL Experiences and Directions (OWLEd), Washington DC, USA.
 
 Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expressivity of the ontology pre-processor language. In OWL Experiences and Directions (OWLEd), co-located with ISWC, Karlsruhe, Germany. [<a href="Augmenting_the_Expressivity_of_the_Ontology_Pre-Pr.pdf)">pdf</a>]
 
