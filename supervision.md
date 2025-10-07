@@ -12,12 +12,14 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 Some ideas for posssible PhD theses I would like to supervise:
 
+* GraphRAG for industrial machinery documentation. 
 * Knowledge Graph based integration of cybersecurity information.
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
 * Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
 * Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
 * Climate change FAIR data.
+* KGs for media information, e.g. [Grafo RTVE](https://www.rtve.es/grafo).
 * Post-colapse internet.
 * [Nanopubs](https://nanopub.net/).
 * Minorised and low resource languages and Knowledge Graphs.
@@ -28,6 +30,7 @@ Some ideas for posssible PhD theses I would like to supervise:
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
+* RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Sistema de documentación basado en Sphinx, Bibtex, y Docker.
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
