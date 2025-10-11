@@ -20,7 +20,7 @@ Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web 
 
 Pawluczyk, M., Weiss, J., Links, M. G., Aranguren, M. E., Wilkinson, M. D., and Egea-Cortines, M. Quantitative evaluation of bias in PCR amplification and Next Generation Sequencing derived from metabarcoding samples. <em>Analytical and Bioanalytical Chemistry</em> 2015: 407(7):1841–1848. [<a href="http://link.springer.com/article/10.1007%2Fs00216-014-8435-y#">Analytical and Bioanalytical Chemistry</a>][<a href="pawluczyk_abc1.pdf">pdf</a>]
 
-Alejandro Rodríguez González, Alison Callahan, José Cruz-Toledo, Adrian Garcia, Mikel Egaña Aranguren, Michel Dumontier, Mark D. Wilkinson. Automatically exposing OpenLifeData via SADI semantic Web Services. <em>Journal of Biomedical Semantics</em> 2014, 5(1):46+. [<a href="http://www.jbiomedsem.com/content/5/1/46/abstract">Journal of Biomedical Semantics</a>]
+Alejandro Rodríguez González, Alison Callahan, José Cruz-Toledo, Adrian Garcia, Mikel Egaña Aranguren, Michel Dumontier, Mark D. Wilkinson. Automatically exposing OpenLifeData via SADI semantic Web Services. <em>Journal of Biomedical Semantics</em> 2014, 5(1):46+. [<a href="http://www.jbiomedsem.com/content/5/1/46/abstract">Journal of Biomedical Semantics</a>][<a href="https://addi.ehu.eus/handle/10810/15822">ADDI</a>]
 
 Mikel Egaña Aranguren, Alejandro Rodríguez González, Mark D. Wilkinson. Executing SADI services in Galaxy. <em>Journal of Biomedical Semantics</em> 2014, 5(1):42+. [<a href="http://www.jbiomedsem.com/content/5/1/42/abstract">Journal of Biomedical Semantics</a>][<a href="https://addi.ehu.es/handle/10810/15997">ADDI</a>][<a href="https://doi.org/10.5281/zenodo.13760079"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13760079.svg" alt="DOI"></a>]
 
