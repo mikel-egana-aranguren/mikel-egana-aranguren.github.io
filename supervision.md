@@ -29,10 +29,10 @@ Some ideas for posssible PhD theses I would like to supervise:
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* Graph based project management tool (a.k.a [Basecamp](https://basecamp.com/)/[JIRA](https://www.atlassian.com/software/jira) with RDF/SHACL/OWL underneath).
 * [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
-* Sistema de documentación basado en Sphinx, Bibtex, y Docker.
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * [Nanopubs](https://nanopub.net/).
@@ -48,7 +48,6 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Minorised and/or low resource languages in Knowledge Graphs.
-* App lagun izkutua [Zero Knowledge Encryption](https://chain.link/education-hub/zero-knowledge-encryption).
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
 * Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a RDF incluyendo tecnicas de NLP (Natural Language Procesing), NER (Named Entity Recognition), enlazado con [Wikidata](https://www.wikidata.org/) y creación de interfaz web.
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
