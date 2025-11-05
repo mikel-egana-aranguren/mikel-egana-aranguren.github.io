@@ -10,7 +10,7 @@ Availability / tutoretzak / tutorías: [http://go.ehu.eus/mikel-egana-aranguren]
 
 ### PhD
 
-Some ideas for posssible PhD theses I would like to supervise:
+I am part of the [Doctoral Programme in Informatics Engineering](https://www.ehu.eus/en/web/doktoregoa/doctorate-informatics-engineering), in the [BDI (Interoperable Database Group)](https://www.ehu.eus/en/web/doktoregoa/doctorate-informatics-engineering/teaching-staff?findByTeam=37&team=+BDI,%20Interoperable%20Database%20Group). Some ideas for posssible PhD theses I would like to supervise:
 
 * GraphRAG for industrial machinery documentation. 
 * Knowledge Graph based integration of cybersecurity information.
