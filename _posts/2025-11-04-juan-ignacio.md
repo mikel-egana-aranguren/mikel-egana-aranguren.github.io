@@ -8,7 +8,7 @@ Juan Ignacio Pérez Iglesias, Consejero de Ciencia, Universidades e Innovación 
 
 Lo primero que tira para atrás es el hedor a naftalina de un lenguaje supuestamente riguoroso y con barniz de autoridad, que en realidad lo único que esconde es una falta completa de contenido y rigor.
 
-El artículo pretende jusitificar la negativa a la demanda de 600 millones de EUR que ha hecho el equipo del rector Bengoetxea para mantener a EHU a flote, como Jose Luis dice, "redondeando". Digo pretende por que como suele suceder cuando un partido del régimen no tiene argumentos serios, se limita criticar las formas, hacer referencia a supuestas conspiraciones, calificar a los trabajadores de privilegiados, y a escudarse en supuestas limitaciones administrativas y/o de forma. El artículo es una mezcla de todas ellas y más. 
+El artículo pretende jusitificar la negativa a la demanda de 600.000.000€ que ha hecho el equipo del rector Bengoetxea para mantener a EHU a flote, como Jose Luis dice, "redondeando". Digo pretende por que como suele suceder cuando un partido del régimen no tiene argumentos serios, se limita criticar las formas, hacer referencia a supuestas conspiraciones, calificar a los trabajadores de privilegiados, y a escudarse en supuestas limitaciones administrativas y/o de forma. El artículo es una mezcla de todas ellas y más. 
 
 Jose Luis dice:
 
@@ -16,10 +16,13 @@ Jose Luis dice:
 
 Dicho así, parece un regalo, una super cesta de navidad que cae de la nada. Vamos a ver un significativo ejemplo de lo que estos 10.000€ supondrían. Redondeando, como Jose Luis, 10.000/año equivale a unos 600€/mes (Descontando IRPF).
 
-En el PDI, la primera figura con cierta estabilidad (Que no permanencia, ya ha habido varias denuncias ganadas al respecto) es la de adjunto o ayudante doctor, que es una persona con doctorado (Es decir, una cualificación considerable) y por lo menos varias publicaciones y proyectos a sus espaldas. Un adjunto cobra 1800€/mes, menos que un sustituto, por que, en una de las clasicas carambolas Kafkianas de nuestra querida administración ... el ayudante doctor no cobra el complemento doctor! (Que si cobra un sustituto). De modo que un adjunto cobra menos que un profesor de instituto. Repito. Una persona con una cualificación que en muchos casos le permitiría cobrar en el mercado Europeo entre 3000€ y 5000€, cobra 1800€. Posiblemente bien entrada en la treintena (La media de estabilización es de 43 años), con un alquiler/hipoteca que pagar y un contexto de bajada real de poder adquisitivo. Redondeando, estos 10.000€ le permitirian tener el mismo salario ... que un profesor de instituto, con una mayor cualificación. Pero parece que a Jose Luis le parece normal que alguien que dedica mucho más que una jornada laboral de un instituto (Por el famoso "publish or perish"), con mucha mayor cualificacion, cobre menos.
+En el PDI, la primera figura con cierta estabilidad (Que no permanencia, ya ha habido varias denuncias ganadas al respecto) es la de adjunto o ayudante doctor, que es una persona con doctorado (Es decir, una cualificación considerable) y por lo menos varias publicaciones y proyectos a sus espaldas, probablemente en un contexto internacional. Un adjunto cobra 1800€/mes, menos que un sustituto, por que, en una de las clasicas carambolas Kafkianas de nuestra querida administración ... el ayudante doctor no cobra el complemento doctor! (Que si cobra un sustituto). De modo que un adjunto cobra menos que un profesor de instituto. Repito. Una persona con una cualificación que en muchos casos le permitiría cobrar en el mercado Europeo entre 3000€ y 5000€, cobra 1800€. Posiblemente bien entrada en la treintena (La media de estabilización es de 43 años), con un alquiler hiperbólico (Este sí, realmente hiperbólico, no como el lenguaje que usa Bengoetxea) que pagar y un contexto de bajada real de poder adquisitivo. Redondeando, estos 10.000€ le permitirian tener el mismo salario ... que un profesor de instituto, con una mayor cualificación. Pero parece que a Jose Luis le parece normal que alguien que dedica mucho más que una jornada laboral de un instituto (Por el famoso "publish or perish"), con mucha mayor cualificacion, cobre menos. No sé que tiene de hiperbólico pedir el salario igual al de un profesor de instituto para una persona que trabaja muchas mas horas.
 
+Continua Jose Luis:
 
+> Prácticamente ninguna de las propuestas para las que se pide financiación es de contenido académico
 
+La calidad acadeḿica entra dentro del contenido académico, y la calidad se paga con salarios. Así de simple. Si pagas con cacahuetes, obtendrás la calidad académica que puedan producir los monos. 
 
 
 
@@ -41,8 +44,11 @@ Puestos a elucubrar (Si Jose Luis lo puede hacer, no se por que yo no) yo diria 
 10.000 por estudiante. Pero no habiamos quedado que era por trabajador? Jose Luis, una cosa es redondear y otra cambiar estudiantes por trabajadores. Menudo rigor. 
 
 
-
+Bastaba con decir "tenemos otras prioridades por esto y por esto y listo", Jose Luis.
 
 ---
-- Escudarse en el "no se puede" administrativo. En esto el PNV es maestro: nunca se puede por procedimientos, por falta de transferencias, ... 
+
+Infraestructura: falta de calefaccion ingenieros
+
+Escudarse en el "no se puede" administrativo. En esto el PNV es maestro: nunca se puede por procedimientos, por falta de transferencias, ... 
 
