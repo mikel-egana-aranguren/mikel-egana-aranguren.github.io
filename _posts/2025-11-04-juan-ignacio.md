@@ -6,13 +6,13 @@ date: 2025-11-04
 
 Juan Ignacio Pérez Iglesias (En adelante J.I.P.I), Consejero de Ciencia, Universidades e Innovación del Gobierno Vasco, ha escrito un artículo de opinión sobre la financiación que el Gobierno Vasco provee a EHU, de la que él es responsabble ("El lenguaje hiperbólico no va a mejorar la financiación de la Universidad del País Vasco"). Primero lo hizo en su [blog](https://juanignacioperez.net/2025/11/02/el-lenguaje-hiperbolico-no-va-a-mejorar-la-financiacion-de-la-universidad-del-pais-vasco/), luego en [Deia](https://www.deia.eus/opinion/2025/11/04/lenguaje-hiperbolico-mejorar-financiacion-universidad-10301470.html), y yo le respondo aquí.
 
-El artículo pretende justificar la negativa a la demanda de 600.000.000€ que ha hecho el equipo del rector Bengoetxea para mantener a EHU a flote, y como J.I.P.I dice, responde "redondeando". Digo pretende por que como suele suceder cuando un partido del régimen no tiene argumentos serios, se limita criticar las formas, hacer referencia a supuestas conspiraciones, calificar a los trabajadores de privilegiados, y a escudarse en supuestas limitaciones administrativas y/o de forma. El artículo es una mezcla de todas esas técnicas y alguna más. Vamos a ver el artículo por partes. 
+El artículo pretende justificar la negativa a la demanda de 600.000.000€ que ha hecho el equipo del rector Bengoetxea para mantener a EHU a flote, como J.I.P.I dice, "redondeando". Digo pretende por que como suele suceder cuando un partido del régimen no tiene argumentos serios, se limita criticar las formas, hacer referencia a supuestas conspiraciones, calificar a los trabajadores de privilegiados, y a escudarse en supuestas limitaciones administrativas y/o de forma. El artículo es una mezcla de todas esas técnicas y alguna más. Vamos a ver el artículo por partes. 
 
 J.I.P.I escribe:
 
 > De los 200 M€, algo más de la mitad se destinaría a aumentos salariales o medidas equivalentes; viene reflejado bajo el epígrafe Cuidado de las personas. Si las cuentas no me fallan, estaríamos hablando de casi 10.000€ anuales por trabajador o trabajadora.
 
-Un truco realmente viejo de los estamentos del poder es señalar a los que piden algo como privilegiados que ya tienen demasiado. Esto es un ejemplo más, ya que, dicho así, esos 10.000€ parecen un regalo, una super cesta de navidad que cae de la nada a los privilegiados funcionarios. Vamos a ver un ejemplo real de lo que estos 10.000€ supondrían. como J.I.P.I dice, redondeando, 10.000€/año equivalen a unos 600€/mes (Descontando IRPF). En el PDI (Personal Docente e Investigador), la primera figura con cierta estabilidad (Que no permanencia) es la de Adjunto o Ayudante doctor, que es una persona con doctorado, varias publicaciones (Por el famoso "Publish or perish"), proyectos a sus espaldas, que probablemente ha trabajado en un contexto internacional y que dedica muchísimas horas gratis a su trabajo, debido a su vocación. Es decir, una cualificación y rendimiento considerables. Un adjunto cobra 1.800€/mes, menos que un profesor de instituto. Repito. Una persona con una cualificación que en muchos casos le permitiría cobrar en el mercado Europeo entre 3.000€ y 5.000€, cobra 1.800€. Posiblemente bien entrada en la treintena (La media de estabilización en EHU es de 43 años), con un alquiler hiperbólico que pagar (Este sí, realmente hiperbólico, no como el lenguaje que usa Bengoetxea) y un contexto de bajada de poder adquisitivo real en los ultimos 20 años. Redondeando, estos 10.000€ le permitirían tener *el mismo salario que un profesor de instituto*, con una cualificación mucho mayor, y aún así teniendo que pagar mucho más por vivienda y comida. Sobrevivir parece ser hiperbólico.
+Un truco realmente viejo de los estamentos del poder es señalar a los que piden algo como privilegiados que ya tienen demasiado. Esto es un ejemplo más, ya que, dicho así, esos 10.000€ parecen un regalo, una super cesta de navidad que cae de la nada a los privilegiados funcionarios. Vamos a ver un ejemplo real de lo que estos 10.000€ supondrían. como J.I.P.I dice, redondeando, 10.000€/año equivalen a unos 600€/mes (Descontando IRPF). En el PDI (Personal Docente e Investigador), la primera figura con cierta estabilidad (Que no permanencia) es la de Adjunto o Ayudante doctor, que es una persona con doctorado, varias publicaciones (Por el famoso "Publish or perish"), proyectos a sus espaldas, que probablemente ha trabajado en un contexto internacional y que dedica muchísimas horas gratis a su trabajo, debido a su vocación. Es decir, una cualificación y rendimiento considerables. Un adjunto cobra 1.800€/mes, menos que un profesor de instituto. Repito. Una persona con una cualificación que en muchos casos le permitiría cobrar en el mercado Europeo entre 3.000€ y 5.000€, cobra 1.800€. Posiblemente bien entrada en la treintena (La media de estabilización en EHU es de 43 años), con un alquiler hiperbólico que pagar (Este sí, realmente hiperbólico, no como el lenguaje que usa Bengoetxea) y un contexto de bajada de poder adquisitivo real en los ultimos 20 años. Redondeando, estos 10.000€ le permitirían tener *el mismo salario que un profesor de instituto*, con una cualificación mucho mayor, y aún así teniendo que pagar mucho más por vivienda y comida. Sobrevivir en el 2025 con un mínimo de dignidad parece ser una hipérbole.
 
 J.I.P.I escribe:
 
@@ -54,7 +54,7 @@ J.I.P.I escribe:
 
 > Menos aún lo es cuando la universidad en cuestión se encuentra entre las 400 mejores del mundo, o cuando, como acabamos de saber, sigue aumentando el número de personas de su plantel investigador que se encuentran entre el 2% más citado del mundo.
 
-Aquí hay una falacia de bulto, y es asumir que si una empresa o entidad da buenos resultados, es porque sus trabajadores trabajan en buenas condiciones. Le invito a J.I.P.I a pasarse por cualquier almacen de Amazon, empresa que da buenisimos resultados. La realidad es que EHU produce esos resultados *a pesar* de, no *por* la financiación que recibe, gracias al voluntarismo, sentido de deber de servicio público, y vocación de investigadores que han hecho un voto de probreza.
+Aquí hay una falacia de bulto, y es asumir que si una empresa o entidad da buenos resultados, es porque sus trabajadores trabajan en buenas condiciones. Le invito a J.I.P.I a pasarse por cualquier almacen de Amazon, empresa que da buenisimos resultados. La realidad es que EHU produce esos resultados *a pesar* de, no *por* la financiación que recibe, gracias al voluntarismo, sentido de deber de servicio público, y vocación de investigadores que han hecho un voto de pobreza.
 
 J.I.P.I escribe:
 
@@ -66,23 +66,17 @@ J.I.P.I escribe:
 
 > Confío en que no se trate de hacer uso de la universidad pública como ariete político.
 
-Este argumento denota una concepción de la interacción política bastante peligrosa: si una entidad pide algo que no estoy dispuesto a proveer, se convierte en un ariete político. Ergo, sólo se puede pedir lo que estoy dispuesto a proveer, y todo lo demás es "intención política". Obviando, además, que no hay nada más político que no proveer a los servicios públicos los recursos que necesitan, y además, hacerlo responsabilizando a esos mismos servicios de usar un lenguaje inadecuado. 
+Este argumento denota una concepción de la interacción política bastante peligrosa: si una entidad pide algo que no estoy dispuesto a proveer, o si lo hace usando el tono inadecuado, se convierte en un ariete político. Ergo, sólo se puede pedir lo que estoy dispuesto a proveer, y todo lo demás es "intención política". Obviando, además, que no hay nada más político que no proveer a los servicios públicos los recursos que necesitan (En este caso, ese sí que sería un ariete, pero contra la sociedad vasca), y además, hacerlo responsabilizando a los representantes de esos mismos servicios de usar un lenguaje inadecuado. El título mismo del artículo es esclarecedor: "El lenguaje hiperbólico no va a mejorar la financiación de la Universidad del País Vasco". ¿El lenguaje no-hiperbólico sí? Curioso. 
 
-
-Yo confio en que la universidad pública algún día obtenga la financiación que se merece: 
-
-
-constituye la media europea y la recomendación de la LOSU: el 1% del PIB. No creo que el que redacto la LOSU o tantas universidades europeas sean arietes politicos de nadie. Igual J.I.P.I piensa que sí. Que nos lo explique.
+Yo confío en que la universidad pública algún día obtenga la financiación que se merece, que se situa en torno al 1% del PIB, que es la media Europea y lo que recomienda la LOSU, que no creo que sea el ariete político de ningún grupo del parlamento vasco. Igual J.I.P.I piensa que sí. Que nos lo explique.
 
 
 
 
 
-watsapp
 
 
 
 
 
-Escudarse en el "no se puede" administrativo. En esto el PNV es maestro: nunca se puede por procedimientos, por falta de transferencias, ... 
 
