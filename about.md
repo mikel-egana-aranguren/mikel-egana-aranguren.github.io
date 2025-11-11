@@ -26,4 +26,4 @@ You can find me using other resources:
 * [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mikel%20Ega%C3%B1a%20Aranguren%22&l=list&p=1&s=10&sort=bestmatch).
 * [Solid](https://mikeleganaaranguren.inrupt.net/).
 * [Substack](https://substack.com/@mikeleganaaranguren).
-*  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">mastodon.eus/@mikel_egana_aranguren</a>.
+*  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">Mastodon</a>.
