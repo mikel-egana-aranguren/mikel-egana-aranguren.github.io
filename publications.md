@@ -123,6 +123,8 @@ Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitale
 
 <strong>Español</strong>
 
+Nahia Iturregi Artiñano, Endika Tapia Fernández, Mikel Egaña Aranguren, Unai López Novoa, Leonardo Sastoque Pinilla. RAG industrial: cuando las máquinas responden a preguntas. [<a href="https://www.interempresas.net/MetalMecanica/613742-RAG-industrial-cuando-las-maquinas-responden-a-preguntas.html">Interempresas</a>][<a href="RAG-industrial_interempresas.pdf">pdf</a>]
+
 Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="01678941.pdf">pdf</a>]. 
 
 <a href="https://vimeo.com/42962819">Video divulgativo</a> sobre <a href="http://es.wikipedia.org/wiki/Datos_enlazados">Linked Data</a> para el concurso <a href="http://www.onzientzia.tv/bideoa-ikusi.asp?Kodea=332&amp;lang=ES">On Zientzia 2012</a>.
