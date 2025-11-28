@@ -61,6 +61,8 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 
 TFGs (co)dirigidos:
 
+* Despliegue y comparativa de distribuciones kubernetes en entornos on-premise (Noviembre 2025).
+* Despliegue de una aplicación Web para la visualización de mapas con información sobre el potencial fotovoltaico en tejados (Noviembre 2025).
 * Inyección de faltas en esquemas criptográficos post cuántico (Septiembre 2025)
 * Cuántica aplicada a la detección de anomalías en empresas de ciberseguridad (Junio 2025).
 * Evaluación de los espacios de datos en el contexto empresarial (Junio 2025).
