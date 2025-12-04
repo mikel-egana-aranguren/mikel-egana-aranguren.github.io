@@ -44,13 +44,13 @@ Currently developing:
 	<li>Cybersecurity Ontology Network. [<a href="https://github.com/tecnomod-um/CybersecurityOntologyNetwork">GitHub</a>]</li>
 	<li>Transparent Relations Ontology (TRO): TRO offers a vocabulary to publish information about relations that should be more transparent, usually between powerful parties. [<a href="https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology">GitHub</a>][<a href="https://w3id.org/TRO">W3ID/TRO</a>][<a href="https://zenodo.org/doi/10.5281/zenodo.8010820"><img src="https://zenodo.org/badge/476618172.svg" alt="DOI"></a>]</li>
 	<li>Basque Country Institutions Transparent Relations Graph: RDF Knowledge Graph for Transparent relations involving Basque Country institutions. The aim of this project is to build a graph to integrate information about entities and individuals that might have a conflict of interest, in order to analyse such information. [<a href="https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph">Github</a>]</li>
-	<li>OntoGenix: The project utilizes the OpenAI GPT-4 model to develop a semi-automatic system that generates OWL ontologies and RML mappings from CSV datasets using LLMs. [<a href="https://github.com/tecnomod-um/OntoGenix">Github</a>]</li>
 	<li>Semantic Manfred Awesomic CV: a prototype for a semantic version of the MAC, based on JSON-LD. [<a href="https://github.com/mikel-egana-aranguren/mac/tree/semantic_mac">Github</a>]</li>
 </ul>
 
-Past developments, now closed:
+Sunsetted:
 
 <ul>
+   	<li>OntoGenix: The project utilizes the OpenAI GPT-4 model to develop a semi-automatic system that generates OWL ontologies and RML mappings from CSV datasets using LLMs. [<a href="https://github.com/tecnomod-um/OntoGenix">Github</a>]</li>
 	<li>Linked Open Data Euskadi: migration of current Open Data Euskadi to Linked Open Data (Phases I and II). [<a href="https://github.com/opendata-euskadi">https://github.com/opendata-euskadi</a>]</li>
 	<li>Guerra Civil en Euskadi: this resource integrates data about the spanish civil war in Euskadi, through RDF graphs, and it offers nice visualisations. [<a href="http://guerracivileuskadi.eurohelp.es/">http://guerracivileuskadi.eurohelp.es/</a>]</li>
 	<li>Linked Data Test Suite: Tests and reporting for Linked Data systems. [<a href="https://github.com/mikel-egana-aranguren/LinkedDataTestSuite">https://github.com/mikel-egana-aranguren/LinkedDataTestSuite</a>]</li>
