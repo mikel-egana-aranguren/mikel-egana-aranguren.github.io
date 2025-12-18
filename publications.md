@@ -9,7 +9,7 @@ permalink: /publications/
   <li><a href="#Chapters">Chapters in books</a></li>
   <li><a href="#Conference">Conference proceedings</a></li>
   <li><a href="#Preprints">Preprints, Workshop Proceedings and other publications</a></li>
-  <li><a href="#Etc.">Etc.</a></li>
+  <li><a href="#talks">Talks</a></li>
 </ul>
 
 <h2 id="Journals">Journals</h2>
@@ -94,10 +94,6 @@ Iannone, L., Egana, M., Rector, A., and Stevens, R. (2008). Augmenting the expre
 
 Antezana, E., Blondé, W., Egana, M., Rutherford, A., Stevens, R., De Baets, B., Mironov, V., and Kuiper, M. (2008a). Structuring the life science resourceome for semantic systems biology: lessons from the BioGateway Project. In Proceedings of the Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS): November 28, 2008; Edinburgh, United Kingdom. [<a href="SWAT4LS_2008_paper.pdf">pdf</a>]
 
-<h2 id="Etc.">Etc.</h2>
-
-<strong>English</strong>
-
 PhD thesis: Role and Application of Ontology Design Patterns in Bio-ontologies. Mikel Egaña Aranguren, 2009, University of Manchester, Faculty of Engineering and Physical Sciences, School of Computer Science. [<a href="thesis.pdf">pdf</a>]
 
 MSc thesis: Improving the structure of the Gene Ontology. Mikel Egaña Aranguren, 2004, University of Manchester, Faculty of Engineering and Physical Sciences, School of Biological Sciences. [<a href="msc_thesis.pdf">pdf</a>]
@@ -107,8 +103,6 @@ Content created for the Ontogenesis KnowledgeBlog meeting: <a href="http://ontog
 Content created for the Bioinformatics KnowledgeBlog: <a href="http://bioinformatics.knowledgeblog.org/2011/07/05/publishing-information-in-the-linked-open-data-cloud/">a tutorial describing how to publish information in Linked Open Data</a>.
 
 Basic introduction to the shell. This is a very basic tutorial on how to use the UNIX shell for non-geeks, e.g. biologists doing a bioinformatics course ;-). [<a href="basic_shell.pdf">pdf</a>]
-
-<strong>Euskara</strong>
 
 CAF-Elhuyar sarietara aurkeztutako artikuluak (Ez nuen saririk jaso):
 <ul>
@@ -121,8 +115,6 @@ Berria fundazioak antolatutako leihaketa batera aurkeztutako proiektua, argitale
 
 <a href="https://eu.wikipedia.org/wiki/Lankide:Mikel.egana.aranguren">Euskarazko wikipedian</a> ere banabil, edukia sortzen edo hobetzen, ahal dudan heinean.
 
-<strong>Español</strong>
-
 Nahia Iturregi Artiñano, Endika Tapia Fernández, Mikel Egaña Aranguren, Unai López Novoa, Leonardo Sastoque Pinilla. RAG industrial: cuando las máquinas responden a preguntas. [<a href="https://www.interempresas.net/MetalMecanica/613742-RAG-industrial-cuando-las-maquinas-responden-a-preguntas.html">Interempresas</a>][<a href="RAG-industrial_interempresas.pdf">pdf</a>]
 
 Pliego técnico <a href="https://www.um.es/web/hercules/proyectos">proyecto Hércules</a>. [<a href="01678941.pdf">pdf</a>]. 
@@ -134,3 +126,34 @@ Software libre (GNU/linux) para biólogos. BioGaia 3, 2003 (<a href="http://www.
 ¿Qué puede hacer la web semántica por la biología? BioGaia 7, 2009 (<a href="http://www.cobeuskadi.es/">COBE</a>). [<a href="biogaialssw.pdf">pdf</a>]
 
 Breve introducción a <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/texshade/">TeXshade</a>, un paquete LaTeX para representar alineamientos de secuencias. [<a href="texshade_es.pdf">pdf1</a>, <a href="texshade_es_ejemplos.pdf">pdf2</a>]
+
+<h2 id="talks">Talks</h2>
+
+[04/2023] Grafos de conocimiento y transparencia. <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/">Bilbo Data Lab, Wikitoki</a>. [<a href="BilbaoDataLabGRafos.pdf">pdf</a>]
+
+[02/2016] Datos enlazados y Web Semántica. <a href="http://tikitalka.com/">TikiTalka</a> VE Interactive Bilbao. [<a href="slides-linked-data.html">html</a>]
+
+[09/2014] Building reasonable biomedical ontologies for a Life Sciences Semantic Web. 3S (Systems, Synthetic, and Semantic) Biology summer school. CIBIO (Centre for
+Integrative Biology), University of Trento, Italy. [<a href="http://mikel-egana-aranguren.github.io/3SBiologyTrento2014/#/">html</a>]
+
+[11/2011] Linked Data for functional genomics. NTNU, Trondheim, Norway. [<a href="linkeddatafunctionalgenomics-111128043801-phpapp01.pdf">pdf</a>]
+
+[9/2010] Aplicación de la Web Semántica en Biología Molecular. Facultad de Ingeniería, Universidad de Deusto, Bilbao. [<a href="applyingswmikelegana-100919095349-phpapp01.pdf">pdf</a>]
+
+[6/2008] Aplicación de la Web Semántica en Bioinformática. UM, Facultad de Informática, Murcia. [<a href="um62008mikel-100126034916-phpapp02.pdf">pdf</a>]
+
+[5/2004] Métodos y Resultados Actuales en Bioinformática: know-how y know-what de las redes tecnocientíficas en Bioinformática. UPV/EHU, Facultad de Filosofía, San Sebastián. [<a href="charladonosti-100126034929-phpapp02.pdf">pdf</a>]
+
+[12/2011] OPPL-Galaxy: Enhancing ontology exploitation in Galaxy with OPPL. SWAT4LS, London, UK. [<a href="5aranguren-111206022912-phpapp01.pdf">pdf</a>]
+
+[12/2011] Populous-OPPL tutorial. SWAT4LS, London, UK. [<a href="populousswat4lsslidesslideshare-111208081243-phpapp02.pdf">pdf</a>]
+
+[4/2011] Publicar datos de manera inteligente en la Web: la filosofía y la práctica de los datos enlazados (Linked Data). Reunión de la Red de Observatorios de Sostenibilidad. Évora, Portugal. [<a href="linkeddata-110502024501-phpapp02.pdf">pdf</a>]
+
+[9/2010] A semantic query interface for the OGO platform. DEXA (ITBAM), Bilbo, Spain. [<a href="mikeleganaitbam2010ogosystem-100818123545-phpapp02.pdf">pdf</a>]
+
+[10/2008] Applying Ontology Design Patterns in bio-ontologies. EKAW, Catania, Italy. [<a href="mikeleganaaranguren-100126034921-phpapp01.pdf">pdf</a>]
+
+[3/2008] Transforming the Axiomisation of Ontologies: The Ontology Pre-Processor Language. OWLed, Washington DC, USA. [<a href="presentation-100126034946-phpapp02.pdf">pdf</a>]
+
+[7/2007] Ontology Design Patterns (ODPs) for bio-ontologies. ISMB (Bio-ontologies SIG), Viena, Austria. [<a href="odpsismb-100126034932-phpapp02.pdf">pdf</a>]
