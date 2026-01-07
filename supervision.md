@@ -23,15 +23,16 @@ I am part of the [Doctoral Programme in Informatics Engineering](https://www.ehu
 * Post-colapse internet.
 * [Nanopubs](https://nanopub.net/).
 * Minorised and low resource languages and Knowledge Graphs.
-* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--).
+* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--) [CIDOC-CRM](https://cidoc-crm.org/).
 
 ### TFGs/GrAL-ak
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
-* Graph based project management tool (a.k.a [Basecamp](https://basecamp.com/)/[JIRA](https://www.atlassian.com/software/jira) with RDF/SHACL/OWL underneath).
+* Graph based project management tool, a simplified version of [Basecamp](https://basecamp.com/) or [JIRA](https://www.atlassian.com/software/jira) using semantic technologies: RDF and OWL for data storage, and SHACL to trigger UI elements (Link UI elements with SHACL shapes and when an element matches the shape, trigger the UI).
 * [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
+* [Anstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
