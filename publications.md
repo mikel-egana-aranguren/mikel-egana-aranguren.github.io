@@ -14,6 +14,8 @@ permalink: /publications/
 
 <h2 id="Journals">Journals</h2>
 
+Mikel Egaña Aranguren, Jesualdo Tomás Fernández-Breis, Bidane Leon Balentzia, Markus Rompe, Alexander García Castro. A comprehensive view of software vulnerability risks through enterprise knowledge graphs. <em>Computers & Security</em> 2026: 163 (104815). [<a href="https://doi.org/10.1016/j.cose.2025.104815">Computers & Security</a>]
+
 Mikel Val-Calvo, Mikel Egaña Aranguren, Juan Mulero-Hernández, Ginés Almagro-Hernández, Prashant Deshmukh, José Antonio Bernabé-Díaz, Paola Espinoza-Arias, José Luis Sánchez-Fernández, Juergen Mueller, Jesualdo Tomás Fernández-Breis. OntoGenix: Leveraging Large Language Models for enhanced ontology engineering from datasets. <em>Information Processing & Management</em> 2025: 62 (3). [<a href="https://doi.org/10.1016/j.ipm.2024.104042">Information Processing & Management</a>]
 
 Mikel Egaña Aranguren, Mark D. Wilkinson. Enhanced reproducibility of SADI web service workflows with Galaxy and Docker. GigaScience 2015: 4(59). [<a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0092-3">GigaScience</a>][<a href="https://addi.ehu.es/handle/10810/68964">ADDI</a>][<a href="https://doi.org/10.1186/s13742-015-0092-3"><img src="https://zenodo.org/badge/DOI/10.1186/s13742-015-0092-3.svg" alt="DOI"></a>]
