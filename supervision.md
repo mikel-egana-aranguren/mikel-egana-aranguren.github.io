@@ -17,13 +17,19 @@ I am part of the [Doctoral Programme in Informatics Engineering](https://www.ehu
 * Plataforma basada en grafos de conocimiento para la representación, explotación y publicación de datos sobre posibles conflictos de interés en Euskadi: [Transparent Relations Ontology](https://github.com/mikel-egana-aranguren/Transparent-Relations-Ontology), [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph). Presentacion sobre <a href="BilbaoDataLabGRafos.pdf">grafos de conocimiento y transparencia</a> en <a href="https://bilbaodatalab.wikitoki.org/actividad/grafos-conocimiento/"> Bilbo Data Lab, Wikitoki, 2023</a>.
 * Effective and FAIR publication of Metagenomics high volume data through Semantic Web technologies.
 * FAIR maturity of Spanish Open Data Portals: a diagnosis and future directions.
-* Knowledge Graph based Retrieval Augmented Generation (KG-RAG) for data centric architectures in enterprises.
+* GraphRAG for data centric architectures in enterprises.
 * Climate change FAIR data.
 * KGs for media information, e.g. [Grafo RTVE](https://www.rtve.es/grafo).
 * Post-colapse internet.
 * [Nanopubs](https://nanopub.net/).
 * Minorised and low resource languages and Knowledge Graphs.
-* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--) [CIDOC-CRM](https://cidoc-crm.org/).
+* Linked Open Data for Basque Cultural Heritage (e.g. [Euskadiko filmategia](https://filmoteka.eus/eu), [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/thesis.html) --Also note this thesis is Web-ready!--), [CIDOC-CRM](https://cidoc-crm.org/).
+
+Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirements, timelines, and budgets change slightly every year; always check the official call pages.
+
+- [Basque Government Predoctoral Programme](https://www.euskadi.eus/informacion/ayudas-al-personal-investigador-programa-predoctoral/web01-a3predoc/es/): 4-year predoctoral contracts with mobility and training components. Typical window: call mid-year, results in autumn. 
+- [Spain (Ministry) FPU: Academic-track fellowships (“Formación del Profesorado Universitario”)](https://www.ciencia.gob.es/Universidades/FPU.html). Merit-based, 4 years. Typical window: winter; results mid-year.  
+- [UPV/EHU funding](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/pif-upv/ehu-2025). Typical window: call mid-year.
 
 ### TFGs/GrAL-ak
 
@@ -32,7 +38,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Graph based project management tool, a simplified version of [Basecamp](https://basecamp.com/) or [JIRA](https://www.atlassian.com/software/jira) using semantic technologies: RDF and OWL for data storage, and SHACL to trigger UI elements (Link UI elements with SHACL shapes and when an element matches the shape, trigger the UI).
 * [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
-* [Anstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).
+* [Abstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
@@ -40,7 +46,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * W3C [Verifiable Credentials (VC)](https://www.w3.org/TR/vc-data-model-2.0/) and [Decentralised Identifiers (DID)](https://www.w3.org/TR/did-1.0/): [GraphDB](https://www.ontotext.com/products/graphdb/), [Veramo](https://veramo.io/), [Trinsic](https://trinsic.id/), [Hyperledger Aries](https://www.lfdecentralizedtrust.org/projects/aries).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
 * [Ontogen](https://ontogen.io/) [GraphDB](https://www.ontotext.com/products/graphdb/) connection.
-* Timeline-a sortzeko algoritmo ezberdinak onartzen dituen [Mastodon instantzia](https://mastodon.eus/).
+* Timeline-a ikusteko algoritmo ezberdinak onartzen dituen [Mastodon instantzia](https://mastodon.eus/).
 * [Sports Schema](https://sportschema.org/)-ren eraldaketa euskal kirolak kontuan hartzeko.
 * [Basque](https://www.wikifunctions.org/wiki/Wikifunctions:Catalogue/Natural_language_operations/Basque) [WikiFunctions](https://meta.wikimedia.org/wiki/Abstract_Wikipedia).
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
@@ -49,8 +55,8 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Minorised and/or low resource languages in Knowledge Graphs.
-* App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, ..
-* Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a RDF incluyendo tecnicas de NLP (Natural Language Procesing), NER (Named Entity Recognition), enlazado con [Wikidata](https://www.wikidata.org/) y creación de interfaz web.
+* App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, etc.
+* Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a Knowledge Graphs (RDF, OWL, SPARQL, SHACL) mediante LLMs, enlazado con [Wikidata](https://www.wikidata.org/). Interfaz web: visual, consultas, conversacional (RAG).
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
