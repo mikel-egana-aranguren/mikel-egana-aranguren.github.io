@@ -56,7 +56,7 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
 * Minorised and/or low resource languages in Knowledge Graphs.
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, etc.
-* Conversión de [actas del ayuntamiento de Bilbao](https://code.montera34.com/openopendata/plenosbilbao) a Knowledge Graphs (RDF, OWL, SPARQL, SHACL) mediante LLMs, enlazado con [Wikidata](https://www.wikidata.org/). Interfaz web: visual, consultas, conversacional (RAG).
+* Conversión de [actas del ayuntamiento de Bilbao](https://www.bilbao.eus/cs/Satellite?c=Page&cid=3000015482&language=es&pageid=3000015482&pagename=Bilbaonet%2FPage%2FBIO_ListadoSesionesPlenarias) a Knowledge Graphs (RDF, OWL, SPARQL, SHACL) y Vectorial mediante LLMs, enlazado con [Wikidata](https://www.wikidata.org/) y ofreciendo funcionalidad RAG. Interfaz web: visual, consultas, conversacional (ej. https://galdetuz.eu/).
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
 * Aplicaciones para el internet post-colapso.
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
