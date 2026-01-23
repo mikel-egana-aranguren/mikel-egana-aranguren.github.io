@@ -7,7 +7,7 @@ permalink: /research/
 Currently ongoing projects:
 <ul>
     <li>2024 - 2026. GAITECH, LKS-HAZITEK (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>).</li>
-	<li>2023 - 2026. BRAINMAP-REHAB (PID2023-148008OB-I00), Generación de Conocimienot 2023.</li> 
+	<li>2023 - 2026. BRAINMAP-REHAB (PID2023-148008OB-I00), Generación de Conocimiento 2023.</li> 
 	<li>2025. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
 	<li>2025. EuskoPVMap.</li>
 	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
