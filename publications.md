@@ -70,7 +70,9 @@ J.A. Miñarro-Giménez, M. Egaña Aranguren, F. García-Sánchez, J. T. Fernánd
 
 Mikel Egaña, Alan Rector, Robert Stevens, Erick Antezana. Applying Ontology Design Patterns in bio-ontologies. EKAW 2008, LNCS 5268, pp. 7-16. [<a href="https://doi.org/10.1007/978-3-540-87696-0_4">SpringerLink</a>][<a href="ekaw.pdf">pdf</a>]
 
-<h2 id="Preprints">Preprints, Workshops and other publications</h2>
+<h2 id="Preprints">Other publications (White papers, preprints, workshops, ...)</h2>
+
+Jon Marcos-Mercadé, Unai Lopez-Novoa, Mikel Egaña Aranguren. An Empirical Evaluation of Modern MLOps Frameworks. [<a href="https://arxiv.org/abs/2601.20415">Arxiv</a>][<a href="2601.20415v1.pdf">pdf</a>]
 
 Joel Garcia-Escribano, Arkaitz Carbajo, Mikel Egaña Aranguren, Unai Lopez-Novoa. Using GPT to build a Project Management assistant for Jira environments. [<a href="https://arxiv.org/abs/2509.26014">Arxiv</a>][<a href="2509.26014v1.pdf">pdf</a>]
 
