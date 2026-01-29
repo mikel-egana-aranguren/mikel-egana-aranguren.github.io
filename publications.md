@@ -8,7 +8,7 @@ permalink: /publications/
   <li><a href="#Journals">Journals</a></li>
   <li><a href="#Chapters">Chapters in books</a></li>
   <li><a href="#Conference">Conference proceedings</a></li>
-  <li><a href="#Preprints">Preprints, Workshop Proceedings and other publications</a></li>
+  <li><a href="#Preprints">Other publications</a></li>
   <li><a href="#talks">Talks</a></li>
 </ul>
 
