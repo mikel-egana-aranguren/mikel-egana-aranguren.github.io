@@ -35,9 +35,11 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 
 Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo a los principios FAIR](MikelEgaña-IkerSobron-TFG-FAIR-EHUNAM-dataset_v2).
 * Graph based project management tool, a simplified version of [Basecamp](https://basecamp.com/) or [JIRA](https://www.atlassian.com/software/jira) using semantic technologies: RDF and OWL for data storage, and SHACL to trigger UI elements (Link UI elements with SHACL shapes and when an element matches the shape, trigger the UI).
 * [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
+* LLMs for entity reconciliation and link discovery in Knowledge Graphs.
 * [Abstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
