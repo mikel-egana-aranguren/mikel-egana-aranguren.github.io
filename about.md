@@ -28,4 +28,4 @@ You can find me using other resources:
 * [Substack](https://substack.com/@mikeleganaaranguren).
 *  <a rel="me" href="https://mastodon.eus/@mikel_egana_aranguren">Mastodon</a>.
 
-[Up to date CV](https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8081-1839).
+Up to date CV: [FECYT CVN](https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8081-1839).
