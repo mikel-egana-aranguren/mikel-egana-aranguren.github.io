@@ -61,7 +61,8 @@ Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - l
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, etc.
 * Conversión de [actas del ayuntamiento de Bilbao](https://www.bilbao.eus/cs/Satellite?c=Page&cid=3000015482&language=es&pageid=3000015482&pagename=Bilbaonet%2FPage%2FBIO_ListadoSesionesPlenarias) a Knowledge Graphs (RDF, OWL, SPARQL, SHACL) y Vectorial mediante LLMs, enlazado con [Wikidata](https://www.wikidata.org/) y ofreciendo funcionalidad RAG. Interfaz web: visual, consultas, conversacional (ej. https://galdetuz.eu/).
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
-* Aplicaciones [Meshtastic](https://meshtastic.org/).
+* Aplicaciones [Meshtastic](https://meshtastic.org/). Por ejemplo 
+[Probé el ThinkNode M1: mensajes sin internet y una IA respondiendo](https://www.youtube.com/watch?v=Wi0heEcSZ2Y).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
