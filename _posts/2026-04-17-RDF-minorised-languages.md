@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "RDF, minorised languages and Ruper Ordorika"
-date: 2025-06-17
+title: "Indoeuropean supremacy in technology standards: the case of RDF"
+date: 2026-04-17
 ---
 
 [Originally post at [LinkedIn](https://www.linkedin.com/posts/mikeleganaaranguren_ruper-ordorika-zaindu-maite-duzun-hori-activity-7178108296443162624-LxYR/)]
