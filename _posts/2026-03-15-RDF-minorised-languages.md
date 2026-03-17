@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indoeuropean supremacy in technology standards: the case of RDF"
-date: 2026-04-17
+date: 2026-03-15
 ---
 
 [Originally post at [LinkedIn](https://www.linkedin.com/posts/mikeleganaaranguren_ruper-ordorika-zaindu-maite-duzun-hori-activity-7178108296443162624-LxYR/)]
