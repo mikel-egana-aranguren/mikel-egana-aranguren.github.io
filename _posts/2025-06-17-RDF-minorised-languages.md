@@ -4,7 +4,8 @@ title: "RDF, minorised languages and Ruper Ordorika"
 date: 2025-06-17
 ---
 
-(Originally posted at [LinkedIn](https://www.linkedin.com/posts/mikeleganaaranguren_ruper-ordorika-zaindu-maite-duzun-hori-activity-7178108296443162624-LxYR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGk_tsBweQ8bVNO23ZvS3woQOVkJqx6UMU))
+[Originally post at [LinkedIn](https://www.linkedin.com/posts/mikeleganaaranguren_ruper-ordorika-zaindu-maite-duzun-hori-activity-7178108296443162624-LxYR/)]
+
 
 I'm teaching about NoSQL DataBases in Spanish and Basque. As part of the course, I have to explain the RDF triple (Subject-Predicate-Object) which fits with (Indoeuropean) widely used languages like spanish, french and obviously english: for example, the sentence "I live in Madrid" ("(yo) vivo en Madrid") can be easily translated to RDF ("I"=subject; "live in"=predicate; "Madrid"=object). However, when I had to explain the same idea in the basque NoSQL class, the analogy breaks down, since in basque "I live in Madrid" would be "Ni Madrilen bizi naiz" which literally translated would equate to a Subject-Object-Predicate structure ("I Madrid(in) live"), not the hegemonical Subject-Predicate-Object.
 
@@ -12,10 +13,9 @@ So. Lets get political (I don't buy the "technical things are not political" arg
 
 End of the rant: Palestina askatu!
 
-I will leave you with the great [Ruper Ordorika](https://www.youtube.com/watch?v=UtjzB9xrwAw).
+I will leave you with the great Ruper Ordorika: [Zaindu maite duzun hori](https://www.youtube.com/watch?v=UtjzB9xrwAw). Lyrics translated by ChatGPT:
 
-Lyrics translated by ChatGPT:
-
+```
 Mature opinions, highly esteemed,
 About our country.
 In the mornings and evenings, chatting
@@ -49,3 +49,4 @@ To those in the clouds.
 Take care of the one you love.
 Take care of the one you hate.
 Take care...
+```
