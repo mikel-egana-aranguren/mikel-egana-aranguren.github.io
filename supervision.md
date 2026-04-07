@@ -33,8 +33,9 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 
 ### TFGs/GrAL-ak
 
-Ofertas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
+Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* Semantic version of [Skills specification](https://agentskills.io/specification) (RDF, OWL, SHACL).
 * [Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo a los principios FAIR](MikelEgaña-IkerSobron-TFG-FAIR-EHUNAM-dataset_v2.pdf).
 * [Openclaw](https://openclaw.ai/) memory through Knowledge Graphs.
 * Graph based project management tool, a simplified version of [Basecamp](https://basecamp.com/) or [JIRA](https://www.atlassian.com/software/jira) using semantic technologies: RDF and OWL for data storage, and SHACL to trigger UI elements (Link UI elements with SHACL shapes and when an element matches the shape, trigger the UI).
