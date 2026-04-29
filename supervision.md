@@ -35,6 +35,7 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 
 Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Nanopubs](https://nanopub.net/) generation and publication from scientific papers. The system converts the content of the PDF papers to a series of RDF Nanopublications, including the rdf:type predicates to the necessary ontologies. It then creates trusty URIs, signs the Nanopublications, checks validity, and publishes the Nanopublications to the Nanopublication network, including retrieval and verification from the registry. The whole process is codified as a set of LLM [Skills]((https://agentskills.io/specification)), which can be tuned (For example to regulate the creativity of the system when adding ontology terms). As an extra, the system might include the possibility of deploying a Nanopublications server.
 * Semantic version of [Skills specification](https://agentskills.io/specification) (RDF, OWL, SHACL).
 * BBS para poder dejar mensajes y recuperarlos en la malla MeSH de vizcaya al estilo Bolt de nodo visto.
 * [Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo a los principios FAIR](MikelEgaña-IkerSobron-TFG-FAIR-EHUNAM-dataset_v2.pdf).
@@ -47,7 +48,6 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los
 * Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
-* LLM based [Nanopubs](https://nanopub.net/) generation from scientific papers, including web publication.
 * W3C [Verifiable Credentials (VC)](https://www.w3.org/TR/vc-data-model-2.0/) and [Decentralised Identifiers (DID)](https://www.w3.org/TR/did-1.0/): [GraphDB](https://www.ontotext.com/products/graphdb/), [Veramo](https://veramo.io/), [Trinsic](https://trinsic.id/), [Hyperledger Aries](https://www.lfdecentralizedtrust.org/projects/aries).
 * [Galaxy](https://galaxyproject.org/) extension to produce [Common Workflow Language](https://www.commonwl.org/) workflows.
 * [Ontogen](https://ontogen.io/) [GraphDB](https://www.ontotext.com/products/graphdb/) connection.
