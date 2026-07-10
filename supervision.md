@@ -36,16 +36,9 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
 * [Nanopubs](https://nanopub.net/) generation and publication from scientific papers. The system converts the content of the PDF papers to a series of RDF Nanopublications, including the rdf:type predicates to the necessary ontologies. It then creates trusty URIs, signs the Nanopublications, checks validity, and publishes the Nanopublications to the Nanopublication network, including retrieval and verification from the registry. The whole process is codified as a set of LLM [Skills]((https://agentskills.io/specification)), which can be tuned (For example to regulate the creativity of the system when adding ontology terms). As an extra, the system might include the possibility of deploying a Nanopublications server.
-* Semantic version of [Skills specification](https://agentskills.io/specification) (RDF, OWL, SHACL).
-* BBS para poder dejar mensajes y recuperarlos en la malla MeSH de vizcaya al estilo Bolt de nodo visto.
-* [Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo a los principios FAIR](MikelEgaña-IkerSobron-TFG-FAIR-EHUNAM-dataset_v2.pdf).
-* [Openclaw](https://openclaw.ai/) memory through Knowledge Graphs.
 * Graph based project management tool, a simplified version of [Basecamp](https://basecamp.com/) or [JIRA](https://www.atlassian.com/software/jira) using semantic technologies: RDF and OWL for data storage, and SHACL to trigger UI elements (Link UI elements with SHACL shapes and when an element matches the shape, trigger the UI).
-* [LLMs as RDF clients](https://www.linkedin.com/pulse/large-language-models-llms-powerful-generic-rdf-clients-idehen-xwhfe/).
 * RAG, MCP, [Wikidata Vector DB](https://wd-vectordb.wmcloud.org/).
-* LLMs for entity reconciliation and link discovery in Knowledge Graphs.
 * [Abstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).
-* Asistente de carrera académica basado en Grafos y LLMS ([Talk To Your Graph](https://graphdb.ontotext.com/documentation/11.0/talk-to-graph.html)) en [GraphDB](https://www.ontotext.com/products/graphdb/).
 * Geopolitics data visualisation based on Wikidata: e.g. how many unprovoked attacks has EEUU performed and in which countries? The visualiser can be declarativelly configured to perform any SPARQL query.
 * [Shift Left Data](https://dataproducts.substack.com/p/the-shift-left-data-manifesto).
 * W3C [Verifiable Credentials (VC)](https://www.w3.org/TR/vc-data-model-2.0/) and [Decentralised Identifiers (DID)](https://www.w3.org/TR/did-1.0/): [GraphDB](https://www.ontotext.com/products/graphdb/), [Veramo](https://veramo.io/), [Trinsic](https://trinsic.id/), [Hyperledger Aries](https://www.lfdecentralizedtrust.org/projects/aries).
@@ -57,14 +50,10 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los
 * Editor de video mediante etiquetas. Interfaz que permita etiquetar personas, lugares o eventos manualmente en videos para luego extraer videos más cortos en función de las etiquetas.
 * Implementación de una plataforma colaborativa mediante [Wikibase](https://www.mediawiki.org/wiki/Wikibase) para desarrollar el [Basque Country Institutions Transparent Relations Graph](https://github.com/mikel-egana-aranguren/BasqueCountryInstitutionsTransparentRelationsGraph).
 * Concurso de aplicaciones [Open Data Euskadi](https://opendata.euskadi.eus/concursos-open-data/-/concurso-de-aplicaciones/).
-* Plataforma educativa basada en LLMs.
 * LLM-based Metadata extraction framework for [FAIR](https://www.go-fair.org/fair-principles/) Data Systems.
-* Minorised and/or low resource languages in Knowledge Graphs.
 * App para [BikePacking](https://conalforjas.com/bikepacking/): mapa, campings, diario, listas de compra, estadísticas, exportar ruta, importar ruta, etc.
 * Conversión de [actas del ayuntamiento de Bilbao](https://www.bilbao.eus/cs/Satellite?c=Page&cid=3000015482&language=es&pageid=3000015482&pagename=Bilbaonet%2FPage%2FBIO_ListadoSesionesPlenarias) a Knowledge Graphs (RDF, OWL, SPARQL, SHACL) y Vectorial mediante LLMs, enlazado con [Wikidata](https://www.wikidata.org/) y ofreciendo funcionalidad RAG. Interfaz web: visual, consultas, conversacional (ej. https://galdetuz.eu/).
 * Plugins Linked Open Data para plataforma de datos [Datasette](https://datasette.io/).
-* Aplicaciones [Meshtastic](https://meshtastic.org/). Por ejemplo 
-[Probé el ThinkNode M1: mensajes sin internet y una IA respondiendo](https://www.youtube.com/watch?v=Wi0heEcSZ2Y).
 * [Madurez FAIR de Open Data Euskadi](MikelEgana-PropuestaTFG-22-23-madurez-FAIR-OpenData_euskadi.pdf).
 * [Publication of scientific results following FAIR principles](MikelEgana-PropuestaTFG-22-23-publication-FAIR-principles.pdf).
 * [Grafo de conocimiento (KG) para relaciones transparentes en Euskadi](MikelEgaña-TFG-22-23-GrafoConocimientoRelacionesTransparentesEuskadi.pdf).
@@ -74,6 +63,11 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los
 
 TFGs (co)dirigidos:
 
+* Generación Automatizada de especificaciones de ODD y Casos de Test para sistemas críticos mediante LLMs (Junio 2026).
+* Navegación y búsqueda en knowledge graphs mediante IA (Junio 2026).
+* Captación y análisis de ataques informáticos mediante honeypots (Junio 2026).
+* RAHNA: Asistente conversacional basado en RAG para documentación industrial (Junio 2026).
+* Zero-Knowledge Proof teknologian oinarritutako Lagun Ezkutu Web Aplikazioa (2026 Ekaina).
 * Despliegue y comparativa de distribuciones kubernetes en entornos on-premise (Noviembre 2025).
 * Despliegue de una aplicación Web para la visualización de mapas con información sobre el potencial fotovoltaico en tejados (Noviembre 2025).
 * Inyección de faltas en esquemas criptográficos post cuántico (Septiembre 2025)
