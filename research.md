@@ -8,13 +8,15 @@ Currently ongoing projects:
 <ul>
     <li>2024 - 2026. GAITECH, LKS-HAZITEK (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>).</li>
 	<li>2023 - 2026. BRAINMAP-REHAB (PID2023-148008OB-I00), Generación de Conocimiento 2023.</li> 
-	<li>2025. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
-	<li>2025. EuskoPVMap.</li>
-	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
+	<li>2026 - 2028. KRYSTAL (Investigación para la evolución multietapa de la direccionalidad cristalográfica y su impacto en la fabricación de componentes críticos). ELKARTEK 2026.</li>
+
 </ul>
 
 Finished projects:
 <ul>
+   	<li>2025. Knowledge Graphs. Universidad de Murcia (UM), SIEMENS (Through <a href="http://www.euskoiker.ehu.es">Euskoiker foundation</a>). </li>
+	<li>2025. EuskoPVMap.</li>
+	<li>2025. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
 	<li>2021 - 2025. SUPPORT4LS (Process Mining and Knowledge Representation technologies to Support the Learning Health System). PID2020-113723RB-C22. Agencia Estatal de Investigación, “Proyectos I+D+i 2020” - Modalidades “Retos Investigación” y “Generación de Conocimiento” (Plan Estatal de Investigación Cientı́fica y Técnica y de Innovación 2017-2020). 136.972,00 EUR. 01/09/2021 - 31/08/2024
 	</li>
 	<li>2024. <a href="https://www.ehu.eus/eu/web/iraunkortasuna/ehukhi">EHUkhi</a>: una plataforma para el desarrollo del potencial fotovoltaico de la UPV/EHU (Campus Bizia Lab).</li>
