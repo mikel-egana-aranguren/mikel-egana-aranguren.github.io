@@ -63,6 +63,9 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los
 
 TFGs (co)dirigidos:
 
+* Prácticas de ciberseguridad aplicada y devsecops en desarrollo seguro - proyecto Eustat (Septiembre 2026).
+* Sistema de recuperación de información académica basado en GraphRAG (Septiembre 2026).
+* Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo con los principios FAIR	(Septiembre 2026).
 * Generación Automatizada de especificaciones de ODD y Casos de Test para sistemas críticos mediante LLMs (Junio 2026).
 * Navegación y búsqueda en knowledge graphs mediante IA (Junio 2026).
 * Captación y análisis de ataques informáticos mediante honeypots (Junio 2026).
