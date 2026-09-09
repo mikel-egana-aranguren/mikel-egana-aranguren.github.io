@@ -6,10 +6,10 @@ permalink: /research/
 
 Currently ongoing projects:
 <ul>
+    <li>2026 - 2028. ATHEMA HAZITEK.</li>
     <li>2024 - 2026. GAITECH, LKS-HAZITEK (Through <a href="http://www.euskoiker.ehu.es/">Euskoiker foundation</a>).</li>
 	<li>2023 - 2026. BRAINMAP-REHAB (PID2023-148008OB-I00), Generación de Conocimiento 2023.</li> 
 	<li>2026 - 2028. KRYSTAL (Investigación para la evolución multietapa de la direccionalidad cristalográfica y su impacto en la fabricación de componentes críticos). ELKARTEK 2026.</li>
-
 </ul>
 
 Finished projects:
