@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an <a href="http://go.ehu.eus/mikel-egana-aranguren">Associate Professor</a> at University of Basque Country (EHU), in the Dept. of Computer Languages and Systems, Bilbo, Basque Country (Spain).
+I am an <a href="http://go.ehu.eus/mikel-egana-aranguren">Associate Professor</a> at the University of Basque Country (EHU), in the Dept. of Computer Languages and Systems, Bilbo, Basque Country (Spain). I also belong to the <a href="https://cfaa.eus/">Aeronautics Advanced Manufacturing Center (CFAA)</a>.
 
 My research interests revolve around the idea of publishing and consuming data in an interoperable way: for example, by following FAIR principles (Findable, Accessible, Interoperable, Reusable). I am also interested in Open Data, government transparency, Knowledge Graphs, the application of LLMs (e.g. through GraphRAG and ultimately Agents), Linked Data, Semantic Web, Free Software, ontology engineering, bioinformatics, medical informatics, and minorized or low resources languages like <a href="https://en.wikipedia.org/wiki/Basque_language">basque</a>.
 
