@@ -35,6 +35,7 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 
 Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Publicación de datasets científicos del proyecto BRAINMAP (BRAIN-TECH-REHAB) de acuerdo a los principios FAIR](BRAINMAP-FAIR.pdf).
 * [Asistente conversacional para la exploración de un archivo público](ArchivoPublico.pdf) (Codirector Iñaki Miguel Aguayo, Archivo Gobierno Vasco).
 * [Omarchy](https://omarchy.org/) [plugins](https://plugins.omarchy.org/develop.html).
 * [Nanopubs](https://nanopub.net/) generation and publication from scientific papers. The system converts the content of the PDF papers to a series of RDF Nanopublications, including the rdf:type predicates to the necessary ontologies. It then creates trusty URIs, signs the Nanopublications, checks validity, and publishes the Nanopublications to the Nanopublication network, including retrieval and verification from the registry. The whole process is codified as a set of LLM [Skills]((https://agentskills.io/specification)), which can be tuned (For example to regulate the creativity of the system when adding ontology terms). As an extra, the system might include the possibility of deploying a Nanopublications server.
