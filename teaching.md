@@ -16,10 +16,6 @@ permalink: /teaching/
 
 <h2  id="upv-ehu">UPV/EHU</h2>
 
-<h3>Programazio Modularra eta Objektuetara Bideratutako Orientazioa (PMOBO)</h3>
-
-<a href="https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20240&p_ciclo=X&p_curso=1&p_cod_asignatura=26032">Praktika (EUS). 2024-2025.</a>
-
 <h3>Administración de Bases de Datos (ABD)</h3>
 
 <a href="http://go.ehu.eus/abd">Grado en Ingeniería Informática de Gestión y Sistemas de Información: Administración de Bases de Datos</a>.
@@ -65,6 +61,10 @@ Impartido el curso 2020-2021.
 <a href="https://github.com/mikel-egana-aranguren/EHU-GP-31">https://github.com/mikel-egana-aranguren/EHU-GP-31 (EUS)</a>.
 
 <a href="https://github.com/mikel-egana-aranguren/EHU-GP-01">https://github.com/mikel-egana-aranguren/EHU-GP-01 (CAST)</a>.
+
+<h3>Programazio Modularra eta Objektuetara Bideratutako Orientazioa (PMOBO)</h3>
+
+<a href="https://www.ehu.eus/es/web/graduak/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia/creditos-y-asignaturas?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20240&p_ciclo=X&p_curso=1&p_cod_asignatura=26032">Praktika (EUS). 2024-2025.</a>
 
 <h3>Semantic Biology II (3SBiology Trento 2014)</h3>
 

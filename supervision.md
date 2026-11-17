@@ -35,6 +35,7 @@ Below are common, competitive routes to fund a PhD at UPV/EHU. Exact requirement
 
 Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los TFGs se pueden realizar en euskera, inglés o castellano):
 
+* [Vault-ld](https://github.com/The-Knowledge-Graph-Guys/vault-ld) based [notes system](https://github.com/mikel-egana-aranguren/vault-ld/tree/local_test). See necessary improvements at [Good first issue](https://github.com/mikel-egana-aranguren/vault-ld/issues/1). 
 * [Publicación de datasets científicos del proyecto BRAINMAP (BRAIN-TECH-REHAB) de acuerdo a los principios FAIR](BRAINMAP-FAIR.pdf).
 * [Asistente conversacional para la exploración de un archivo público](ArchivoPublico.pdf) (Codirector Iñaki Miguel Aguayo, Archivo Gobierno Vasco).
 * [Omarchy](https://omarchy.org/) [plugins](https://plugins.omarchy.org/develop.html).
