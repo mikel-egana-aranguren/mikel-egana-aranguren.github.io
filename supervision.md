@@ -67,6 +67,7 @@ Ideas para TFGs (Si te interesa alguna ven a una tutoría y le damos forma - los
 
 TFGs (co)dirigidos:
 
+* Sistema de consultas de las actas del pleno del ayuntamiento de bilbao mediante RAG sobre Knowledge Graph e índice vectorial (Noviembre 2026).
 * Prácticas de ciberseguridad aplicada y devsecops en desarrollo seguro - proyecto Eustat (Septiembre 2026).
 * Sistema de recuperación de información académica basado en GraphRAG (Septiembre 2026).
 * Publicación de datasets sobre detección de actividad mediante WiFi de acuerdo con los principios FAIR	(Septiembre 2026).
